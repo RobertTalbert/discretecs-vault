@@ -3,7 +3,7 @@
   "custom-sort",
   "cm-editor-syntax-highlight-obsidian",
   "emoji-shortcodes",
-  "obsidian-git",
   "url-into-selection",
-  "templater-obsidian"
+  "templater-obsidian",
+  "obsidian-git"
 ]
