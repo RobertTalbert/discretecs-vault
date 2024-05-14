@@ -1,0 +1,213 @@
+{
+  "main": {
+    "id": "a762cd732aab0eb1",
+    "type": "split",
+    "children": [
+      {
+        "id": "3569ab3ec9e18711",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "519b5cfeedc83586",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Proof/Mathematical induction.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0c9453989d71de9f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Proof/Sample note.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fe940413ee953dab",
+    "type": "split",
+    "children": [
+      {
+        "id": "f8a47cc0c30955ab",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "38ae1e256bf5dea6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "422e1d20fbc7f24c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0ab48411b58a4db2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1d4ac08ade1fa34a",
+    "type": "split",
+    "children": [
+      {
+        "id": "487c2c0e96184fca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6361497831b9a676",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Proof/Mathematical induction.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "16750854c4656389",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Proof/Mathematical induction.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ad177d3520873663",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "dede0effc37337ec",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Proof/Mathematical induction.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "publish:Publish changes...": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "custom-sort:Toggle custom sorting": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "519b5cfeedc83586",
+  "lastOpenFiles": [
+    "Untitled.md",
+    "Proof/Sample note.md",
+    "Assets/Templates/Entry template.md",
+    "Proof/Mathematical induction.md",
+    "Documents/GitHub/discretecs-vault/LICENSE",
+    "Documents/GitHub/discretecs-vault",
+    "Documents/GitHub",
+    "Documents",
+    "START HERE.md",
+    "Recursion/Solution to a recurrence relation.md",
+    "Recursion/Sequence.md",
+    "Recursion/Recursion.md",
+    "Recursion/Recurrence relation.md",
+    "Recursion/Linear recurrence relation.md",
+    "Recursion/Homogeneous recurrence relation.md",
+    "Recursion/Geometric sequence.md",
+    "Recursion/Fibonacci sequence.md",
+    "Recursion/Closed formula.md",
+    "Recursion/Characteristic root method.md",
+    "Recursion/Arithmetic sequence.md",
+    "Recursion",
+    "Trees",
+    "untitled folder",
+    "Relations",
+    "Graphs",
+    "Proof",
+    "Logic/Biconditional statement.md",
+    "Logic/Exclusive OR.md",
+    "Logic/Theorem.md",
+    "Logic/Atomic and molecular propositions.md",
+    "Logic/Logical equivalence.md",
+    "Logic/DeMorgan's Laws.md",
+    "Logic/Propositions.md",
+    "Logic/Truth set.md",
+    "Logic/Existential quantifier.md",
+    "Logic/Conditional statements.md",
+    "Assets/Images/venn-diagram-of-universal-set-1627631133.png",
+    "Assets/Images/triangular-visual.png",
+    "Assets/Images/symmetric difference.png",
+    "Assets/Images/surj-not-inj.png",
+    "Assets/Images/simple-function-diagram.png",
+    "Assets/Images/set difference.png",
+    "Assets/Images/not-surj.png",
+    "Assets/Images/non-injective.png",
+    "Assets/Images/mth225-logo.png",
+    "Assets/Images/licenseplate.png"
+  ]
+}
