@@ -7,10 +7,9 @@ The articles in this vault are **linked together** like Wikipedia articles. if y
 
 In the upper right of this page, you can see an **interactive graph view** that shows the current article and its connections to others. The articles are vertices or no in the network, and there is an edge between two vertices if one article links to the other. You can use the graph of you to jump onto any connected article by simply clicking on its vertex. Vertices in the graph that are greyed out indicate articles that have not yet been written.
 
-This vault was created as a resource for students in MTH 225 and MTH 325 at [Grand Valley State University](http://gvsu.edu). It is free to use by anyone. The articles in the vault a
+This vault was created as a resource for students in MTH 225 and MTH 325 at [Grand Valley State University](http://gvsu.edu). It is free to use by anyone. The articles in the vault are designed to parallel, but not duplicate, content in the course's companion textbook, [Discrete Mathematics: An Open Introduction](https://discrete.openmathbooks.org/dmoi3.html) by [Oscar Levin](oscar.levin@unco.edu). 
 
 The articles in this vault are also available in the public GitHub repository: https://github.com/RobertTalbert/discretecs-vault. 
 
 **All files on this vault are licensed under a Creative Commons Attribution-NonCommercial 4.0 International license.** Click here for details: [https://creativecommons.org/licenses/by-nc/4.0/](https://creativecommons.org/licenses/by-nc/4.0/)
-
 The vault is maintained by [Dr. Robert Talbert](http://rtalbert.org) at Grand Valley State University. To report an issue or to suggest an addition or change to any article on the vault, please use this form: For an updated list of recent changes, please see [the GitHub repository](https://github.com/RobertTalbert/discretecs-vault).  
