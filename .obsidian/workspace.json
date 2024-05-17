@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Recursion/Sequence.md",
+                "file": "START HERE.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Recursion/Sequence.md",
+                "file": "START HERE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Recursion/Sequence.md",
+                "file": "START HERE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Recursion/Sequence.md"
+                "file": "START HERE.md"
               }
             }
           }
@@ -164,6 +164,7 @@
   },
   "active": "519b5cfeedc83586",
   "lastOpenFiles": [
+    "Recursion/Sequence.md",
     "Proof/Mathematical induction.md",
     "Untitled.md",
     "Proof/Sample note.md",
@@ -174,7 +175,6 @@
     "Documents",
     "START HERE.md",
     "Recursion/Solution to a recurrence relation.md",
-    "Recursion/Sequence.md",
     "Recursion/Recursion.md",
     "Recursion/Recurrence relation.md",
     "Recursion/Linear recurrence relation.md",
