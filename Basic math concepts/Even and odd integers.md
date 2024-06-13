@@ -2,7 +2,8 @@
 aliases:
   - even
   - odd
-tags: 
+tags:
+  - "#basic-concepts"
 created: 2024-06-13
 updated:
 ---
@@ -10,7 +11,7 @@ updated:
 ## Definition 
 
 > [!tldr] Definition
-> An integer is said to be **even** if it is a multiple of 2. That is, the integer $n$ is even if there exists another integer $k$ such that $n = 2k$. 
+> An integer is said to be **even** if it is a multiple of 2. That is, the integer $n$ is even if there exists an integer $k$ such that $n = 2k$. 
 > 
 > An integer is said to be **odd** if it is one more than a multiple of 2. That is, the integer $n$ is odd if there exists another integer $k$ such that $n = 2k+1$. 
 
@@ -27,9 +28,4 @@ Notes:
 
 ## Resources 
 
-(video)
-
-Other resources: 
-- 
-
-## Practice 
+![](https://www.youtube.com/watch?v=TQZh9yvxFSY)

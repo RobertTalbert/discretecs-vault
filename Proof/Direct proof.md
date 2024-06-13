@@ -19,6 +19,16 @@ Notes:
 
 ## Examples and Non-Examples
 
+
+> [!NOTE] Proof involving even and odd integers
+> **Prove: If $n$ is an even integer, then $n^2$ is also even. 
+> 
+> **Proof:** We use a direct proof. First assume the hypothesis: Suppose that $n$ is an [[Even and odd integers|even]] integer. We want to show that $n^2$ is even. 
+> 
+> Since $n$ is even, we can write it as $n = 2k$ where $k$ is another integer. (This is the definition of "[[even]]".) Now look at $n^2$: Since $n = 2k$, we know that $n^2 = (2k)^2$, 
+
+
+
 ## Resources 
 
 (video)

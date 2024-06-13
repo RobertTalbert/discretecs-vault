@@ -20,6 +20,37 @@
             }
           },
           {
+            "id": "8992bf4646740b96",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Basic math concepts/Even and odd integers.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bb072f33ab2245c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Proof/Mathematical induction.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "2a5909264c587107",
+        "type": "tabs",
+        "children": [
+          {
             "id": "a5c2417455e80e0c",
             "type": "leaf",
             "state": {
@@ -30,21 +61,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "8992bf4646740b96",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Even and odd.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -73,7 +91,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:basicconcepts",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,11 +108,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "1d4ac08ade1fa34a",
@@ -110,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Even and odd.md",
+                "file": "Proof/Direct proof.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Even and odd.md",
+                "file": "Proof/Direct proof.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Even and odd.md"
+                "file": "Proof/Direct proof.md"
               }
             }
           }
@@ -175,14 +195,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8992bf4646740b96",
+  "active": "a5c2417455e80e0c",
   "lastOpenFiles": [
-    "Logic/Conditional statements.md",
-    "Even and odd.md",
+    "Proof/Mathematical induction.md",
     "Proof/Direct proof.md",
+    "Basic math concepts/Even and odd integers.md",
+    "Basic math concepts",
+    "Logic/Conditional statements.md",
     "START HERE.md",
     "Recursion/Sequence.md",
-    "Proof/Mathematical induction.md",
     "Assets/Templates/Entry template.md",
     "Documents/GitHub/discretecs-vault/LICENSE",
     "Documents/GitHub/discretecs-vault",
@@ -203,7 +224,6 @@
     "untitled folder",
     "Relations",
     "Graphs",
-    "Proof",
     "Logic/Biconditional statement.md",
     "Logic/Exclusive OR.md",
     "Logic/Theorem.md",
@@ -212,7 +232,6 @@
     "Logic/DeMorgan's Laws.md",
     "Logic/Propositions.md",
     "Logic/Truth set.md",
-    "Logic/Existential quantifier.md",
     "Assets/Images/venn-diagram-of-universal-set-1627631133.png",
     "Assets/Images/triangular-visual.png",
     "Assets/Images/symmetric difference.png",
