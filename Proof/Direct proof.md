@@ -33,19 +33,20 @@ Notes:
 > 
 > **Proof:** Assume the hypothesis, which says that $a|b$ and $b|c$. Using the definition of [[Divisibility|divisibility]], we can then say that there exist integers $x$ and $y$ such that $b = ax$ and $c = by$. We want to show that $a|c$, that is, there exists an integer $z$ such that $c = az$. 
 > 
-> Since $b = ax$, we can make a substitution into $c = by$ to get $c = (ax)y$. 
+> Since $b = ax$ (we assumed this equation holds), we can make a substitution into $c = by$ (which we also assumed to hold) to get $c = (ax)y$. The [[Properties of arithmetic|associative property]] then says that $c = a(xy)$. Now since $x$ and $y$ are both integers, $xy$ is also an integer because of [[closure]]. Therefore we have shown that there is an integer, namely $xy$, such that $c$ is $a$ times that integer. Therefore $a | c$ by the definition of [[Divisibility|divisibility]]. ◾
 > 
  
 
 
-
-
-
 ## Resources 
 
-(video)
+![](https://www.youtube.com/watch?v=H8LLINU6ebY)
 
-Other resources: 
-- 
+![](https://www.youtube.com/watch?v=1tCOucLfdh0)
+
+![]()
+![](https://www.youtube.com/watch?v=0vIj582-rbQ)
+![]()
+![]()
 
 ## Practice 

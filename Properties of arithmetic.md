@@ -28,14 +28,3 @@ updated:
 Notes: 
 - Combining the distributive property with the commutative property gives an additional formulation of the distributive property: $(a+b)c = ac + bc$. 
 - There are other fundamental properties of the integers such as the existence of additive inverses; this article focuses only on the three properties used most commonly in [[Proof|proofs]]. 
-
-## Examples and Non-Examples
-
-## Resources 
-
-(video)
-
-Other resources: 
-- 
-
-## Practice 

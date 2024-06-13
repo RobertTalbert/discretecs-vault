@@ -30,3 +30,4 @@ Notes:
 ## Resources 
 
 ![](https://www.youtube.com/watch?v=K2YmMpulFA4)
+![](https://www.youtube.com/watch?v=dIfpZzX7bKo)

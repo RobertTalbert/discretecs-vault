@@ -80,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       },
       {
         "id": "2a5909264c587107",
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Properties of arithmetic.md",
+                "file": "Proof/Direct proof.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Properties of arithmetic.md",
+                "file": "Proof/Direct proof.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Properties of arithmetic.md"
+                "file": "Proof/Direct proof.md"
               }
             }
           }
@@ -231,11 +231,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "72a2e6769a8f4b15",
+  "active": "a5c2417455e80e0c",
   "lastOpenFiles": [
-    "Properties of arithmetic.md",
-    "Proof/Direct proof.md",
     "Divisibility.md",
+    "Proof/Direct proof.md",
+    "Properties of arithmetic.md",
     "Computer Arithmetic/The division algorithm.md",
     "Closure of the integers.md",
     "Proof/Mathematical induction.md",
