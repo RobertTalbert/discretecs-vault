@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "310ecf6f0cbf93a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Closure of the integers.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "2a5909264c587107",
@@ -130,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Proof/Direct proof.md",
+                "file": "Closure of the integers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Proof/Direct proof.md",
+                "file": "Closure of the integers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Proof/Direct proof.md"
+                "file": "Closure of the integers.md"
               }
             }
           }
@@ -195,10 +207,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a5c2417455e80e0c",
+  "active": "310ecf6f0cbf93a3",
   "lastOpenFiles": [
-    "Proof/Mathematical induction.md",
+    "Closure of the integers.md",
     "Proof/Direct proof.md",
+    "Proof/Mathematical induction.md",
     "Basic math concepts/Even and odd integers.md",
     "Basic math concepts",
     "Logic/Conditional statements.md",
