@@ -66,9 +66,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "72a2e6769a8f4b15",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Properties of arithmetic.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       },
       {
         "id": "2a5909264c587107",
@@ -154,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Divisibility.md",
+                "file": "Properties of arithmetic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Divisibility.md",
+                "file": "Properties of arithmetic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Divisibility.md"
+                "file": "Properties of arithmetic.md"
               }
             }
           }
@@ -219,11 +231,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9f83c5cd043a516a",
+  "active": "72a2e6769a8f4b15",
   "lastOpenFiles": [
-    "Computer Arithmetic/The division algorithm.md",
-    "Divisibility.md",
+    "Properties of arithmetic.md",
     "Proof/Direct proof.md",
+    "Divisibility.md",
+    "Computer Arithmetic/The division algorithm.md",
     "Closure of the integers.md",
     "Proof/Mathematical induction.md",
     "Basic math concepts/Even and odd integers.md",
@@ -256,7 +269,6 @@
     "Logic/Theorem.md",
     "Logic/Atomic and molecular propositions.md",
     "Logic/Logical equivalence.md",
-    "Logic/DeMorgan's Laws.md",
     "Assets/Images/venn-diagram-of-universal-set-1627631133.png",
     "Assets/Images/triangular-visual.png",
     "Assets/Images/symmetric difference.png",

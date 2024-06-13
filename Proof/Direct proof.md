@@ -27,7 +27,16 @@ Notes:
 > 
 > Since $n$ is even, we can write it as $n = 2k$ where $k$ is another integer. (This is the definition of "[[even]]".) Now look at $n^2$: Since $n = 2k$, we know that $n^2 = (2k)^2$, which means $n^2 = 4k^2$ (using basic algebra to expand $(2k)^2$). We can factor off a $2$ from this to get $n^2 = 2(2k^2)$. Now since $k$ is an integer, $k^2$ is also an integer because of [[Closure of the integers|closure]]; and therefore $2k^2$ is an integer also because of [[Closure of the integers|closure]]. Therefore we have shown there exists an integer, namely $2k^2$, such that $n^2$ is 2 times that integer. This shows that $n^2$ is even, which is what we wanted to show. ◾
 
-˜
+
+> [!NOTE] Proof involving [[Divisibility|divisibility]]
+> **Prove: If $a,b,$ and $c$ are integers and $a|b$ and $b|c$, then $a|c$.** 
+> 
+> **Proof:** Assume the hypothesis, which says that $a|b$ and $b|c$. Using the definition of [[Divisibility|divisibility]], we can then say that there exist integers $x$ and $y$ such that $b = ax$ and $c = by$. We want to show that $a|c$, that is, there exists an integer $z$ such that $c = az$. 
+> 
+> Since $b = ax$, we can make a substitution into $c = by$ to get $c = (ax)y$. 
+> 
+ 
+
 
 
 
