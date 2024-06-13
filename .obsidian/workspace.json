@@ -35,12 +35,16 @@
             "id": "8992bf4646740b96",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Even and odd.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -106,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Proof/Direct proof.md",
+                "file": "Even and odd.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Proof/Direct proof.md",
+                "file": "Even and odd.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Proof/Direct proof.md"
+                "file": "Even and odd.md"
               }
             }
           }
@@ -171,14 +175,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a5c2417455e80e0c",
+  "active": "8992bf4646740b96",
   "lastOpenFiles": [
-    "Logic/Conditional statements.md",
+    "Even and odd.md",
     "Proof/Direct proof.md",
+    "Logic/Conditional statements.md",
     "START HERE.md",
     "Recursion/Sequence.md",
     "Proof/Mathematical induction.md",
-    "Untitled.md",
     "Assets/Templates/Entry template.md",
     "Documents/GitHub/discretecs-vault/LICENSE",
     "Documents/GitHub/discretecs-vault",
