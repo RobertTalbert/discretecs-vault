@@ -33,16 +33,9 @@ Notes:
 > 
 > **Proof:** Assume the hypothesis, which says that $a|b$ and $b|c$. Using the definition of [[Divisibility|divisibility]], we can then say that there exist integers $x$ and $y$ such that $b = ax$ and $c = by$. We want to show that there is an integer $z$ such that $c = az$.
 > 
+> Since $b = ax$ (which we assumed to be true) we can make a substitution into $c = by$ (which we also assumed to be true) to get $c = (ax)y$. The [[Properties of arithmetic|associative property]] then says that $c = a(xy)$. Since $x$ and $y$ are integers, by [[Closure of the integers|closure]] so is $xy$. Therefore we have an integer $z = xy$ such that $c = az$. Therefore $a|c$. ◾
+
  
-
-
-
-
-> Since $b = ax$ (wemake a substitution into $c = b[](Divis) to get $c = (ax)y$. The [[Properties of arithmetic|associative property]] then says that $c = a(xy)$. Now since $x$ and $y$ are both integers, $xy$ is also an integer because of [[closure]]. Therefore we have shown that there is an integer $z$, namely $z= xy$, such that $c$ is $a$ times that integer. Therefore $a | c$ by the definition of [[Divisibility|divisibility]]. ◾
-> 
- 
-
-
 ## Resources 
 
 ![](https://www.youtube.com/watch?v=H8LLINU6ebY)
