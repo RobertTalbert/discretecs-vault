@@ -4,8 +4,8 @@ aliases:
 tags:
   - proof
 created: 2024-06-13
-updated:
 ---
+
 ---
 ## Definition 
 
@@ -31,9 +31,14 @@ Notes:
 > [!NOTE] Proof involving [[Divisibility|divisibility]]
 > **Prove: If $a,b,$ and $c$ are integers and $a|b$ and $b|c$, then $a|c$.** 
 > 
-> **Proof:** Assume the hypothesis, which says that $a|b$ and $b|c$. Using the definition of [[Divisibility|divisibility]], we can then say that there exist integers $x$ and $y$ such that $b = ax$ and $c = by$. We want to show that $a|c$, that is, there exists an integer $z$ such that $c = az$. 
+> **Proof:** Assume the hypothesis, which says that $a|b$ and $b|c$. Using the definition of [[Divisibility|divisibility]], we can then say that there exist integers $x$ and $y$ such that $b = ax$ and $c = by$. We want to show that there is an integer $z$ such that $c = az$.
 > 
-> Since $b = ax$ (we assumed this equation holds), we can make a substitution into $c = by$ (which we also assumed to hold) to get $c = (ax)y$. The [[Properties of arithmetic|associative property]] then says that $c = a(xy)$. Now since $x$ and $y$ are both integers, $xy$ is also an integer because of [[closure]]. Therefore we have shown that there is an integer, namely $xy$, such that $c$ is $a$ times that integer. Therefore $a | c$ by the definition of [[Divisibility|divisibility]]. ◾
+ 
+
+
+
+
+> Since $b = ax$ (wemake a substitution into $c = b[](Divis) to get $c = (ax)y$. The [[Properties of arithmetic|associative property]] then says that $c = a(xy)$. Now since $x$ and $y$ are both integers, $xy$ is also an integer because of [[closure]]. Therefore we have shown that there is an integer $z$, namely $z= xy$, such that $c$ is $a$ times that integer. Therefore $a | c$ by the definition of [[Divisibility|divisibility]]. ◾
 > 
  
 
@@ -45,8 +50,7 @@ Notes:
 ![](https://www.youtube.com/watch?v=1tCOucLfdh0)
 
 ![]()
-![](https://www.youtube.com/watch?v=0vIj582-rbQ)
-![]()
-![]()
+There are a lot more videos with proof examples at the [Grand Valley State University Communicating in Mathematics playlist](https://www.youtube.com/playlist?list=PL2419488168AE7001). 
 
-## Practice 
+
+

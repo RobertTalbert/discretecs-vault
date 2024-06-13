@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Closure of the integers.md",
+                "file": "Basic math concepts/Closure of the integers.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Divisibility.md",
+                "file": "Basic math concepts/Divisibility.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,14 +73,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Properties of arithmetic.md",
+                "file": "Basic math concepts/Properties of arithmetic.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       },
       {
         "id": "2a5909264c587107",
@@ -144,13 +144,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "1d4ac08ade1fa34a",
@@ -233,11 +231,11 @@
   },
   "active": "a5c2417455e80e0c",
   "lastOpenFiles": [
-    "Divisibility.md",
+    "Basic math concepts/Properties of arithmetic.md",
     "Proof/Direct proof.md",
-    "Properties of arithmetic.md",
+    "Basic math concepts/Divisibility.md",
     "Computer Arithmetic/The division algorithm.md",
-    "Closure of the integers.md",
+    "Basic math concepts/Closure of the integers.md",
     "Proof/Mathematical induction.md",
     "Basic math concepts/Even and odd integers.md",
     "Basic math concepts",
