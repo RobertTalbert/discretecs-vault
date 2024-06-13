@@ -13,13 +13,34 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "START HERE.md",
+                "file": "Logic/Conditional statements.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "a5c2417455e80e0c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Proof/Direct proof.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8992bf4646740b96",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "START HERE.md",
+                "file": "Proof/Direct proof.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "START HERE.md",
+                "file": "Proof/Direct proof.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "START HERE.md"
+                "file": "Proof/Direct proof.md"
               }
             }
           }
@@ -150,9 +171,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "519b5cfeedc83586",
+  "active": "a5c2417455e80e0c",
   "lastOpenFiles": [
-    "Proof/Sample note.md",
+    "Logic/Conditional statements.md",
+    "Proof/Direct proof.md",
     "START HERE.md",
     "Recursion/Sequence.md",
     "Proof/Mathematical induction.md",
@@ -187,7 +209,6 @@
     "Logic/Propositions.md",
     "Logic/Truth set.md",
     "Logic/Existential quantifier.md",
-    "Logic/Conditional statements.md",
     "Assets/Images/venn-diagram-of-universal-set-1627631133.png",
     "Assets/Images/triangular-visual.png",
     "Assets/Images/symmetric difference.png",
