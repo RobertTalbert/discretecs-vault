@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9ac2861f58ba3f58",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Indirect proof.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Proof/Proof by contraposition.md",
+                "file": "Indirect proof.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Proof/Proof by contraposition.md",
+                "file": "Indirect proof.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Proof/Proof by contraposition.md"
+                "file": "Indirect proof.md"
               }
             }
           }
@@ -163,10 +175,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e60f2bd270776846",
+  "active": "9ac2861f58ba3f58",
   "lastOpenFiles": [
-    "Proof/Direct proof.md",
     "Proof/Proof by contraposition.md",
+    "Indirect proof.md",
+    "Proof/Direct proof.md",
     "Logic/Conditional statements.md",
     "START HERE.md",
     "Basic math concepts/Properties of arithmetic.md",
@@ -200,7 +213,6 @@
     "Logic/Biconditional statement.md",
     "Logic/Exclusive OR.md",
     "Logic/Theorem.md",
-    "Logic/Atomic and molecular propositions.md",
     "Assets/Images/venn-diagram-of-universal-set-1627631133.png",
     "Assets/Images/triangular-visual.png",
     "Assets/Images/symmetric difference.png",
