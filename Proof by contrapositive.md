@@ -20,7 +20,12 @@ Notes:
 
 ## Examples 
 
+**Prove: For any integer $n$, if $n^2$ is even, then $n$ is even.**
 
+Note: This would be a difficult statement to prove with a [[Direct proof|direct proof]]. We would first assume that $n^2$ is even, then we would need to prove that $n$ is even. But there is no obvious way to start with information about $n^2$ and conclude information about $n$, other than taking a square root, which introduces a complicated operation into the picture. It's much simpler to prove the contrapositive. 
+
+**Proof:** We will prove the contrapositive instead, which states: *If $n$ is odd, then $n^2$ is odd.* So assume that $n$ is [[Even and odd integers|odd]], which means $n = 2k+1$ for some integer $k$. We want to show that $n^2$ is also odd, that is, $n^2 = 2q + 1$ for some integer $q$. Use basic algebra to compute $n^2$: 
+$$n^2 = (2k+1)^2 = 4k^2 + 4k + 1 = 2(2k^2 + 2k) + 1$$ Since $k$ is an integer, so is $2k^2 + 2k$ by [[Closure of the integers|closure]]. 
 
 ## Resources 
 
