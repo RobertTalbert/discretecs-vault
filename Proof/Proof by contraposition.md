@@ -33,7 +33,7 @@ Notes:
 
 > [!NOTE] Proof involving an inequality 
 > 
-> **Prove: For any real number $x$, if $x^3 - x > 0$ then $x > -1$. 
+> **Prove: For any real number $x$, if $x^3 - x > 0$ then $x > -1$.**
 > 
 > Note: Again, a [[Direct proof|direct proof]] presents some tactical difficulties here. We would have to assume that $x^3 - x > 0$ and then prove somehow that $x > -1$. This would involve relatively complex algebra reasoning, perhaps by factoring $x^3 - x$ into $x(x+1)(x-1)$ and then explaining why, if this expression is positive, that $x$ itself must be larger than $-1$. It seems simpler to start with simple information and work forward. 
 > 

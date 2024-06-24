@@ -26,6 +26,15 @@ Notes:
 
 ## Examples
 
+**Prove: For any real number $x$, if $x^3 - x > 0$ then $x > -1$.
+
+Note: This statement was proven using [[Proof by contraposition|proof by contraposition]] in another article. You can compare the two proofs and see which one seems simpler and easier to understand. Both are valid. 
+
+**Proof:** We use an indirect proof here. So for the sake of finding a contradiction, assume that $x^3 - x > 0$ but also that $x \leq -1$. 
+
+Using algebra, factor $x^3 - x$ into $x(x+1)(x-1)$. We have assumed that $x(x+1)(x-1) > 0$. Now we have also assumed that $x \leq -1$, so the first and third terms of the expression on the left are both negative, so their product is positive. Therefore since $x(x+1)(x-1) > 0$, it must be that $x + 1 > 0$. This means that $x > -1$. But this contradicts the second assumption that $x \leq -1$. Therefore 
+
+
 
 
 > [!NOTE] Proof about non-existence
