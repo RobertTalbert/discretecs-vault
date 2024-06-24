@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Proof by contrapositive.md",
+                "file": "Proof/Proof by contraposition.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Proof by contrapositive.md",
+                "file": "Proof/Proof by contraposition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Proof by contrapositive.md",
+                "file": "Proof/Proof by contraposition.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Proof by contrapositive.md"
+                "file": "Proof/Proof by contraposition.md"
               }
             }
           }
@@ -166,7 +166,7 @@
   "active": "e60f2bd270776846",
   "lastOpenFiles": [
     "Proof/Direct proof.md",
-    "Proof by contrapositive.md",
+    "Proof/Proof by contraposition.md",
     "Logic/Conditional statements.md",
     "START HERE.md",
     "Basic math concepts/Properties of arithmetic.md",
