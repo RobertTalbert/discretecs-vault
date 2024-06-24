@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Indirect proof.md",
+                "file": "Proof/Indirect proof.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Indirect proof.md",
+                "file": "Proof/Indirect proof.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Indirect proof.md",
+                "file": "Proof/Indirect proof.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Indirect proof.md"
+                "file": "Proof/Indirect proof.md"
               }
             }
           }
@@ -178,7 +178,7 @@
   "active": "9ac2861f58ba3f58",
   "lastOpenFiles": [
     "Proof/Proof by contraposition.md",
-    "Indirect proof.md",
+    "Proof/Indirect proof.md",
     "Proof/Direct proof.md",
     "Logic/Conditional statements.md",
     "START HERE.md",

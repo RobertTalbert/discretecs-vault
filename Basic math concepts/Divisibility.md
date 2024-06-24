@@ -25,7 +25,7 @@ Notes:
 * However $10 \nmid 25$ because when dividing $25$ by $10$ we get a nonzero remainder. 
 * We can apply the definition of divisibility to situations where long division doesn't readily apply, for example with negative numbers: We see that $-12 | -48$ because $-48 = 4(-12)$. 
 * The number $0$ is divisible by every other integer. Let $a$ be any integer whatsoever. Then $0 = 0\cdot a$, which by definition says that $a | 0$. (This is true even if $a = 0$ itself!)
-* However, $0$ does not divide any integer except $0$ itself. If $b$ were an integer and $0 | b$, then there would have to be another integer $q$ such that $b = q \cdot 0$. But if $b$ is nonzero, this is impossible because the right side of that equation always equals $0$. (This is an example of an [[indirect proof]].)
+* However, $0$ does not divide any integer except $0$ itself. If $b$ were an integer and $0 | b$, then there would have to be another integer $q$ such that $b = q \cdot 0$. But if $b$ is nonzero, this is impossible because the right side of that equation always equals $0$. (This is an example of an [[Indirect proof]].)
 
 ## Resources 
 

@@ -37,6 +37,8 @@ Notes:
 > 
 > Note: Again, a [[Direct proof|direct proof]] presents some tactical difficulties here. We would have to assume that $x^3 - x > 0$ and then prove somehow that $x > -1$. This would involve relatively complex algebra reasoning, perhaps by factoring $x^3 - x$ into $x(x+1)(x-1)$ and then explaining why, if this expression is positive, that $x$ itself must be larger than $-1$. It seems simpler to start with simple information and work forward. 
 > 
+> An alternative proof of this statement using [[Indirect proof|indirect proof]] is shown in the article at the link. 
+> 
 > **Proof:** We will prove the contrapositive instead, which states: *If $x \leq -1$, then $x^3-x \leq 0$.* So, assume that $x \leq -1$. We want to show that $x^3 - x \leq 0$. Note that by factoring, we have $x^3 - x = x(x+1)(x-1)$. Given that $x \leq -1$, we know that the first and third terms  of this expression ($x$ and $x-1$) are both negative, so their product is positive. Therefore the sign of the entire expression is simply the sign of the middle term, $x+1$. If $x = -1$ then this is zero; if $x < -1$ then the sign of $x+1$ is negative. In either case the middle term, and therefore the entire expression, is less than or equal to zero. ◼
 
 ## Resources 
