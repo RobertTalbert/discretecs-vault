@@ -92,7 +92,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Proof/Direct proof.md",
+                "file": "START HERE.md",
                 "mode": "source",
                 "source": false
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Proof/Direct proof.md",
+                "file": "START HERE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Proof/Direct proof.md",
+                "file": "START HERE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Proof/Direct proof.md"
+                "file": "START HERE.md"
               }
             }
           }
@@ -231,8 +231,8 @@
   },
   "active": "a5c2417455e80e0c",
   "lastOpenFiles": [
-    "Basic math concepts/Properties of arithmetic.md",
     "Proof/Direct proof.md",
+    "Basic math concepts/Properties of arithmetic.md",
     "Basic math concepts/Divisibility.md",
     "Computer Arithmetic/The division algorithm.md",
     "Basic math concepts/Closure of the integers.md",
