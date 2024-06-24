@@ -13,92 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logic/Conditional statements.md",
+                "file": "Proof/Direct proof.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "8992bf4646740b96",
+            "id": "e60f2bd270776846",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Basic math concepts/Even and odd integers.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bb072f33ab2245c1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Proof/Mathematical induction.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "310ecf6f0cbf93a3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Basic math concepts/Closure of the integers.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9f83c5cd043a516a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Basic math concepts/Divisibility.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "72a2e6769a8f4b15",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Basic math concepts/Properties of arithmetic.md",
+                "file": "Proof by contrapositive.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
-      },
-      {
-        "id": "2a5909264c587107",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "a5c2417455e80e0c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "START HERE.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -164,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "START HERE.md",
+                "file": "Proof by contrapositive.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "START HERE.md",
+                "file": "Proof by contrapositive.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "START HERE.md"
+                "file": "Proof by contrapositive.md"
               }
             }
           }
@@ -229,9 +163,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a5c2417455e80e0c",
+  "active": "e60f2bd270776846",
   "lastOpenFiles": [
     "Proof/Direct proof.md",
+    "Proof by contrapositive.md",
+    "Logic/Conditional statements.md",
+    "START HERE.md",
     "Basic math concepts/Properties of arithmetic.md",
     "Basic math concepts/Divisibility.md",
     "Computer Arithmetic/The division algorithm.md",
@@ -239,8 +176,6 @@
     "Proof/Mathematical induction.md",
     "Basic math concepts/Even and odd integers.md",
     "Basic math concepts",
-    "Logic/Conditional statements.md",
-    "START HERE.md",
     "Recursion/Sequence.md",
     "Assets/Templates/Entry template.md",
     "Documents/GitHub/discretecs-vault/LICENSE",
@@ -266,7 +201,6 @@
     "Logic/Exclusive OR.md",
     "Logic/Theorem.md",
     "Logic/Atomic and molecular propositions.md",
-    "Logic/Logical equivalence.md",
     "Assets/Images/venn-diagram-of-universal-set-1627631133.png",
     "Assets/Images/triangular-visual.png",
     "Assets/Images/symmetric difference.png",
