@@ -15,6 +15,8 @@ aliases:
   - Edges
   - Vertices
   - Nodes
+  - adjacent
+  - Adjacent
 tags:
   - graphs
 created: 2024-07-01
@@ -26,7 +28,7 @@ updated:
 > [!tldr] Definition
 > A **graph** is a pair of [[Set|sets]]: 
 > 1. A nonempty set called the **vertex set**, whose elements we call **vertices** or **nodes**. 
-> 2. A (possibly empty) set called the **edge set**, whose elements we call **edges**, where each edge is a [[Subset|subset]] of the vertex set that contains exactly two elements (called the **endpoints** of the edge). 
+> 2. A (possibly empty) set called the **edge set**, whose elements we call **edges**, where each edge is a [[Subset|subset]] of the vertex set that contains exactly two elements, called the **endpoints** of the edge. If two vertices are endpoints of an edge, we say that they are **adjacent** vertices.  
 >    
 >  We often use $G = (V,E)$ to denote a graph whose name is $G$, whose vertex set is $V$, and whose edge set is $E$. 
 
@@ -44,18 +46,16 @@ Notes:
 ![[Pasted image 20240701120930.png|300]]
 
 Note that there are five vertices and 10 edges, one edge between every pair of different vertices. In notation, this graph is $G = (V,E)$ where $V = \{1,2,3,4,5\}$ (the vertices) and $E = \{\{1,2\}, \{1,3\}, \{1,4\}, \{1,5\}. \{2,3\}, \{2,4\}, \{2,5\}, \{3,4\}, \{3,5\}, \{4,5\}\}$. (This graph is called the [[complete graph]] on five vertices.)
-- There can only be at most one edge between any two distinct vertices in a graph; two different vertices cannot be connected by two or more edges. (Graph-like structures that allow for multiple edges between the same two vertices are called [[multigraphs]].)
-- 
 - Not every vertex in a graph needs to be the endpoint of an edge. Consider $G = (\{1,2,3\}, \{1,2\})$ for example which has three vertices but only one edge, whose endpoints are $1$ and $2$. 
 ![[Pasted image 20240701121143.png|400]]
 - While every graph must have at least one vertex according to the definition, the edge set can be empty. For example $G= (\{1,2,3\}, \emptyset)$ has three vertices but no edges. Its visualization would just be three dots with no line segments. 
+- There can only be at most one edge between any two distinct vertices in a graph; two different vertices cannot be connected by two or more edges. (Graph-like structures that allow for multiple edges between the same two vertices are called [[multigraphs]].) This is because in the definition, the edges are a set of two-element sets, and the same two-element set cannot happen twice. 
+- An edge cannot connect a vertex to itself, forming a loop. This because each edge is actually a two-element subset of the vertices, and the same vertex cannot appear twice. 
 
 
 ## Resources 
 
-(video)
+![](https://youtu.be/LFKZLXVO-Dg?si=BhIg-L3DFBRzNXwL)
 
-Other resources: 
-- 
+![](https://youtu.be/hBZmet_alwE?si=BCwuf5-1RlCfRuSh)
 
-## Practice 
