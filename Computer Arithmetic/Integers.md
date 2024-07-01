@@ -1,5 +1,9 @@
 ---
-aliases: [integer, whole number, whole numbers]
+aliases:
+  - integer
+  - whole number
+  - whole numbers
+  - integers
 ---
 #computer-arithmetic
 ## Definition 
