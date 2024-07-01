@@ -29,13 +29,27 @@ math.ceil(3.4)
 # Result: 4
 ```
 
-## Examples and Non-Examples
+* In *Mathematica*, the floor and ceiling functions are `Floor` and `Ceiling`: 
+```mathematica
+Floor[-4.5]
+> -5
+
+Ceiling[-4.5]
+>
+```
+## Examples 
+
+|  Expression to evaluate   | Result                                   |
+| :-----------------------: | ---------------------------------------- |
+|   $\lfloor 3.4 \rfloor$   | $3$                                      |
+|    $\lceil 3.4 \rceil$    | $4$                                      |
+| $\lfloor 3.99999\rfloor$  | $3$                                      |
+| $\lceil 3.0000001 \rceil$ | $4$                                      |
+|    $\lfloor 5 \rfloor$    | $5$                                      |
+|  $\lfloor -4.3 \rfloor$   | $-5$ (go down to the next lower integer) |
+|   $\lceil -5.6 \rceil$    | $-5$ (go up to the next higher integer)  |
 
 ## Resources 
 
-(video)
+![](https://youtu.be/wIbM2nece9s?si=gU5nbc5njdmFX30T)
 
-Other resources: 
-- 
-
-## Practice 

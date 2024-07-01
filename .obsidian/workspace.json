@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Floor and ceiling functions.md",
+                "file": "Basic math concepts/Floor and ceiling functions.md",
                 "mode": "source",
                 "source": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Floor and ceiling functions.md",
+                "file": "Basic math concepts/Floor and ceiling functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Floor and ceiling functions.md",
+                "file": "Basic math concepts/Floor and ceiling functions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Floor and ceiling functions.md"
+                "file": "Basic math concepts/Floor and ceiling functions.md"
               }
             }
           }
@@ -223,10 +223,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8b5506f36e7a3d61",
+  "active": "38ae1e256bf5dea6",
   "lastOpenFiles": [
     "Computer Arithmetic/Integers.md",
-    "Floor and ceiling functions.md",
+    "Basic math concepts/Floor and ceiling functions.md",
     "Graphs/Graph.md",
     "Graphs/Representations of graphs.md",
     "Assets/Pasted image 20240701121143.png",
