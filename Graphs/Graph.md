@@ -31,9 +31,8 @@ updated:
 >  We often use $G = (V,E)$ to denote a graph whose name is $G$, whose vertex set is $V$, and whose edge set is $E$. 
 
 Notes: 
-- The definition of a graph is rather abstract because we want room to represent graphs in different ways: both visually, and as pure data structures in several different forms. 
+- The definition of a graph is rather abstract because we want room to represent graphs in different ways: both visually, and as pure data structures in several different forms. See  [[Representations of graphs]] for more. 
 - Note that the edge set of a graph is a set, whose elements are also sets -- namely, two-element subsets of the vertices. 
-
 
 ## Examples 
 
@@ -42,11 +41,14 @@ Notes:
 
 - When visualized in this way -- with each vertex shown as a point and each edge shown as a line segment between its endpoints -- graphs are representations of *networks*. 
 - Consider the following visualization of a graph: 
-![[Pasted image 20240701120930.png|400]]
+![[Pasted image 20240701120930.png|300]]
 
 Note that there are five vertices and 10 edges, one edge between every pair of different vertices. In notation, this graph is $G = (V,E)$ where $V = \{1,2,3,4,5\}$ (the vertices) and $E = \{\{1,2\}, \{1,3\}, \{1,4\}, \{1,5\}. \{2,3\}, \{2,4\}, \{2,5\}, \{3,4\}, \{3,5\}, \{4,5\}\}$. (This graph is called the [[complete graph]] on five vertices.)
-- Not every vertex in a graph needs to be the endpoint of an edge. Consider $G = (\{1,2,3\}, \{1,2\})$ for example which has three vertices but only one edge, whose endpoints are $1$ and $2$: 
+- There can only be at most one edge between any two distinct vertices in a graph; two different vertices cannot be connected by two or more edges. (Graph-like structures that allow for multiple edges between the same two vertices are called [[multigraphs]].)
 - 
+- Not every vertex in a graph needs to be the endpoint of an edge. Consider $G = (\{1,2,3\}, \{1,2\})$ for example which has three vertices but only one edge, whose endpoints are $1$ and $2$. 
+![[Pasted image 20240701121143.png|400]]
+- While every graph must have at least one vertex according to the definition, the edge set can be empty. For example $G= (\{1,2,3\}, \emptyset)$ has three vertices but no edges. Its visualization would just be three dots with no line segments. 
 
 
 ## Resources 

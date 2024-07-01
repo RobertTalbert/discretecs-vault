@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3d9dcf49b6ae5c0c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Graphs/Graph.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -187,12 +199,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5415e4d8108c383b",
+  "active": "3d9dcf49b6ae5c0c",
   "lastOpenFiles": [
+    "Graphs/Representations of graphs.md",
+    "Graphs/Graph.md",
+    "Assets/Pasted image 20240701121143.png",
     "Assets/Pasted image 20240701120930.png",
     "Assets/Pasted image 20240701115858.png",
     "Proof/Indirect proof.md",
-    "Graphs/Graph.md",
     "Proof/Proof by contraposition.md",
     "Proof/Direct proof.md",
     "Logic/Conditional statements.md",
@@ -232,8 +246,6 @@
     "Assets/Images/surj-not-inj.png",
     "Assets/Images/simple-function-diagram.png",
     "Assets/Images/set difference.png",
-    "Assets/Images/not-surj.png",
-    "Assets/Images/non-injective.png",
-    "Assets/Images/mth225-logo.png"
+    "Assets/Images/not-surj.png"
   ]
 }
