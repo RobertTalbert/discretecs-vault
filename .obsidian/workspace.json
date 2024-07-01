@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5415e4d8108c383b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Graph.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Proof/Indirect proof.md",
+                "file": "Graph.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Proof/Indirect proof.md",
+                "file": "Graph.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Proof/Indirect proof.md"
+                "file": "Graph.md"
               }
             }
           }
@@ -175,9 +187,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9ac2861f58ba3f58",
+  "active": "5415e4d8108c383b",
   "lastOpenFiles": [
     "Proof/Indirect proof.md",
+    "Graph.md",
     "Proof/Proof by contraposition.md",
     "Proof/Direct proof.md",
     "Logic/Conditional statements.md",
@@ -212,7 +225,6 @@
     "Graphs",
     "Logic/Biconditional statement.md",
     "Logic/Exclusive OR.md",
-    "Logic/Theorem.md",
     "Assets/Images/venn-diagram-of-universal-set-1627631133.png",
     "Assets/Images/triangular-visual.png",
     "Assets/Images/symmetric difference.png",
