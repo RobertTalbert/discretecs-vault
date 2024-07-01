@@ -20,9 +20,12 @@ updated:
 Notes: 
 - The definition of a graph is rather abstract because we want room to represent graphs in different ways: both visually, and as pure data structures in several different forms. 
 - Note that the edge set of a graph is a set, whose elements are also sets -- namely, two-element subsets of the vertices. 
-- 
+
 
 ## Examples and Non-Examples
+
+- Consider the graph $G = (\{a,b,c,d\}, \{\{a,c\}, \{a,d\}, \{d,c\}, \{a,b\}\})$. Note that this is a pair of sets, enclosed in parentheses. The first element of the pair is the set $\{a,b,c,d\}$, and these are the vertices. The second 
+
 
 ## Resources 
 
