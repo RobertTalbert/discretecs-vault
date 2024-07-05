@@ -56,42 +56,6 @@
             }
           },
           {
-            "id": "3d9dcf49b6ae5c0c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Graphs/Graph.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8b5506f36e7a3d61",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Basic math concepts/Floor and ceiling functions.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1cb780dec299020f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Arithmetic/Integers.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "e73ac7ca09792634",
             "type": "leaf",
             "state": {
@@ -104,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -237,11 +201,12 @@
   },
   "active": "e73ac7ca09792634",
   "lastOpenFiles": [
-    "Proof/Direct proof.md",
+    "Graphs/Graph.md",
     "Subgraph.md",
+    "Assets/k5.png",
+    "Proof/Direct proof.md",
     "Computer Arithmetic/Integers.md",
     "Basic math concepts/Floor and ceiling functions.md",
-    "Graphs/Graph.md",
     "Graphs/Representations of graphs.md",
     "Assets/Pasted image 20240701121143.png",
     "Assets/Pasted image 20240701120930.png",
@@ -270,7 +235,6 @@
     "Recursion/Homogeneous recurrence relation.md",
     "Recursion/Geometric sequence.md",
     "Recursion/Fibonacci sequence.md",
-    "Recursion/Closed formula.md",
     "Recursion",
     "Trees",
     "untitled folder",
@@ -281,7 +245,6 @@
     "Assets/Images/symmetric difference.png",
     "Assets/Images/surj-not-inj.png",
     "Assets/Images/simple-function-diagram.png",
-    "Assets/Images/set difference.png",
-    "Assets/Images/not-surj.png"
+    "Assets/Images/set difference.png"
   ]
 }

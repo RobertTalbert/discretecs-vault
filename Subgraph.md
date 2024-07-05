@@ -16,6 +16,12 @@ updated:
 
 ## Examples and Non-Examples
 
+Example: Let $G = K_5$, the [[complete graph]] on five vertices labelled $1,2,3,4,5$: 
+![[k5.png|300]]
+
+As 
+
+
 ## Resources 
 
 (video)
