@@ -29,13 +29,13 @@ math.ceil(3.4)
 # Result: 4
 ```
 
-* In *Mathematica*, the floor and ceiling functions are `Floor` and `Ceiling`: 
+* In *Mathematica*, the floor and ceiling functions are `Floor` and `Ceiling`. ([Floor documentation](https://reference.wolfram.com/language/ref/Floor.html); [Ceiling documentation](https://reference.wolfram.com/language/ref/Ceiling.html))
 ```mathematica
 Floor[-4.5]
 > -5
 
 Ceiling[-4.5]
->
+> -4
 ```
 ## Examples 
 
