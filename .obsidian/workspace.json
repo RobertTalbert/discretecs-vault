@@ -66,9 +66,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "35dc78e80b864344",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Complete graph.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -134,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Graphs/Subgraph.md",
+                "file": "Complete graph.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Graphs/Subgraph.md",
+                "file": "Complete graph.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Graphs/Subgraph.md"
+                "file": "Complete graph.md"
               }
             }
           }
@@ -199,12 +211,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "38ae1e256bf5dea6",
+  "active": "35dc78e80b864344",
   "lastOpenFiles": [
-    "c4.png",
+    "Complete graph.md",
+    "Graphs/Subgraph.md",
+    "Assets/c4.png",
     "Assets/subgraph.png",
     "Graphs/Graph.md",
-    "Graphs/Subgraph.md",
     "Assets/k5.png",
     "Proof/Direct proof.md",
     "Computer Arithmetic/Integers.md",
@@ -245,7 +258,6 @@
     "Assets/Images/venn-diagram-of-universal-set-1627631133.png",
     "Assets/Images/triangular-visual.png",
     "Assets/Images/symmetric difference.png",
-    "Assets/Images/surj-not-inj.png",
-    "Assets/Images/simple-function-diagram.png"
+    "Assets/Images/surj-not-inj.png"
   ]
 }
