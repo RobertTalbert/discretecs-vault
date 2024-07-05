@@ -90,9 +90,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e73ac7ca09792634",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Subgraph.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -158,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Basic math concepts/Floor and ceiling functions.md",
+                "file": "Subgraph.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Basic math concepts/Floor and ceiling functions.md",
+                "file": "Subgraph.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Basic math concepts/Floor and ceiling functions.md"
+                "file": "Subgraph.md"
               }
             }
           }
@@ -223,8 +235,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "38ae1e256bf5dea6",
+  "active": "e73ac7ca09792634",
   "lastOpenFiles": [
+    "Proof/Direct proof.md",
+    "Subgraph.md",
     "Computer Arithmetic/Integers.md",
     "Basic math concepts/Floor and ceiling functions.md",
     "Graphs/Graph.md",
@@ -234,7 +248,6 @@
     "Assets/Pasted image 20240701115858.png",
     "Proof/Indirect proof.md",
     "Proof/Proof by contraposition.md",
-    "Proof/Direct proof.md",
     "Logic/Conditional statements.md",
     "START HERE.md",
     "Basic math concepts/Properties of arithmetic.md",
@@ -258,7 +271,6 @@
     "Recursion/Geometric sequence.md",
     "Recursion/Fibonacci sequence.md",
     "Recursion/Closed formula.md",
-    "Recursion/Characteristic root method.md",
     "Recursion",
     "Trees",
     "untitled folder",
