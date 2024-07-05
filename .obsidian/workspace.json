@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Subgraph.md",
+                "file": "Graphs/Subgraph.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Subgraph.md",
+                "file": "Graphs/Subgraph.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Subgraph.md",
+                "file": "Graphs/Subgraph.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Subgraph.md"
+                "file": "Graphs/Subgraph.md"
               }
             }
           }
@@ -201,8 +201,9 @@
   },
   "active": "e73ac7ca09792634",
   "lastOpenFiles": [
+    "Assets/subgraph.png",
     "Graphs/Graph.md",
-    "Subgraph.md",
+    "Graphs/Subgraph.md",
     "Assets/k5.png",
     "Proof/Direct proof.md",
     "Computer Arithmetic/Integers.md",
