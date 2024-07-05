@@ -102,9 +102,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ddcbc950fb153d3f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -170,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Graphs/Degree.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Graphs/Degree.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Graphs/Degree.md"
+                "file": "Untitled.md"
               }
             }
           }
@@ -235,11 +247,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "38ae1e256bf5dea6",
+  "active": "ddcbc950fb153d3f",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Graphs/Degree.md",
+    "Assets/degree-example-2.png",
     "Assets/degree-graph-example.png",
     "Graphs/Cycle graph.md",
-    "Graphs/Degree.md",
     "Graphs/Subgraph.md",
     "Graphs/Complete graph.md",
     "Assets/cycle-grid.png",
@@ -255,8 +269,6 @@
     "Basic math concepts/Floor and ceiling functions.md",
     "Graphs/Representations of graphs.md",
     "Assets/Pasted image 20240701121143.png",
-    "Assets/Pasted image 20240701120930.png",
-    "Assets/Pasted image 20240701115858.png",
     "Proof/Indirect proof.md",
     "Proof/Proof by contraposition.md",
     "Logic/Conditional statements.md",
