@@ -22,15 +22,5 @@ Notes:
 ## Examples
 
 Here are visualizations of $K_1$ through $K_6$:
+![[Pasted image 20240705121105.png]]
 
-
-
-
-## Resources 
-
-(video)
-
-Other resources: 
-- 
-
-## Practice 

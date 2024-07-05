@@ -71,14 +71,28 @@
             "id": "35dc78e80b864344",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "kgrid.png"
+                "file": "Graphs/Complete graph.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "448089bf4c1ff298",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -144,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "kgrid.png",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "kgrid.png",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "kgrid.png"
+                "file": "Untitled.md"
               }
             }
           }
@@ -209,12 +223,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "35dc78e80b864344",
+  "active": "448089bf4c1ff298",
   "lastOpenFiles": [
-    "Complete graph.md",
-    "kgrid.png",
-    "tbl.png",
+    "Untitled.md",
     "Graphs/Subgraph.md",
+    "Graphs/Complete graph.md",
+    "tbl.png",
+    "Assets/Pasted image 20240705121105.png",
+    "kgrid.png",
     "Assets/c4.png",
     "Assets/subgraph.png",
     "Graphs/Graph.md",
@@ -254,7 +270,6 @@
     "untitled folder",
     "Relations",
     "Graphs",
-    "Assets/Images/venn-diagram-of-universal-set-1627631133.png",
-    "Assets/Images/triangular-visual.png"
+    "Assets/Images/venn-diagram-of-universal-set-1627631133.png"
   ]
 }

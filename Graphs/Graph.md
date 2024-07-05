@@ -45,7 +45,7 @@ Notes:
 - Consider the following visualization of a graph: 
 ![[Pasted image 20240701120930.png|300]]
 
-Note that there are five vertices and 10 edges, one edge between every pair of different vertices. In notation, this graph is $G = (V,E)$ where $V = \{1,2,3,4,5\}$ (the vertices) and $E = \{\{1,2\}, \{1,3\}, \{1,4\}, \{1,5\}. \{2,3\}, \{2,4\}, \{2,5\}, \{3,4\}, \{3,5\}, \{4,5\}\}$. (This graph is called the [[complete graph]] on five vertices.)
+Note that there are five vertices and 10 edges, one edge between every pair of different vertices. In notation, this graph is $G = (V,E)$ where $V = \{1,2,3,4,5\}$ (the vertices) and $E = \{\{1,2\}, \{1,3\}, \{1,4\}, \{1,5\}. \{2,3\}, \{2,4\}, \{2,5\}, \{3,4\}, \{3,5\}, \{4,5\}\}$. (This graph is called the [[Complete graph]] on five vertices.)
 - Not every vertex in a graph needs to be the endpoint of an edge. Consider $G = (\{1,2,3\}, \{1,2\})$ for example which has three vertices but only one edge, whose endpoints are $1$ and $2$. 
 ![[Pasted image 20240701121143.png|400]]
 - While every graph must have at least one vertex according to the definition, the edge set can be empty. For example $G= (\{1,2,3\}, \emptyset)$ has three vertices but no edges. Its visualization would just be three dots with no line segments. 
