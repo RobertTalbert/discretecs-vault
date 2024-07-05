@@ -199,8 +199,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e73ac7ca09792634",
+  "active": "38ae1e256bf5dea6",
   "lastOpenFiles": [
+    "c4.png",
     "Assets/subgraph.png",
     "Graphs/Graph.md",
     "Graphs/Subgraph.md",
@@ -245,7 +246,6 @@
     "Assets/Images/triangular-visual.png",
     "Assets/Images/symmetric difference.png",
     "Assets/Images/surj-not-inj.png",
-    "Assets/Images/simple-function-diagram.png",
-    "Assets/Images/set difference.png"
+    "Assets/Images/simple-function-diagram.png"
   ]
 }
