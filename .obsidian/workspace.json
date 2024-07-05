@@ -71,11 +71,9 @@
             "id": "35dc78e80b864344",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Complete graph.md",
-                "mode": "source",
-                "source": false
+                "file": "kgrid.png"
               }
             }
           }
@@ -146,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Complete graph.md",
+                "file": "kgrid.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Complete graph.md",
+                "file": "kgrid.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Complete graph.md"
+                "file": "kgrid.png"
               }
             }
           }
@@ -213,8 +211,9 @@
   },
   "active": "35dc78e80b864344",
   "lastOpenFiles": [
-    "tbl.png",
     "Complete graph.md",
+    "kgrid.png",
+    "tbl.png",
     "Graphs/Subgraph.md",
     "Assets/c4.png",
     "Assets/subgraph.png",
@@ -256,8 +255,6 @@
     "Relations",
     "Graphs",
     "Assets/Images/venn-diagram-of-universal-set-1627631133.png",
-    "Assets/Images/triangular-visual.png",
-    "Assets/Images/symmetric difference.png",
-    "Assets/Images/surj-not-inj.png"
+    "Assets/Images/triangular-visual.png"
   ]
 }

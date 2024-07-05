@@ -26,7 +26,6 @@ Here are visualizations of $K_1$ through $K_6$:
 
 
 
-
 ## Resources 
 
 (video)
