@@ -237,6 +237,7 @@
   },
   "active": "26fdb528d5e970fd",
   "lastOpenFiles": [
+    "Assets/degree-graph-example.png",
     "Graphs/Cycle graph.md",
     "Degree.md",
     "Graphs/Subgraph.md",
@@ -277,7 +278,6 @@
     "Recursion/Recursion.md",
     "Recursion/Recurrence relation.md",
     "Recursion/Linear recurrence relation.md",
-    "Recursion/Homogeneous recurrence relation.md",
     "Recursion",
     "Trees",
     "untitled folder",
