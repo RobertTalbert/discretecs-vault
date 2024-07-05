@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "Adjacent.md",
                 "mode": "source",
                 "source": false
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Adjacent.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "Adjacent.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Adjacent.md"
               }
             }
           }
@@ -249,8 +249,8 @@
   },
   "active": "ddcbc950fb153d3f",
   "lastOpenFiles": [
-    "Untitled.md",
     "Graphs/Degree.md",
+    "Adjacent.md",
     "Assets/degree-example-2.png",
     "Assets/degree-graph-example.png",
     "Graphs/Cycle graph.md",
