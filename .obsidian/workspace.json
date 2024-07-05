@@ -73,7 +73,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Graphs/Complete graph.md",
+                "file": "Graphs/Cycle graph.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "26fdb528d5e970fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Degree.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cycle graph.md",
+                "file": "Graphs/Cycle graph.md",
                 "mode": "source",
                 "source": false
               }
@@ -158,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cycle graph.md",
+                "file": "Degree.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cycle graph.md",
+                "file": "Degree.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cycle graph.md"
+                "file": "Degree.md"
               }
             }
           }
@@ -223,11 +235,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "448089bf4c1ff298",
+  "active": "26fdb528d5e970fd",
   "lastOpenFiles": [
-    "Cycle graph.md",
+    "Graphs/Cycle graph.md",
+    "Degree.md",
     "Graphs/Subgraph.md",
     "Graphs/Complete graph.md",
+    "Assets/cycle-grid.png",
     "tbl.png",
     "Assets/Pasted image 20240705121105.png",
     "kgrid.png",
@@ -264,12 +278,10 @@
     "Recursion/Recurrence relation.md",
     "Recursion/Linear recurrence relation.md",
     "Recursion/Homogeneous recurrence relation.md",
-    "Recursion/Geometric sequence.md",
     "Recursion",
     "Trees",
     "untitled folder",
     "Relations",
-    "Graphs",
-    "Assets/Images/venn-diagram-of-universal-set-1627631133.png"
+    "Graphs"
   ]
 }

@@ -24,7 +24,7 @@ As a vertex set/edge set pair, this graph is  $G = (V,E)$ where $V = \{1,2,3,4,5
 
 ![[subgraph.png|400]]
 
-**Non-example:** Let $G = C_4$, the [[cycle graph]] on four vertices labelled $1,2,3,4$: 
+**Non-example:** Let $G = C_4$, the [[Cycle graph|cycle graph]] on four vertices labelled $1,2,3,4$: 
 ![[c4.png|300]]
 
 Now let $G' = (V', E')$ where $V' = \{1,2,3\}$ and $E' = \{\{1,2\}, \{1,3\}, \{2,3\}\}$. This is the same graph as in the preceding example. In this case, $G'$ is **not** a subgraph of $G$ since although $V' \subseteq V$, it is not the case that $E' \subseteq E$ because $\{1,3\} \in E'$ but $\{1,3\} \not \in E$. That is, there is an edge between $1$ and $3$ in the second graph, but not in the first ($C_4$). Visually this makes sense, since $G'$ is a triangle and there are no triangles in $C_4$. 
