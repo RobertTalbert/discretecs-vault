@@ -109,14 +109,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Adjacent.md",
+                "file": "Graphs/Adjacent.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -182,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Adjacent.md",
+                "file": "Graphs/Degree.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Adjacent.md",
+                "file": "Graphs/Degree.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Adjacent.md"
+                "file": "Graphs/Degree.md"
               }
             }
           }
@@ -247,13 +247,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ddcbc950fb153d3f",
+  "active": "26fdb528d5e970fd",
   "lastOpenFiles": [
+    "Graphs/Adjacent.md",
     "Graphs/Degree.md",
-    "Adjacent.md",
+    "Graphs/Cycle graph.md",
     "Assets/degree-example-2.png",
     "Assets/degree-graph-example.png",
-    "Graphs/Cycle graph.md",
     "Graphs/Subgraph.md",
     "Graphs/Complete graph.md",
     "Assets/cycle-grid.png",
