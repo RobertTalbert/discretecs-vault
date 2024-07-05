@@ -30,6 +30,7 @@ Here, the exclamation point in $n!$ is the [[Factorial|factorial function]].
 - For the same reason, $\displaystyle{\binom{n}{0}} = 1$ for any $n \geq 0$ because there is only one way to select nothing from a group of $n$ objects. 
 - **How many 8-bit strings are there with exactly 5 `1` bits?** This is asking, *how many 8-bit strings have [[Weight of a bitstring|weight]] 5?* The answer is $\displaystyle{\binom{8}{5} = \frac{8!}{5! \cdot 3!}} = 56$. 
 - **How many ways are there to choose three letters from the alphabet A..Z without duplication if we don't care about the ordering of the letters?** This is the same question as: **How many three-element subsets are there of a 26-element set?** The answer to both is $\displaystyle{\binom{26}{3} = \frac{26!}{3! \cdot 23!}} = 2600$. 
+- The number of edges in $K_n$, the [[Complete graph|complete graph]] on $n$ vertices, is $\binom{n}{2}$ because in $K_n$, there is an [[Graph|edge]] between every pair of distinct [[Graph|vertices]], and $\binom{n}{2}$ counts the number of such pairs that can be selected from $\{1,2,\dots, n\}$. 
 
 ## Resources 
 

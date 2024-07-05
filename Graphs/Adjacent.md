@@ -12,9 +12,9 @@ updated:
 ## Definition 
 
 > [!tldr] Definition
-> Two vertices $v$ and $w$ in a graph are said to be **adjacent** if they are the endpoints of an [[Graph|edge]]. We also say that $v$ and $w$ are **neighbors**. 
+> Two [[Graph|vertices]] $v$ and $w$ in a [[graph]] are said to be **adjacent** if they are the endpoints of an [[Graph|edge]]. We also say that $v$ and $w$ are **neighbors**. 
 > 
-> An edge in a graph is **incident** to a vertex if that vertex is one of its endpoints. Two edges are said to be **incident** to each other if they have an endpoint in common. 
+> An [[Graph|edge]] in a graph is **incident** to a vertex if that vertex is one of its endpoints. Two edges are said to be **incident** to each other if they have an endpoint in common. 
 
 Notes: 
 - The word "incident" has two different uses: One to describe the relationship of an edge to a vertex, and another to describe the relationship between two edges. Be sure to be clear on the context when using that term.

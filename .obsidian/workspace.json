@@ -44,18 +44,6 @@
             }
           },
           {
-            "id": "5415e4d8108c383b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Graphs/Graph.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "e73ac7ca09792634",
             "type": "leaf",
             "state": {
@@ -85,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Graphs/Degree.md",
+                "file": "Graphs/Graph.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -182,14 +170,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Graphs/Degree.md",
+                "file": "Graphs/Graph.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -199,9 +187,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Graphs/Degree.md",
+                "file": "Graphs/Graph.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -222,16 +210,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Graphs/Degree.md"
+                "file": "Graphs/Graph.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -250,6 +238,7 @@
   "active": "26fdb528d5e970fd",
   "lastOpenFiles": [
     "Graphs/Adjacent.md",
+    "Combinatorics/Binomial coefficient.md",
     "Graphs/Degree.md",
     "Graphs/Cycle graph.md",
     "Assets/degree-example-2.png",
@@ -289,7 +278,6 @@
     "Recursion/Solution to a recurrence relation.md",
     "Recursion/Recursion.md",
     "Recursion/Recurrence relation.md",
-    "Recursion/Linear recurrence relation.md",
     "Recursion",
     "Trees",
     "untitled folder",
