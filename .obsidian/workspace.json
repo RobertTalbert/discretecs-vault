@@ -165,23 +165,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6361497831b9a676",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Graphs/Graph.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
-              }
-            }
-          },
-          {
             "id": "16750854c4656389",
             "type": "leaf",
             "state": {
@@ -214,8 +197,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -235,7 +217,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "26fdb528d5e970fd",
+  "active": "16750854c4656389",
   "lastOpenFiles": [
     "Graphs/Adjacent.md",
     "Combinatorics/Binomial coefficient.md",
