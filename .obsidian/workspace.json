@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Prime and composite numbers.md",
+                "file": "Strong induction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Prime and composite numbers.md"
+                "file": "Strong induction.md"
               }
             }
           },
@@ -143,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prime and composite numbers.md",
+                "file": "Strong induction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,10 +175,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ef285325016bb7d2",
+  "active": "c65bb280d247c813",
   "lastOpenFiles": [
-    "Strong induction.md",
     "Prime and composite numbers.md",
+    "Strong induction.md",
     "Proof/Mathematical induction.md",
     "Graphs/Adjacent.md",
     "Graphs/Cycle graph.md",

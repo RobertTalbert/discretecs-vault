@@ -28,7 +28,11 @@ updated:
 ## Examples 
 
 
-**Claim:** Every positive integer is either a prime number or is a product of prime numbers. 
+**Claim:** Every positive integer $n \geq 2$  is either a [[Prime and composite numbers|prime number]] or is a product of prime numbers. 
+
+**Proof**: We use strong induction. The base case is when $n=2$. In this case $n=2$ is known to be prime, so the base case holds. 
+
+Now assume that for some natural number $k$, every natural number less than or equal to $k$ is either prime, or a product of primes. We want to prove that $k+1$ is either prime or a product of primes. Clearly either $k+1$ is prime or it is composite (there are no other options). If $k+1$ is prime, then we are done. If $k+1$ is composite, then factor it into $k+1 = ab$ with $a,b > 1$. Since $a$ and $b$ are both factors of $k+1$, they are smaller than $k+1$. Hence they are less than or equal to $k$, so the inductive hypothesis says that each one is either a prime number or a product of prime numbers. If both are prtime
 
 ## Resources 
 
