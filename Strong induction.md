@@ -28,7 +28,7 @@ updated:
 ## Examples 
 
 
-
+**Claim:** Every positive integer is either a prime number or is a product of prime numbers. 
 
 ## Resources 
 
