@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Strong induction.md",
+                "file": "Proof/Mathematical induction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -121,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Strong induction.md"
+                "file": "Proof/Mathematical induction.md"
               }
             }
           },
@@ -131,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Strong induction.md",
+                "file": "Proof/Mathematical induction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,10 +162,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c65bb280d247c813",
+  "active": "d55b9bf2129076a6",
   "lastOpenFiles": [
-    "Proof/Mathematical induction.md",
     "Strong induction.md",
+    "Proof/Mathematical induction.md",
     "Graphs/Adjacent.md",
     "Graphs/Cycle graph.md",
     "Graphs/Graph.md",
