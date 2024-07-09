@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Strong induction.md",
+                "file": "Proof/Strong induction.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prime and composite numbers.md",
+                "file": "Basic math concepts/Prime and composite numbers.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Strong induction.md",
+                "file": "Proof/Strong induction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Strong induction.md"
+                "file": "Proof/Strong induction.md"
               }
             }
           },
@@ -143,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Strong induction.md",
+                "file": "Proof/Strong induction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,10 +175,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c65bb280d247c813",
+  "active": "38ae1e256bf5dea6",
   "lastOpenFiles": [
-    "Prime and composite numbers.md",
-    "Strong induction.md",
+    "Basic math concepts/Prime and composite numbers.md",
+    "Proof/Strong induction.md",
     "Proof/Mathematical induction.md",
     "Graphs/Adjacent.md",
     "Graphs/Cycle graph.md",
