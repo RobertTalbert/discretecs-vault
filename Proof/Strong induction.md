@@ -28,15 +28,14 @@ updated:
 ## Examples 
 
 
-**Claim:** Every positive integer $n \geq 2$  is either a [[Prime and composite numbers|prime number]] or is a product of prime numbers. 
-
-**Proof**: We use strong induction. The base case is when $n=2$. In this case $n=2$ is known to be prime, so the base case holds. 
-
-Now assume that for some natural number $k$, every natural number less than or equal to $k$ is either prime, or a product of primes. We want to prove that $k+1$ is either prime or a product of primes. Clearly either $k+1$ is prime or it is composite (there are no other options). If $k+1$ is prime, then we are done. So assume that that $k+1$ is composite; we want to show that $k+1$ is a product of primes. Since $k+1$ is composite, factor it into $k+1 = ab$ with $a,b > 1$. Since $a$ and $b$ are both factors of $k+1$, they are smaller than $k+1$. Hence they are less than or equal to $k$, so the inductive hypothesis says that each one is either a prime number or a product of prime numbers. This sets up three cases.  
-
-Case 1: If $a$ and $b$ are both prime, then $k+1$ is now a product of primes since $k+1 = ab$. 
-Case 2: If $a$ is prime and $b$ is a product of primes, then write $b = p_1p_2\cdots p_i$ where each $p$ is a prime number. Now $k+1 = a \cdot (p_1p_2 \cdots p_i)$ which is a product of prime numbers. 
-Case 3: If both $a$ and $b$ are products of prime numbers, 
+> [!note] **Claim:** Every positive integer $n \geq 2$  is either a [[Prime and composite numbers|prime number]] or is a product of prime numbers. 
+> 
+> **Proof**: We use strong induction. The base case is when $n=2$. In this case $n=2$ is known to be prime, so the base case holds. 
+> 
+> Now assume that for some natural number $k$, every natural number less than or equal to $k$ is either prime, or a product of primes. We want to prove that $k+1$ is either prime or a product of primes. Clearly either $k+1$ is prime or it is composite (there are no other options). If $k+1$ is prime, then we are done. So assume that that $k+1$ is composite; we want to show that $k+1$ is a product of primes. Since $k+1$ is composite, factor it into $k+1 = ab$ with $a,b > 1$. Since $a$ and $b$ are both factors of $k+1$, they are smaller than $k+1$. Hence they are less than or equal to $k$, so the inductive hypothesis says that each one is either a prime number or a product of prime numbers. Let's assume that $a = p_1p_2\cdots p_s$ and $b = q_1q_2\cdots q_t$ where each $p$ and each $q$ is a prime number. (If $a$ or $b$ is itself a prime number, there would be only one number in the list of factors.) Then since $k+1 = ab$, we can write 
+> $$k+1 = (p_1p_2\cdots p_s)(q_1q_2 \cdots q_t)$$
+> which establishes that $k+1$ is a product of prime numbers. This is what we set out to prove. ◾
+> 
 
 ## Resources 
 
