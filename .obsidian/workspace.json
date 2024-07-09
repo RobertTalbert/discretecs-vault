@@ -175,11 +175,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "38ae1e256bf5dea6",
+  "active": "c65bb280d247c813",
   "lastOpenFiles": [
-    "Basic math concepts/Prime and composite numbers.md",
-    "Proof/Strong induction.md",
     "Proof/Mathematical induction.md",
+    "Proof/Strong induction.md",
+    "Basic math concepts/Prime and composite numbers.md",
     "Graphs/Adjacent.md",
     "Graphs/Cycle graph.md",
     "Graphs/Graph.md",

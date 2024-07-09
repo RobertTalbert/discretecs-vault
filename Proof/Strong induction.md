@@ -27,6 +27,18 @@ updated:
 
 ## Examples 
 
+Claim: Given $n \in \mathbb{N}$, define $a_n$ [[Recursion|recursively]] as follows: $a_0 = 1$, $a_1 = 3$, and $a_n = 2a_{n-1} - a_{n-2}$ for all $n > 1$. Then $a_n = 2n+1$ for all $n \geq 0$. 
+
+Proof: We use strong induction. The base case is $n=0$. We are given that $a_0 = 1$, and if we plug in $n=0$ to $2n+1$ we get $1$ as well. So the base case holds. 
+
+Now assume that for some natural number $k$, every natural number $i \leq k$ satisfies $a_i = 2i+1$. We want to show that $a_{k+1} = 2(k+1) + 1$. 
+
+By the recursive definition, $a_{k+1} = 2a_k - a_{k-1}$. Now the inductive hypothesis applies to both terms on the right: 
+$$a_k = 2k+1 \qquad a_{k-1} = 2(k-1)+ 1$$
+So we can substitute: 
+$$a_{k+1} = 2(2k+1) - (2(k-1) + 1) = 4k + 2 - (2k-2+1) = 4k+2 
+
+
 
 > [!note] **Claim:** Every positive integer $n \geq 2$  is either a [[Prime and composite numbers|prime number]] or is a product of prime numbers. 
 > 
