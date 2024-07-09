@@ -4,107 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "3569ab3ec9e18711",
+        "id": "ac6a96bac5b343cf",
         "type": "tabs",
         "children": [
           {
-            "id": "519b5cfeedc83586",
+            "id": "d55b9bf2129076a6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Proof/Direct proof.md",
+                "file": "Proof/Mathematical induction.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "e60f2bd270776846",
+            "id": "c65bb280d247c813",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Proof/Proof by contraposition.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9ac2861f58ba3f58",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Proof/Indirect proof.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e73ac7ca09792634",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Graphs/Subgraph.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "35dc78e80b864344",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Graphs/Cycle graph.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "26fdb528d5e970fd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Graphs/Graph.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "448089bf4c1ff298",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Graphs/Cycle graph.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ddcbc950fb153d3f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Graphs/Adjacent.md",
+                "file": "Strong induction.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -170,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Graphs/Graph.md",
+                "file": "Strong induction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -193,7 +121,24 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Graphs/Graph.md"
+                "file": "Strong induction.md"
+              }
+            }
+          },
+          {
+            "id": "21830707dc3b0d28",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Strong induction.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
               }
             }
           }
@@ -201,7 +146,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -217,12 +163,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "16750854c4656389",
+  "active": "c65bb280d247c813",
   "lastOpenFiles": [
+    "Proof/Mathematical induction.md",
+    "Strong induction.md",
     "Graphs/Adjacent.md",
+    "Graphs/Cycle graph.md",
+    "Graphs/Graph.md",
+    "Proof/Direct proof.md",
     "Combinatorics/Binomial coefficient.md",
     "Graphs/Degree.md",
-    "Graphs/Cycle graph.md",
     "Assets/degree-example-2.png",
     "Assets/degree-graph-example.png",
     "Graphs/Subgraph.md",
@@ -233,9 +183,7 @@
     "kgrid.png",
     "Assets/c4.png",
     "Assets/subgraph.png",
-    "Graphs/Graph.md",
     "Assets/k5.png",
-    "Proof/Direct proof.md",
     "Computer Arithmetic/Integers.md",
     "Basic math concepts/Floor and ceiling functions.md",
     "Graphs/Representations of graphs.md",
@@ -248,7 +196,6 @@
     "Basic math concepts/Divisibility.md",
     "Computer Arithmetic/The division algorithm.md",
     "Basic math concepts/Closure of the integers.md",
-    "Proof/Mathematical induction.md",
     "Basic math concepts/Even and odd integers.md",
     "Basic math concepts",
     "Recursion/Sequence.md",
@@ -259,7 +206,6 @@
     "Documents",
     "Recursion/Solution to a recurrence relation.md",
     "Recursion/Recursion.md",
-    "Recursion/Recurrence relation.md",
     "Recursion",
     "Trees",
     "untitled folder",
