@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Basic math concepts/Floor and ceiling functions.md",
+                "file": "Combinatorics/Factorial.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Basic math concepts/Floor and ceiling functions.md",
+                "file": "Combinatorics/Factorial.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Basic math concepts/Floor and ceiling functions.md"
+                "file": "Combinatorics/Factorial.md"
               }
             }
           },
@@ -143,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Basic math concepts/Floor and ceiling functions.md",
+                "file": "Combinatorics/Factorial.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,6 +177,7 @@
   },
   "active": "91779098574dbba8",
   "lastOpenFiles": [
+    "Basic math concepts/Floor and ceiling functions.md",
     "Basic math concepts/Divisibility.md",
     "Combinatorics/Factorial.md",
     "Basic math concepts/Closure of the integers.md",
@@ -203,7 +204,6 @@
     "Assets/c4.png",
     "Assets/subgraph.png",
     "Computer Arithmetic/Integers.md",
-    "Basic math concepts/Floor and ceiling functions.md",
     "Proof/Indirect proof.md",
     "Proof/Proof by contraposition.md",
     "Logic/Conditional statements.md",
