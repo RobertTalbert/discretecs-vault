@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Basic math concepts/Prime and composite numbers.md",
+                "file": "Graphs/Representations of graphs.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Basic math concepts/Prime and composite numbers.md",
+                "file": "Graphs/Representations of graphs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Basic math concepts/Prime and composite numbers.md"
+                "file": "Graphs/Representations of graphs.md"
               }
             }
           },
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Basic math concepts/Prime and composite numbers.md",
+                "file": "Graphs/Representations of graphs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,12 +152,12 @@
   },
   "active": "ef285325016bb7d2",
   "lastOpenFiles": [
+    "Graphs/Graph.md",
+    "Basic math concepts/Prime and composite numbers.md",
     "Proof/Mathematical induction.md",
     "Proof/Strong induction.md",
-    "Basic math concepts/Prime and composite numbers.md",
     "Graphs/Adjacent.md",
     "Graphs/Cycle graph.md",
-    "Graphs/Graph.md",
     "Proof/Direct proof.md",
     "Combinatorics/Binomial coefficient.md",
     "Graphs/Degree.md",

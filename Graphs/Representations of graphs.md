@@ -5,15 +5,19 @@ aliases:
 tags:
   - graphs
 created: 2024-07-01
-updated:
+updated: 2024-07-10
 ---
 ---
 ## Definition 
 
-> [!tldr] Definition
-> Contents
+[[Graph|Graphs]] can be represented in different ways, each having its own particular use case. 
 
-(blurb)
+As a visual diagram or network. 
+
+As a pair of sets (vertex set + edge set). 
+
+
+
 
 ## Examples and Non-Examples
 
