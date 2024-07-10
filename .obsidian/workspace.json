@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Graphs/Degree.md",
+                "file": "Graphs/Graph.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Graphs/Degree.md",
+                "file": "Graphs/Representations of graphs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -121,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Graphs/Degree.md"
+                "file": "Graphs/Representations of graphs.md"
               }
             }
           },
@@ -131,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Graphs/Degree.md",
+                "file": "Graphs/Representations of graphs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,11 +162,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "513389e435e26a9e",
+  "active": "3b08a6d93a0d9561",
   "lastOpenFiles": [
+    "Graphs/Graph.md",
     "Graphs/Representations of graphs.md",
     "Graphs/Degree.md",
-    "Graphs/Graph.md",
     "Basic math concepts/Prime and composite numbers.md",
     "Proof/Mathematical induction.md",
     "Proof/Strong induction.md",

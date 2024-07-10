@@ -17,10 +17,11 @@ updated: 2024-07-10
 ![[degree-example-2.png]]
 
 
-As a pair of sets (vertex set + edge set). The definition of a [[Graph|graph]] gives a graph as a pair of sets: The first set is the set of vertices, and the second set is the set of edges. For example the graph above, given visually, is 
-$$G = (\{1,2,3,4,5,6,7,8\})
+*As a pair of sets (vertex set + edge set)*. The definition of a [[Graph|graph]] gives a graph as a pair of sets: The first set is the set of vertices, and the second set is the set of edges. For example consider the graph below: 
+![[Pasted image 20240701115858.png|400]]
+can be represented as the vertex-edge set pair  $G = (\{a,b,c,d\}, \{\{a,c\}, \{a,d\}, \{d,c\}, \{a,b\}\})$. This representation gives all the basic information of the graph without resorting to visuals. However, it is somewhat hard to discern any information about the graph's behavior and structure. 
 
-As a list of edges. 
+*As a list of edges*. It is possible to represent a graph just as a list of edges, without specifying the vertices. For example, representing the graph $G$ immediately above as an edge set would give $G = \{\{a,c\}, \{a,d\}, \{d,c\}, \{a,b\}\}$. By specifying the endpoints of the edges, we have implicitly given the list of vertices. Representation as an edge list has at least two advantages: First, it's shorter and more compact. Second,
 
 As a list of adjacencies. 
 
