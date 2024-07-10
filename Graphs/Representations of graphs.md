@@ -60,3 +60,22 @@ $$\begin{pmatrix}
 0 & 0 & 1 & 1 
 \end{pmatrix}$$
 Note that although the dimensions of the incidence and adjacency matrices are the same ($4 \times 4$) the entries are different. 
+
+## Additional examples
+
+Consider this graph, given visually: 
+![[graph-representation-example.png]]
+As a **vetex-edge set pair**, this graph is 
+$$G = (\{1,2,3,4\}, \{\{1,2\}, \{1,3\}, \{1,4\}, \{3,4\}, \{2,4\}\})$$
+
+As an **edge list** given in Python, this graph is
+```python
+G = [[1,2], [1,3], [1,4], [3,4], [2,4]]
+```
+
+As a **dictionary**, this graph is
+```python
+G = {1: [2,3,4], 2: [1,4], 3: [1,4], 4:[1,2,3]}
+```
+
+As an **adjacency matrix**, this g
