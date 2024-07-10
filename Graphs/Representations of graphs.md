@@ -35,17 +35,18 @@ The larger graph that appears as the first example above would be:
  6: [1,7,2], 7: [1,3,4,5,6,8], 8: [1,4,5,7]}
 ```
 
-This concept can be implemented in other languages using [linked lists](https://www.geeksforgeeks.org/linked-list-data-structure/) or [hash tables](https://www.geeksforgeeks.org/hashing-data-structure/). There are many advantages to using dictionaries to represent graphs. The representation is compact and requires minimal storage; properties about the graph are easily accessible (for example, the degree of each vertex is simply the length of the list it is associated with); and it scales up well when the graphs are very large. There is some redundancy of information in a dictionary, for example in the first graph above the fact that $a$ and $b$ are adjacent vertices is encoded twice. 
+This concept can be implemented in other languages using [linked lists](https://www.geeksforgeeks.org/linked-list-data-structure/) or [hash tables](https://www.geeksforgeeks.org/hashing-data-structure/). 
 
-As an adjacency matrix. A graph can be represented as a matrix by arranging the vertices in order in the rows and columns of the matrix, and then entering a `1` in row $a$, column $b$ if the nodes $a$ and $b$ are adjacent, and entering a `0` otherwise. For example, the graph `{a: [b,c,d], b: [a], c: [a,d], d: [a,c]}`
+There are many advantages to using dictionaries to represent graphs. The representation is compact and requires minimal storage; properties about the graph are easily accessible (for example, the degree of each vertex is simply the length of the list it is associated with); and it scales up well when the graphs are very large. There is some redundancy of information in a dictionary, for example in the first graph above the fact that $a$ and $b$ are adjacent vertices is encoded twice. 
 
-## Examples and Non-Examples
+***As an adjacency matrix***. A graph can be represented as a matrix by arranging the vertices in order in the rows and columns of the matrix, and then entering a `1` in row $a$, column $b$ if the nodes $a$ and $b$ are adjacent, and entering a `0` otherwise. For example, the graph `{a: [b,c,d], b: [a], c: [a,d], d: [a,c]}` would have this adjacency matrix: 
 
-## Resources 
+$$\begin{pmatrix}
+0 & 1 & 1 & 1 \\
+1 & 0 & 0 & 0 \\
+1 & 0 & 0 & 1 \\
+1 & 0 & 1 & 0
+\end{pmatrix}$$
+Here, the first row and column correspond to vertex $a$, the second to vertex $b$, the third to vertex $c$, and the fourth to vertex $d$. 
 
-(video)
-
-Other resources: 
-- 
-
-## Practice 
+Adjacency matrices work well in computing environments because most modern languages are set up well to deal with arrays of integers. Certain algorithms (such as [[Warshall's algorithm]] for finding the [[transitive closure]] of a [[relation]]) can be implemented using arithmetic operations on adjacency matrices. 
