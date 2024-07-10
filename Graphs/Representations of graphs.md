@@ -28,15 +28,16 @@ can be represented as the vertex-edge set pair  $G = (\{a,b,c,d\}, \{\{a,c\}, \{
 ```python
 {a: [b,c,d], b: [a], c: [a,d], d: [a,c]}
 ```
-The larger graph that appears as the first example above would be: 
 
+The larger graph that appears as the first example above would be: 
 ```python
 {1: [3,4,5,6,7], 2: [3,6], 3: [1,2,7], 4: [1,5,7,8], 5: [1,4,7,8], 
- 6: [1,7,2], 7: []}
+ 6: [1,7,2], 7: [1,3,4,5,6,8], 8: [1,4,5,7]}
 ```
 
-As a list of adjacencies. 
-As an adjacency matrix. 
+This concept can be implemented in other languages using [linked lists](https://www.geeksforgeeks.org/linked-list-data-structure/) or [hash tables](https://www.geeksforgeeks.org/hashing-data-structure/). There are many advantages to using dictionaries to represent graphs. The representation is compact and requires minimal storage; properties about the graph are easily accessible (for example, the degree of each vertex is simply the length of the list it is associated with); and it scales up well when the graphs are very large. There is some redundancy of information in a dictionary, for example in the first graph above the fact that $a$ and $b$ are adjacent vertices is encoded twice. 
+
+As an adjacency matrix. A graph can be represented as a matrix by arranging the vertices in order in the rows and columns of the matrix, and then entering a `1` in row $a$, column $b$ if the nodes $a$ and $b$ are adjacent, and entering a `0` otherwise. For example, the graph `{a: [b,c,d], b: [a], c: [a,d], d: [a,c]}`
 
 ## Examples and Non-Examples
 
