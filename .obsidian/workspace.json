@@ -32,6 +32,24 @@
             }
           }
         ]
+      },
+      {
+        "id": "8a0c6ce5e4f32d7a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "91779098574dbba8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Graphs/Representations of graphs.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -162,7 +180,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3b08a6d93a0d9561",
+  "active": "91779098574dbba8",
   "lastOpenFiles": [
     "Graphs/Graph.md",
     "Graphs/Representations of graphs.md",
