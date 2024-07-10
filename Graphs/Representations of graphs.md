@@ -78,4 +78,24 @@ As a **dictionary**, this graph is
 G = {1: [2,3,4], 2: [1,4], 3: [1,4], 4:[1,2,3]}
 ```
 
-As an **adjacency matrix**, this g
+As an **adjacency matrix**, this graph is: 
+$$\left(
+\begin{array}{cccc}
+ 0 & 1 & 1 & 1 \\
+ 1 & 0 & 0 & 1 \\
+ 1 & 0 & 0 & 1 \\
+ 1 & 1 & 1 & 0 \\
+\end{array}
+\right)$$
+(This assumes the vertex ordering is numerical: 1,2,3,4 in that order in the rows and columns.)
+
+As an **incidence matrix**, this graph is 
+$$\left(
+\begin{array}{ccccc}
+ 1 & 1 & 1 & 0 & 0 \\
+ 1 & 0 & 0 & 1 & 0 \\
+ 0 & 1 & 0 & 0 & 1 \\
+ 0 & 0 & 1 & 1 & 1 \\
+\end{array}
+\right)$$
+(This assumes the vertex ordering of the rows is 1,2,3,4 and that the edge ordering in the columns is $\{1,2\}, \{1,3\}, \{1,4\}, \{2,4\}, \{3,4\}$.) Note that unlike the earlier example, this incidence matrix has a different size from the adjacency matrix because there are four vertices and five edges. 
