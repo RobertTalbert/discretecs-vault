@@ -30,26 +30,21 @@
                 "source": false
               }
             }
-          }
-        ]
-      },
-      {
-        "id": "8a0c6ce5e4f32d7a",
-        "type": "tabs",
-        "children": [
+          },
           {
             "id": "91779098574dbba8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Graphs/Representations of graphs.md",
+                "file": "Basic math concepts/Floor and ceiling functions.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -115,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Graphs/Representations of graphs.md",
+                "file": "Basic math concepts/Floor and ceiling functions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -138,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Graphs/Representations of graphs.md"
+                "file": "Basic math concepts/Floor and ceiling functions.md"
               }
             }
           },
@@ -148,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Graphs/Representations of graphs.md",
+                "file": "Basic math concepts/Floor and ceiling functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,10 +177,13 @@
   },
   "active": "91779098574dbba8",
   "lastOpenFiles": [
-    "Pasted image 20240710111718.png",
-    "graph-representation-example.png",
-    "Graphs/Graph.md",
+    "Basic math concepts/Divisibility.md",
+    "Combinatorics/Factorial.md",
+    "Basic math concepts/Closure of the integers.md",
     "Graphs/Representations of graphs.md",
+    "Assets/Images/Pasted image 20240710111718.png",
+    "Assets/graph-representation-example.png",
+    "Graphs/Graph.md",
     "Graphs/Degree.md",
     "Basic math concepts/Prime and composite numbers.md",
     "Proof/Mathematical induction.md",
@@ -204,7 +202,6 @@
     "kgrid.png",
     "Assets/c4.png",
     "Assets/subgraph.png",
-    "Assets/k5.png",
     "Computer Arithmetic/Integers.md",
     "Basic math concepts/Floor and ceiling functions.md",
     "Proof/Indirect proof.md",
@@ -212,9 +209,7 @@
     "Logic/Conditional statements.md",
     "START HERE.md",
     "Basic math concepts/Properties of arithmetic.md",
-    "Basic math concepts/Divisibility.md",
     "Computer Arithmetic/The division algorithm.md",
-    "Basic math concepts/Closure of the integers.md",
     "Basic math concepts/Even and odd integers.md",
     "Basic math concepts",
     "Recursion/Sequence.md",
