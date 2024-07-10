@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ac6a96bac5b343cf",
+        "id": "751eb08a62dcf91d",
         "type": "tabs",
         "children": [
           {
-            "id": "ef285325016bb7d2",
+            "id": "3b08a6d93a0d9561",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -150,8 +150,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ef285325016bb7d2",
+  "active": "3b08a6d93a0d9561",
   "lastOpenFiles": [
+    "Graphs/Representations of graphs.md",
     "Graphs/Graph.md",
     "Basic math concepts/Prime and composite numbers.md",
     "Proof/Mathematical induction.md",
@@ -174,7 +175,6 @@
     "Assets/k5.png",
     "Computer Arithmetic/Integers.md",
     "Basic math concepts/Floor and ceiling functions.md",
-    "Graphs/Representations of graphs.md",
     "Assets/Pasted image 20240701121143.png",
     "Proof/Indirect proof.md",
     "Proof/Proof by contraposition.md",
