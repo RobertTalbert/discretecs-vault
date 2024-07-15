@@ -30,21 +30,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "91779098574dbba8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Combinatorics/Factorial.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Combinatorics/Factorial.md",
+                "file": "Graphs/Graph.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Combinatorics/Factorial.md"
+                "file": "Graphs/Graph.md"
               }
             }
           },
@@ -143,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Combinatorics/Factorial.md",
+                "file": "Graphs/Graph.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,11 +163,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "91779098574dbba8",
+  "active": "513389e435e26a9e",
   "lastOpenFiles": [
+    "Combinatorics/Factorial.md",
     "Basic math concepts/Floor and ceiling functions.md",
     "Basic math concepts/Divisibility.md",
-    "Combinatorics/Factorial.md",
     "Basic math concepts/Closure of the integers.md",
     "Graphs/Representations of graphs.md",
     "Assets/Images/Pasted image 20240710111718.png",
