@@ -45,6 +45,24 @@
           }
         ],
         "currentTab": 2
+      },
+      {
+        "id": "669f00122be272a5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d3d89ec6be44b020",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Graphs/Paths.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -175,7 +193,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "834c221dce36b2a9",
+  "active": "d3d89ec6be44b020",
   "lastOpenFiles": [
     "Assets/degree-graph-example.png",
     "Graphs/Paths.md",
