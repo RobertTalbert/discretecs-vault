@@ -168,16 +168,16 @@
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -193,7 +193,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d3d89ec6be44b020",
+  "active": "21830707dc3b0d28",
   "lastOpenFiles": [
     "Assets/degree-graph-example.png",
     "Graphs/Paths.md",
