@@ -27,7 +27,10 @@ Notes:
 
 Consider this graph $G$: 
 ![[degree-graph-example.png]]
-There are multiple Hamiltonian paths in this graph, for example **4,3,1,2,6,5** and **6,5,2,1,3,4**. 
+There are multiple Hamiltonian paths in this graph, for example **4,3,1,2,6,5** and **6,5,2,1,3,4**. But there is no Hamiltonian cycle, because any Hamiltonian cycle would have to include vertex 4, and would require visiting vertex 3 twice. 
+
+The [[Cycle graph|cycle graph]] $C_4$ clearly has a Hamiltonian cycle (therefore also a Hamiltonian path), **1,2,3,4,1**. IN fac
+![[c4.png]]
 
 
 
