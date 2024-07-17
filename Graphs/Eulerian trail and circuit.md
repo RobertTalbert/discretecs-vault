@@ -20,7 +20,6 @@ updated:
 	- A **[[Paths|walk]]** is a nonempty, alternating sequence of [[Graph|vertices]] and edges that starts and ends with a vertex, and in which every [[Graph|edge]] in the sequence is preceded and succeeded by its endpoints.
 	- A **[[Paths|trail]]** is a walk with no repeated edge.
 	- A **[[Paths|circuit]]** is a trail that starts and ends at the same vertex. 
-- Eulerian trails are sometimes referred to as Eulerian **paths**. 
 - Since a circuit is a special kind of trail, an Eulerian circuit is also an Eulerian trail. But not vice versa, since a trail can start and end at different vertices. 
 - A graph has an Eulerian trail if and only if there are at most two vertices that have odd [[Degree|degree]]. 
 - A graph has an Eulerian circuit (e.g., "is Eulerian") if and only if it has *no* vertices of odd degree -- that is, the degree of every vertex is even. 
