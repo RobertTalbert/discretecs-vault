@@ -4,6 +4,7 @@ aliases:
   - Euler circuit
   - Eulerian
   - Eulerian circuit
+  - Eulerian circuits
 tags:
   - graphs
 created: 2024-07-17

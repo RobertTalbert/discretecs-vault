@@ -21,8 +21,10 @@ Notes:
 	- A **trail** is a walk with no repeated edge. If the trail starts and ends with the same vertex, it is called a **closed trail** or **circuit**. 
 	- A **path** is a trail with no repeated vertex. A path consisting of a single vertex is called a **trivial path**. 
 	- A **cycle** is a closed trail that has at least three (3) different vertices in it, and the only repeating vertices are the first and the last. 
-- Therefore a Hamilton path is a nonempty, alternating sequence of vertices in no edges are repeated, *and* in which no vertices are repeated, *and* which contains every vertex in the graph. And a Hamilton cycle is a Hamilton path that starts and ends at the same vertex. (The starting and ending vertex is an exception to the rule about no repeated vertices.)
+- Therefore a Hamilton path is a nonempty, alternating sequence of vertices in no edges are repeated, *and* in which no vertices are repeated, *and* which contains every vertex in the graph. And a Hamilton cycle is a Hamilton path that starts and ends at the same vertex. (The starting and ending vertex is an exception to the rule about no repeated vertices.) We can conclude that a Hamiltonian cycle is a cycle in a graph that visits every vertex *exactly* once. 
 - Hamiltonian structures are named after Irish mathematician [William Rowan Hamilton](https://en.wikipedia.org/wiki/William_Rowan_Hamilton). 
+- The problem of determining whether a graph has a Hamiltonian cycle is [NP-complete](https://en.wikipedia.org/wiki/NP-completeness). In layperson's terms this means that while it is computationally easy to *verify* whether a given cycle is Hamiltonian, there is no known way to *find* such a cycle quickly. (Contrast with the similar problem for [[Eulerian trail and circuit|Eulerian circuits]], where there is a simple theorem that will detect the existence of such circuits.)
+
 ## Examples and Non-Examples
 
 Consider this graph $G$: 

@@ -200,11 +200,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "38ae1e256bf5dea6",
+  "active": "7b7808ae77cb9a0e",
   "lastOpenFiles": [
-    "Assets/Images/c5-in-k5.png",
     "Graphs/Eulerian trail and circuit.md",
     "Graphs/Hamiltonian path and circuit.md",
+    "Assets/Images/c5-in-k5.png",
     "Graphs/Paths.md",
     "Assets/Images/k4.png",
     "Assets/Images/k3.png",
@@ -231,7 +231,6 @@
     "Assets/Images/cycle-grid.png",
     "tbl.png",
     "Assets/Images/Pasted image 20240705121105.png",
-    "kgrid.png",
     "Computer Arithmetic/Integers.md",
     "Proof/Indirect proof.md",
     "Proof/Proof by contraposition.md",
