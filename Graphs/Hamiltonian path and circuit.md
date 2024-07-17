@@ -39,9 +39,6 @@ Every [[Complete graph|complete graph]] is also Hamiltonian, because the complet
 
 ## Resources 
 
-(video)
+![](https://www.youtube.com/watch?v=6QFSkhcHLiA)
 
-Other resources: 
-- 
-
-## Practice 
+![](https://www.youtube.com/watch?v=IADKmt_fXbM)

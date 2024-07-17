@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hamiltonian path and circuit.md",
+                "file": "Graphs/Hamiltonian path and circuit.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hamiltonian path and circuit.md",
+                "file": "Graphs/Hamiltonian path and circuit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hamiltonian path and circuit.md"
+                "file": "Graphs/Hamiltonian path and circuit.md"
               }
             }
           },
@@ -167,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hamiltonian path and circuit.md",
+                "file": "Graphs/Hamiltonian path and circuit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,11 +200,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7b7808ae77cb9a0e",
+  "active": "38ae1e256bf5dea6",
   "lastOpenFiles": [
     "Assets/Images/c5-in-k5.png",
     "Graphs/Eulerian trail and circuit.md",
-    "Hamiltonian path and circuit.md",
+    "Graphs/Hamiltonian path and circuit.md",
     "Graphs/Paths.md",
     "Assets/Images/k4.png",
     "Assets/Images/k3.png",
