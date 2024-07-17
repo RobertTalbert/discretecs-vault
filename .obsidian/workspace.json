@@ -42,27 +42,21 @@
                 "source": false
               }
             }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "669f00122be272a5",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "d3d89ec6be44b020",
+            "id": "696934586ea80c69",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Graphs/Paths.md",
+                "file": "Eulerian trail and circuit.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -128,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Graphs/Paths.md",
+                "file": "Eulerian trail and circuit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -151,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Graphs/Paths.md"
+                "file": "Eulerian trail and circuit.md"
               }
             }
           },
@@ -161,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Graphs/Paths.md",
+                "file": "Eulerian trail and circuit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +171,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -193,16 +188,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "21830707dc3b0d28",
+  "active": "696934586ea80c69",
   "lastOpenFiles": [
-    "Assets/degree-graph-example.png",
     "Graphs/Paths.md",
+    "Eulerian trail and circuit.md",
+    "Graphs/Representations of graphs.md",
+    "Assets/degree-graph-example.png",
     "Graphs/Graph.md",
     "Combinatorics/Factorial.md",
     "Basic math concepts/Floor and ceiling functions.md",
     "Basic math concepts/Divisibility.md",
     "Basic math concepts/Closure of the integers.md",
-    "Graphs/Representations of graphs.md",
     "Assets/Images/Pasted image 20240710111718.png",
     "Assets/graph-representation-example.png",
     "Graphs/Degree.md",

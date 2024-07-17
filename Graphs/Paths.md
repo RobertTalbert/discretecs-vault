@@ -1,6 +1,17 @@
 ---
 aliases:
-  - path, paths, walk, Walk, walks, cycle, Cycle, cycles, trail, Trail
+  - path
+  - paths
+  - walk
+  - Walk
+  - walks
+  - cycle
+  - Cycle
+  - cycles
+  - trail
+  - Trail
+  - circuit
+  - Circuit
 tags:
   - graphs
 created: 2024-07-15
