@@ -23,6 +23,7 @@ updated:
 - Since a circuit is a special kind of trail, an Eulerian circuit is also an Eulerian trail. But not vice versa, since a trail can start and end at different vertices. 
 - A graph has an Eulerian trail if and only if there are at most two vertices that have odd [[Degree|degree]]. 
 - A graph has an Eulerian circuit (e.g., "is Eulerian") if and only if it has *no* vertices of odd degree -- that is, the degree of every vertex is even. 
+- The word "Euler" is pronounced "OIL-er", and "Eulerian" is pronounced "oy-LAYER-ee-an". The concept is named after mathematician [Leonhard Euler](https://en.wikipedia.org/wiki/Leonhard_Euler).
 
 ## Examples and Non-Examples
 
