@@ -29,8 +29,11 @@ Consider this graph $G$:
 ![[degree-graph-example.png]]
 There are multiple Hamiltonian paths in this graph, for example **4,3,1,2,6,5** and **6,5,2,1,3,4**. But there is no Hamiltonian cycle, because any Hamiltonian cycle would have to include vertex 4, and would require visiting vertex 3 twice. 
 
-The [[Cycle graph|cycle graph]] $C_4$ clearly has a Hamiltonian cycle (therefore also a Hamiltonian path), **1,2,3,4,1**. IN fac
-![[c4.png]]
+The [[Cycle graph|cycle graph]] $C_4$ clearly has a Hamiltonian cycle (therefore also a Hamiltonian path), **1,2,3,4,1**. In fact every cycle graph has one by just going around the cycle. 
+![[c4.png|300]]
+
+Every [[Complete graph|complete graph]] is also Hamiltonian, because the complete graph $K_n$ contains $C_n$ as a [[Subgraph|subgraph]], and the Hamiltonian cycle can be found by tracing around that subgraph. For example, here is a Hamiltonian cycle in $K_5$ found by tracing $C_5$: 
+![[c5-in-k5.png|400]]
 
 
 
