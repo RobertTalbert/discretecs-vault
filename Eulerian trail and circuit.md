@@ -20,6 +20,7 @@ updated:
 	- A **[[Paths|walk]]** is a nonempty, alternating sequence of [[Graph|vertices]] and edges that starts and ends with a vertex, and in which every [[Graph|edge]] in the sequence is preceded and succeeded by its endpoints.
 	- A **[[Paths|trail]]** is a walk with no repeated edge.
 	- A **[[Paths|circuit]]** is a trail that starts and ends at the same vertex. 
+- Since a circuit is a special kind of trail, an Eulerian circuit is also an Eulerian trail. But not vice versa, since a trail can start and end at different vertices. 
 - A graph has an Eulerian trail if and only if there are at most two vertices that have odd [[Degree|degree]]. 
 - A graph has an Eulerian circuit (e.g., "is Eulerian") if and only if it has *no* vertices of odd degree -- that is, the degree of every vertex is even. 
 
@@ -27,8 +28,10 @@ updated:
 
 Consider this graph $G$: 
 ![[degree-graph-example.png]]
-This graph $G$ has an Eulerian trail: **4,3,1,2,3,5,2,6,5**. However, it does not have an Eulerian circuit because it has vertices of odd degree ($\deg(4) = 1$ and $\deg(5) = 3$). 
+This graph $G$ has an Eulerian trail: **4,3,1,2,3,5,2,6,5**. However, it does not have an Eulerian circuit because it has vertices of odd degree ($\deg(4) = 1$ and $\deg(5) = 3$). Any circuit that contains all edges would have to traverse the edge $\{3,4\}$ twice. 
 
+The [[Complete graph|complete graph]] $K_3$ clearly has an Eulerian cycle 
+![[k3.png]]
 
 ## Resources 
 
