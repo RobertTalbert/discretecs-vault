@@ -47,9 +47,11 @@
             "id": "696934586ea80c69",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Assets/Images/k3.png"
+                "file": "Eulerian trail and circuit.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -120,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Assets/Images/k3.png",
+                "file": "Eulerian trail and circuit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -143,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Assets/Images/k3.png"
+                "file": "Eulerian trail and circuit.md"
               }
             }
           },
@@ -153,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Assets/Images/k3.png",
+                "file": "Eulerian trail and circuit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,8 +190,9 @@
   },
   "active": "38ae1e256bf5dea6",
   "lastOpenFiles": [
-    "Eulerian trail and circuit.md",
+    "Assets/Images/k4.png",
     "Assets/Images/k3.png",
+    "Eulerian trail and circuit.md",
     "Graphs/Paths.md",
     "Graphs/Representations of graphs.md",
     "Assets/Images/degree-graph-example.png",
@@ -213,7 +216,7 @@
     "Graphs/Complete graph.md",
     "Assets/Images/cycle-grid.png",
     "tbl.png",
-    "Assets/Pasted image 20240705121105.png",
+    "Assets/Images/Pasted image 20240705121105.png",
     "kgrid.png",
     "Assets/Images/c4.png",
     "Computer Arithmetic/Integers.md",
