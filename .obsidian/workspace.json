@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vertex coloring.md",
+                "file": "Graphs/Vertex coloring.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chromatic number.md",
+                "file": "Graphs/Chromatic number.md",
                 "mode": "source",
                 "source": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chromatic number.md",
+                "file": "Graphs/Chromatic number.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -181,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chromatic number.md"
+                "file": "Graphs/Chromatic number.md"
               }
             }
           },
@@ -191,7 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chromatic number.md",
+                "file": "Graphs/Chromatic number.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -224,11 +224,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0ba44ac19488dd6a",
+  "active": "38ae1e256bf5dea6",
   "lastOpenFiles": [
-    "Vertex coloring.md",
-    "Chromatic number.md",
-    "proper-coloring.png",
+    "Graphs/Vertex coloring.md",
+    "Graphs/Chromatic number.md",
+    "Assets/Images/proper-coloring.png",
     "Assets/Images/proper-coloring.png",
     "Assets/Images/improper-coloring.png",
     "Graphs/Eulerian trail and circuit.md",
