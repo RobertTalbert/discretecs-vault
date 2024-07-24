@@ -22,8 +22,15 @@ Notes:
 
 Here is a proper edge coloring of $K_4$ (the [[Complete graph|complete graph]] on 4 vertices):
 ![[k4-edge-color.png|400]]
+This coloring uses six different colors, one for each edge. We can create a proper edge coloring with fewer colors, for example this one which uses only four edge colors: 
+
+
+
 Here is an edge coloring of $K_4$ that is *not* proper, because the edges $\{1,2\}$ and $\{2,3\}$ have the same color even though they are incident: 
-![[Pasted image 20240724121459.png]]
+![[k4-improper-edge-color.png|400]]
+
+
+
 
 ## Resources 
 
