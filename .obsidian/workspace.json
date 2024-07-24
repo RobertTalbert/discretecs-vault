@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "Vizing's Theorem.md",
                 "mode": "source",
                 "source": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:basicconcepts",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -150,11 +150,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "1d4ac08ade1fa34a",
@@ -170,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "Vizing's Theorem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -193,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Vizing's Theorem.md"
               }
             }
           },
@@ -203,7 +205,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Vizing's Theorem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -236,7 +238,8 @@
   },
   "active": "2e827bfd97bee891",
   "lastOpenFiles": [
-    "Untitled.md",
+    "Combinatorics/License plate problem.md",
+    "Vizing's Theorem.md",
     "Chromatic index.md",
     "Graphs/Chromatic number.md",
     "Graphs/Edge coloring.md",
@@ -271,7 +274,6 @@
     "Graphs/Adjacent.md",
     "Graphs/Cycle graph.md",
     "Proof/Direct proof.md",
-    "Combinatorics/Binomial coefficient.md",
     "Basic math concepts",
     "Documents/GitHub/discretecs-vault/LICENSE",
     "Documents/GitHub/discretecs-vault",
