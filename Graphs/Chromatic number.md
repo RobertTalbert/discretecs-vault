@@ -18,7 +18,15 @@ Notes
 
 ## Examples 
 
-The chromatic number of $C_3$, the [[Cycle graph|cycle graph]] on three vertices, is $3$
+The chromatic number of $K_3$, the [[Complete graph|complete graph]] on three vertices, is $3$. Since each vertex is adjacent to the other two, three colors are necessary for a proper coloring, and two colors are not enough: 
+![[colored-k3.png|400]]
+
+By extension, $\chi(K_n) = n$ (where $K_n$ is the [[Complete graph|complete graph]] on $n$ vertices) for every positive [[Integers|integer]] $n$, since each vertex is adjacent to the remaining $n-1$ vertices. 
+
+Also by extension, any graph that has $K_3$ (a triangle) as a [[Subgraph|subgraph]] must have a chromatic number greater than or equal to 3, since a minimum of 3 colors is required to color just the triangle. 
+
+
+
 
 
 ## Resources 
