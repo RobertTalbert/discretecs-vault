@@ -95,23 +95,9 @@
             "id": "3d41fd25b1c5a09f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "The Four Color Theorem.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "33da35e721c4a863",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The Four Color Theorem.md",
-                "mode": "source",
-                "source": false
+                "file": "Assets/Images/Pasted image 20240724103305.png"
               }
             }
           },
@@ -262,21 +248,21 @@
   },
   "active": "2aedb1619b8522da",
   "lastOpenFiles": [
-    "The Four Color Theorem.md",
     "Graphs/Chromatic number.md",
-    "usa-map-colored.png",
-    "usa-map-blank.png",
+    "Assets/Images/Pasted image 20240724103305.png",
+    "Graphs/The Four Color Theorem.md",
+    "Assets/Images/k33-colored.png",
+    "Graphs/Vertex coloring.md",
+    "Assets/Images/usa-map-colored.png",
+    "Assets/Images/usa-map-blank.png",
     "Graphs/Planar graph.md",
     "Graphs/Kuratowski's Theorem.md",
-    "Pasted image 20240724103305.png",
     "Assets/Images/k4-nonplanar.png",
     "Assets/Images/k4-intersections.png",
-    "Graphs/Vertex coloring.md",
     "Assets/Images/grotzschgraph.png",
     "Assets/Images/colored-k3.png",
     "Assets/Images/proper-coloring.png",
     "Assets/Images/proper-coloring.png",
-    "Assets/Images/improper-coloring.png",
     "Graphs/Eulerian trail and circuit.md",
     "Graphs/Hamiltonian path and circuit.md",
     "Graphs/Paths.md",

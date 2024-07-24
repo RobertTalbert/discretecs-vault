@@ -38,7 +38,8 @@ The coloring, given as a function $f$, could be represented as this table:
 
 As noted, another example of a proper coloring of this graph can be created by simply coloring each vertex with a different color, so 10 colors in all. But this would use more colors than is necessary; typically, in applications, we are seeking the smallest number of colors needed to create a proper coloring of a graph, a concept related to the [[Chromatic number|chromatic number]] of the graph. 
 
-
+More examples: 
+- 
 
 ## Resources 
 
