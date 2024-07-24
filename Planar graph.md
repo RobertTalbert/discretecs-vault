@@ -24,6 +24,10 @@ The [[Complete graph|complete graph]] on 4 vertices, $K_4$, *appears* to be nonp
 But in fact this graph *is* planar, because it is possible to redraw it in a way that has no intersecting edges: 
 ![[k4.png|400]]
 
+On the other hand, $K_5$ is nonplanar: 
+![[k5.png|400]]
+
+It is impossible to redraw $K_5$ without edge crossings due to ****
 
 ## Resources 
 

@@ -114,9 +114,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "87f625ce2b26e34d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kuratowski's Theorem.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -182,7 +194,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Planar graph.md",
+                "file": "Kuratowski's Theorem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -205,7 +217,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Planar graph.md"
+                "file": "Kuratowski's Theorem.md"
               }
             }
           },
@@ -215,7 +227,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Planar graph.md",
+                "file": "Kuratowski's Theorem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -248,10 +260,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "33da35e721c4a863",
+  "active": "87f625ce2b26e34d",
   "lastOpenFiles": [
-    "Assets/Images/k4-nonplanar.png",
     "Planar graph.md",
+    "Kuratowski's Theorem.md",
+    "Assets/Images/k4-nonplanar.png",
     "Assets/Images/k4-intersections.png",
     "The Four Color Theorem.md",
     "Graphs/Chromatic number.md",
