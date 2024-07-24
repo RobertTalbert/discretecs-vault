@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Planar graph.md",
+                "file": "Graphs/Planar graph.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,14 +121,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kuratowski's Theorem.md",
+                "file": "Graphs/Kuratowski's Theorem.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -194,7 +194,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kuratowski's Theorem.md",
+                "file": "Graphs/Planar graph.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -217,7 +217,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kuratowski's Theorem.md"
+                "file": "Graphs/Planar graph.md"
               }
             }
           },
@@ -227,7 +227,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kuratowski's Theorem.md",
+                "file": "Graphs/Planar graph.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -260,10 +260,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "87f625ce2b26e34d",
+  "active": "33da35e721c4a863",
   "lastOpenFiles": [
-    "Planar graph.md",
-    "Kuratowski's Theorem.md",
+    "Graphs/Kuratowski's Theorem.md",
+    "Pasted image 20240724103305.png",
+    "Graphs/Planar graph.md",
     "Assets/Images/k4-nonplanar.png",
     "Assets/Images/k4-intersections.png",
     "The Four Color Theorem.md",
@@ -279,7 +280,6 @@
     "Assets/Images/c5-in-k5.png",
     "Graphs/Paths.md",
     "Assets/Images/k4.png",
-    "Assets/Images/k3.png",
     "Graphs/Representations of graphs.md",
     "Graphs/Graph.md",
     "Combinatorics/Factorial.md",
@@ -297,7 +297,6 @@
     "Graphs/Subgraph.md",
     "Graphs/Complete graph.md",
     "Computer Arithmetic/Integers.md",
-    "Proof/Indirect proof.md",
     "Basic math concepts",
     "Documents/GitHub/discretecs-vault/LICENSE",
     "Documents/GitHub/discretecs-vault",
