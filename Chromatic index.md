@@ -18,11 +18,12 @@ Notes:
 
 ## Examples and Non-Examples
 
-For the [[Complete graph|complete graph]] $K_4$, the chromatic index is $\chi'. Here is an [[edge coloring]] with 3 colors that implements this: 
+For the [[Complete graph|complete graph]] $K_4$, the chromatic index is $\chi'(K_4) = 3$. Here is an [[edge coloring]] with 3 colors that implements this: 
 ![[k4-edge-color-3.png|400]]
-An [[Edge coloring|edge coloring]] of $K_4$ with fewer than three colors is impossible, since each vertex has three edges [[Adjacent|incident]] with it, and each edge must receive a different color. 
+This example proves only that the chromatic index is *at most* 3; by itself it does not rule out an edge coloring with fewer than three colors. However, in fact, an [[Edge coloring|edge coloring]] of $K_4$ with fewer than three colors is impossible, since each vertex has three edges [[Adjacent|incident]] with it, and each edge must receive a different color. Therefore the chromatic index is exactly 3. 
 
-In general, 
+The chromatic index of $C_n$, the [[Cycle graph|cycle graph]] on $n$ vertices, is 2 if $n$ is even because we can just alternate colors as we go around the cycle. If $n$ is odd, there is an extra edge in the cycle and therefore 3 colors are needed. 
+
 ## Resources 
 
 (video)
