@@ -25,15 +25,13 @@ By extension, $\chi(K_n) = n$ (where $K_n$ is the [[Complete graph|complete grap
 
 Also by extension, any graph that has $K_3$ (a triangle) as a [[Subgraph|subgraph]] must have a chromatic number greater than or equal to 3, since a minimum of 3 colors is required to color just the triangle. 
 
-
+The graph below has a chromatic number of 4; a 4-coloring is shown. While there are proper colorings of this graph with more than four colors (again we could just assign 11 different colors, one for each vertex) there are no proper colorings with 3 or fewer colors: 
+![[grotzschgraph.png]]
 
 
 
 ## Resources 
 
-(video)
-
-Other resources: 
-- 
+1[](https://www.youtube.com/watch?v=3VeQhNF5-rE)
 
 ## Practice 
