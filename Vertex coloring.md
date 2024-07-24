@@ -17,6 +17,7 @@ updated:
 
 Notes: 
 - The labels used in a coloring are not necessarily literally colors; they can be text labels, numbers, etc. 
+- Every graph has a proper coloring, which can be obtained by using a different color for every vertex. 
 
 ## Examples and Non-Examples
 
@@ -32,7 +33,11 @@ The coloring, given as a function $f$, could be represented as this table:
  
 (This is not the only way to represent a coloring.) Note **this is not a proper coloring** because for example, vertices 1 and 2 are adjacent but have the same color. 
 
-**A proper coloring:** An example of a *proper* coloring of the graph above -- where adjacent vertices have different colors -- is this one, with 
+**A proper coloring:** An example of a *proper* coloring of the graph above -- where adjacent vertices have different colors -- is below, where 1 is blue, the remaining odd numbered vertices are orange, and the even numbered vertices are green: 
+![[proper-coloring.png|400]]
+
+As noted, another example of a proper coloring of this graph can be created by simply coloring each vertex with a different color, so 10 colors in all. But this would not be a
+
 
 
 ## Resources 
