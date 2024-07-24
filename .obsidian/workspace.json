@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Graphs/Planar graph.md",
+                "file": "The Four Color Theorem.md",
                 "mode": "source",
                 "source": false
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Graphs/Planar graph.md",
+                "file": "The Four Color Theorem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -217,7 +217,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Graphs/Planar graph.md"
+                "file": "The Four Color Theorem.md"
               }
             }
           },
@@ -227,7 +227,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Graphs/Planar graph.md",
+                "file": "The Four Color Theorem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -262,9 +262,9 @@
   },
   "active": "33da35e721c4a863",
   "lastOpenFiles": [
+    "Graphs/Planar graph.md",
     "Graphs/Kuratowski's Theorem.md",
     "Pasted image 20240724103305.png",
-    "Graphs/Planar graph.md",
     "Assets/Images/k4-nonplanar.png",
     "Assets/Images/k4-intersections.png",
     "The Four Color Theorem.md",

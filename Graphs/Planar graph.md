@@ -27,13 +27,9 @@ But in fact this graph *is* planar, because it is possible to redraw it in a way
 On the other hand, $K_5$ is nonplanar: 
 ![[k5.png|400]]
 
-It is impossible to redraw $K_5$ without edge crossings due to [[Kuratowski's Theorem]] since 
+It is impossible to redraw $K_5$ without edge crossings due to [[Kuratowski's Theorem]] which states in part that if a graph contains $K_5$ or a subdivision of $K_5$ as a [[Subgraph|subgraph]] then the graph is nonplanar. 
 
 ## Resources 
 
-(video)
+![](https://www.youtube.com/watch?v=wnYtITkWAYA)
 
-Other resources: 
-- 
-
-## Practice 

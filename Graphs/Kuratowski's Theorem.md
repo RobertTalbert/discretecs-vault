@@ -19,3 +19,6 @@ The theorem would also conclude that this graph is nonplanar:
 ![[Pasted image 20240724103305.png]]
 This is because there is a copy of $K_{3,3}$ contained in it: One partition is $\{l,b,e\}$ and the other is $\{a,c,g\}$. ([Source](https://math.stackexchange.com/questions/2476097/is-this-graph-a-planar-graph-or-not))
 
+## Resources
+
+- [A proof of Kuratowski's Theorem](https://www.math.cmu.edu/~mradclif/teaching/228F16/Kuratowski.pdf)
