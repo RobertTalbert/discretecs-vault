@@ -32,6 +32,4 @@ The graph below has a chromatic number of 4; a 4-coloring is shown. While there 
 
 ## Resources 
 
-1[](https://www.youtube.com/watch?v=3VeQhNF5-rE)
-
-## Practice 
+![](https://www.youtube.com/watch?v=3VeQhNF5-rE)
