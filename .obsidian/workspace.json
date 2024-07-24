@@ -92,6 +92,18 @@
             }
           },
           {
+            "id": "6943be521ba9e199",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bipartite graph.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "6899436834189a27",
             "type": "leaf",
             "state": {
@@ -116,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -182,7 +194,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Graphs/Brooks' Theorem.md",
+                "file": "Bipartite graph.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -205,7 +217,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Graphs/Brooks' Theorem.md"
+                "file": "Bipartite graph.md"
               }
             }
           },
@@ -215,7 +227,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Graphs/Brooks' Theorem.md",
+                "file": "Bipartite graph.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -246,10 +258,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "38ae1e256bf5dea6",
+  "active": "6943be521ba9e199",
   "lastOpenFiles": [
-    "Assets/Images/random-graph723-color.png",
     "Graphs/Brooks' Theorem.md",
+    "Bipartite graph.md",
+    "Assets/Images/random-graph723-color.png",
     "Graphs/Kuratowski's Theorem.md",
     "Assets/Images/random-graph-723.png",
     "Graphs/Chromatic number.md",
