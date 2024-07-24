@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Edge coloring.md",
+                "file": "Graphs/Edge coloring.md",
                 "mode": "source",
                 "source": false
               }
@@ -80,29 +80,19 @@
             }
           },
           {
-            "id": "3d41fd25b1c5a09f",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Assets/Images/Pasted image 20240724103305.png"
-              }
-            }
-          },
-          {
-            "id": "87f625ce2b26e34d",
+            "id": "6899436834189a27",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Graphs/Kuratowski's Theorem.md",
+                "file": "Chromatic index.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -168,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Edge coloring.md",
+                "file": "Chromatic index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -191,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Edge coloring.md"
+                "file": "Chromatic index.md"
               }
             }
           },
@@ -201,7 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Edge coloring.md",
+                "file": "Chromatic index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -234,26 +224,26 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4678b74033a0c8a6",
+  "active": "6899436834189a27",
   "lastOpenFiles": [
-    "k4-improper-edge-color.png",
-    "k4-edge-color.png",
+    "Graphs/Chromatic number.md",
+    "Chromatic index.md",
+    "Graphs/Edge coloring.md",
+    "Assets/Images/k4-improper-edge-color.png",
+    "Assets/Images/k4-edge-color-3.png",
+    "Assets/Images/k4-edge-color.png",
     "Graphs/Vertex coloring.md",
-    "Edge coloring.md",
     "Graphs/Planar graph.md",
     "Graphs/Subdivision.md",
     "Assets/Images/subdivision2.png",
     "Assets/Images/subdivision1.png",
     "Assets/Images/cycle5-color2.png",
     "Assets/Images/cycle5-color1.png",
-    "Graphs/Chromatic number.md",
     "Assets/Images/Pasted image 20240724103305.png",
     "Graphs/The Four Color Theorem.md",
     "Assets/Images/k33-colored.png",
     "Assets/Images/usa-map-colored.png",
-    "Assets/Images/usa-map-blank.png",
     "Graphs/Kuratowski's Theorem.md",
-    "Assets/Images/k4-nonplanar.png",
     "Graphs/Eulerian trail and circuit.md",
     "Graphs/Hamiltonian path and circuit.md",
     "Graphs/Paths.md",
