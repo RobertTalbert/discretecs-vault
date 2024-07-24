@@ -83,11 +83,9 @@
             "id": "9099ce8450a4519c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Brooks' Theorem.md",
-                "mode": "source",
-                "source": false
+                "file": "random-graph.png"
               }
             }
           },
@@ -182,7 +180,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Brooks' Theorem.md",
+                "file": "random-graph.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -205,7 +203,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Brooks' Theorem.md"
+                "file": "random-graph.png"
               }
             }
           },
@@ -215,7 +213,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Brooks' Theorem.md",
+                "file": "random-graph.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -246,10 +244,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9099ce8450a4519c",
+  "active": "38ae1e256bf5dea6",
   "lastOpenFiles": [
-    "Graphs/Chromatic number.md",
     "Brooks' Theorem.md",
+    "random-graph.png",
+    "Graphs/Chromatic number.md",
     "Graphs/Vizing's Theorem.md",
     "Assets/Images/k33-edge-color.png",
     "Combinatorics/License plate problem.md",
@@ -267,7 +266,6 @@
     "Assets/Images/cycle5-color1.png",
     "Assets/Images/Pasted image 20240724103305.png",
     "Graphs/The Four Color Theorem.md",
-    "Assets/Images/k33-colored.png",
     "Graphs/Kuratowski's Theorem.md",
     "Graphs/Eulerian trail and circuit.md",
     "Graphs/Hamiltonian path and circuit.md",
@@ -283,7 +281,6 @@
     "Proof/Mathematical induction.md",
     "Proof/Strong induction.md",
     "Graphs/Adjacent.md",
-    "Graphs/Cycle graph.md",
     "Basic math concepts",
     "Documents/GitHub/discretecs-vault/LICENSE",
     "Documents/GitHub/discretecs-vault",
