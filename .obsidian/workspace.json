@@ -128,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -194,7 +194,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Four Color Theorem.md",
+                "file": "Graphs/Vertex coloring.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -217,7 +217,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Four Color Theorem.md"
+                "file": "Graphs/Vertex coloring.md"
               }
             }
           },
@@ -227,7 +227,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Four Color Theorem.md",
+                "file": "Graphs/Vertex coloring.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -260,16 +260,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "33da35e721c4a863",
+  "active": "2aedb1619b8522da",
   "lastOpenFiles": [
-    "Pasted image 20240724104500.png",
+    "The Four Color Theorem.md",
+    "Graphs/Chromatic number.md",
+    "usa-map-colored.png",
+    "usa-map-blank.png",
     "Graphs/Planar graph.md",
     "Graphs/Kuratowski's Theorem.md",
     "Pasted image 20240724103305.png",
     "Assets/Images/k4-nonplanar.png",
     "Assets/Images/k4-intersections.png",
-    "The Four Color Theorem.md",
-    "Graphs/Chromatic number.md",
     "Graphs/Vertex coloring.md",
     "Assets/Images/grotzschgraph.png",
     "Assets/Images/colored-k3.png",
@@ -278,9 +279,7 @@
     "Assets/Images/improper-coloring.png",
     "Graphs/Eulerian trail and circuit.md",
     "Graphs/Hamiltonian path and circuit.md",
-    "Assets/Images/c5-in-k5.png",
     "Graphs/Paths.md",
-    "Assets/Images/k4.png",
     "Graphs/Representations of graphs.md",
     "Graphs/Graph.md",
     "Combinatorics/Factorial.md",

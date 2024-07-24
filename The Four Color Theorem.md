@@ -19,10 +19,14 @@ Notes:
 ## Examples and Non-Examples
 
 A popular application of the Four Color Theorem is coloring regions on a map. Consider this map of the lower 48 United States: 
-![[Pasted image 20240724104500.png]]
+![[usa-map-blank.png]]
+We can think of this map as a graph, where each state is a vertex and two vertices are [[Adjacent|adjacent]] if they share a linear section of a border (disregard places where states meet at only a point, like Arizona and Colorado). Then clearly this graph would be planar, hence we can color in the states using only four colors, with no two adjacent states having the same color. For example: 
+![[usa-map-colored.png]]
 
 
-The complete graph on 6 vertices $K_6$ cannot be colored with fewer than 6 colors, since each vertex is adjacent to the remaining five. Therefore the contrapositive of the Four Color Theorem says $K_6$ is nonplanar. (A fact also concluded using [[Kuratowski's Theorem]].)
+
+More examples/non-examples:
+- The complete graph on 6 vertices $K_6$ cannot be colored with fewer than 6 colors, since each vertex is adjacent to the remaining five. Therefore the contrapositive of the Four Color Theorem says $K_6$ is nonplanar. (A fact also concluded using [[Kuratowski's Theorem]].)
 
 
 
