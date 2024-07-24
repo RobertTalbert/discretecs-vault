@@ -78,9 +78,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0ba44ac19488dd6a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chromatic number.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -146,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vertex coloring.md",
+                "file": "Chromatic number.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -169,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vertex coloring.md"
+                "file": "Chromatic number.md"
               }
             }
           },
@@ -179,7 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vertex coloring.md",
+                "file": "Chromatic number.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -212,11 +224,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2aedb1619b8522da",
+  "active": "0ba44ac19488dd6a",
   "lastOpenFiles": [
+    "Vertex coloring.md",
+    "Chromatic number.md",
+    "proper-coloring.png",
     "Assets/Images/proper-coloring.png",
     "Assets/Images/improper-coloring.png",
-    "Vertex coloring.md",
     "Graphs/Eulerian trail and circuit.md",
     "Graphs/Hamiltonian path and circuit.md",
     "Assets/Images/c5-in-k5.png",
@@ -243,8 +257,6 @@
     "Assets/Images/degree-example-2.png",
     "Graphs/Subgraph.md",
     "Graphs/Complete graph.md",
-    "Assets/Images/cycle-grid.png",
-    "tbl.png",
     "Computer Arithmetic/Integers.md",
     "Proof/Indirect proof.md",
     "Proof/Proof by contraposition.md",

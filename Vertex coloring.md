@@ -4,6 +4,7 @@ aliases:
   - vertex coloring
   - graph coloring
   - color
+  - colorings
 tags:
   - graphs
 created: 2024-07-24
@@ -33,10 +34,9 @@ The coloring, given as a function $f$, could be represented as this table:
  
 (This is not the only way to represent a coloring.) Note **this is not a proper coloring** because for example, vertices 1 and 2 are adjacent but have the same color. 
 
-**A proper coloring:** An example of a *proper* coloring of the graph above -- where adjacent vertices have different colors -- is below, where 1 is blue, the remaining odd numbered vertices are orange, and the even numbered vertices are green: 
-![[proper-coloring.png|400]]
+**A proper coloring:** An example of a *proper* coloring of the graph above -- where adjacent vertices have different colors -- is below, where 1 is red, the remaining odd numbered vertices are blue, and the even numbered vertices are green: ![[proper-coloring.png|400]]
 
-As noted, another example of a proper coloring of this graph can be created by simply coloring each vertex with a different color, so 10 colors in all. But this would not be a
+As noted, another example of a proper coloring of this graph can be created by simply coloring each vertex with a different color, so 10 colors in all. But this would use more colors than is necessary; typically, in applications, we are seeking the smallest number of colors needed to create a proper coloring of a graph, a concept related to the 
 
 
 
