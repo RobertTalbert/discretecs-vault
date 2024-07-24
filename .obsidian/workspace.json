@@ -80,12 +80,24 @@
             }
           },
           {
+            "id": "9099ce8450a4519c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Brooks' Theorem.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "6899436834189a27",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chromatic index.md",
+                "file": "Graphs/Chromatic index.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,14 +109,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vizing's Theorem.md",
+                "file": "Graphs/Vizing's Theorem.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -150,13 +162,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "1d4ac08ade1fa34a",
@@ -172,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vizing's Theorem.md",
+                "file": "Brooks' Theorem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -195,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vizing's Theorem.md"
+                "file": "Brooks' Theorem.md"
               }
             }
           },
@@ -205,7 +215,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vizing's Theorem.md",
+                "file": "Brooks' Theorem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -236,12 +246,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2e827bfd97bee891",
+  "active": "9099ce8450a4519c",
   "lastOpenFiles": [
-    "Combinatorics/License plate problem.md",
-    "Vizing's Theorem.md",
-    "Chromatic index.md",
     "Graphs/Chromatic number.md",
+    "Brooks' Theorem.md",
+    "Graphs/Vizing's Theorem.md",
+    "Assets/Images/k33-edge-color.png",
+    "Combinatorics/License plate problem.md",
+    "Graphs/Chromatic index.md",
     "Graphs/Edge coloring.md",
     "Assets/Images/k4-improper-edge-color.png",
     "Assets/Images/k4-edge-color-3.png",
@@ -256,7 +268,6 @@
     "Assets/Images/Pasted image 20240724103305.png",
     "Graphs/The Four Color Theorem.md",
     "Assets/Images/k33-colored.png",
-    "Assets/Images/usa-map-colored.png",
     "Graphs/Kuratowski's Theorem.md",
     "Graphs/Eulerian trail and circuit.md",
     "Graphs/Hamiltonian path and circuit.md",
@@ -273,7 +284,6 @@
     "Proof/Strong induction.md",
     "Graphs/Adjacent.md",
     "Graphs/Cycle graph.md",
-    "Proof/Direct proof.md",
     "Basic math concepts",
     "Documents/GitHub/discretecs-vault/LICENSE",
     "Documents/GitHub/discretecs-vault",
