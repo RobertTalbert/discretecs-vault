@@ -44,30 +44,6 @@
             }
           },
           {
-            "id": "696934586ea80c69",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Graphs/Eulerian trail and circuit.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7b7808ae77cb9a0e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Graphs/Eulerian trail and circuit.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "2aedb1619b8522da",
             "type": "leaf",
             "state": {
@@ -80,12 +56,12 @@
             }
           },
           {
-            "id": "69c0fd14ac088d4e",
+            "id": "4678b74033a0c8a6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Graphs/Planar graph.md",
+                "file": "Edge coloring.md",
                 "mode": "source",
                 "source": false
               }
@@ -126,7 +102,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -192,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Graphs/Planar graph.md",
+                "file": "Edge coloring.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -215,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Graphs/Planar graph.md"
+                "file": "Edge coloring.md"
               }
             }
           },
@@ -225,7 +201,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Graphs/Planar graph.md",
+                "file": "Edge coloring.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -241,7 +217,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -257,12 +234,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "69c0fd14ac088d4e",
+  "active": "4678b74033a0c8a6",
   "lastOpenFiles": [
+    "Graphs/Vertex coloring.md",
+    "Edge coloring.md",
+    "Graphs/Planar graph.md",
     "Graphs/Subdivision.md",
     "Assets/Images/subdivision2.png",
     "Assets/Images/subdivision1.png",
-    "Graphs/Vertex coloring.md",
     "Assets/Images/cycle5-color2.png",
     "Assets/Images/cycle5-color1.png",
     "Graphs/Chromatic number.md",
@@ -271,7 +250,6 @@
     "Assets/Images/k33-colored.png",
     "Assets/Images/usa-map-colored.png",
     "Assets/Images/usa-map-blank.png",
-    "Graphs/Planar graph.md",
     "Graphs/Kuratowski's Theorem.md",
     "Assets/Images/k4-nonplanar.png",
     "Assets/Images/k4-intersections.png",
