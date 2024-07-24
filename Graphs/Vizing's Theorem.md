@@ -17,7 +17,7 @@ Notes:
 
 ## Example
 
-In $K_{3,3}$, the complete bipartite graph with three [[Graph|vertices]] in each partition, the [[Degree|degree]] of each vertex is 3, and therefore either $\chi'(K_{3,3}) = 3$ or $\chi'(K_{3,3}) = 4$. In this case, it is easy to check that the [[Chromatic index|chromatic index]] is 3 and not 4, by direct demonstration of an [[Edge coloring|edge coloring]] using only three colors: 
+In $K_{3,3}$, the [[Bipartite graph|complete bipartite graph]] with three [[Graph|vertices]] in each partition, the [[Degree|degree]] of each vertex is 3, and therefore either $\chi'(K_{3,3}) = 3$ or $\chi'(K_{3,3}) = 4$. In this case, it is easy to check that the [[Chromatic index|chromatic index]] is 3 and not 4, by direct demonstration of an [[Edge coloring|edge coloring]] using only three colors: 
 
 ![[k33-edge-color.png|400]]
 
