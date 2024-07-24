@@ -14,9 +14,16 @@ updated:
 > [!tldr] Definition
 > Given a [[Graph|graph]] $G$, an **edge coloring** of $G$ is a function that assigns to every [[Graph|edge]] of $G$ some label. A **proper edge coloring** is an edge coloring in which [[Adjacent|incident]] edges receive different colors; that is, if two edges have the same color, they cannot be incident (and vice versa). 
 
-(blurb)
+Notes: 
+- The labels used in a coloring are not necessarily literally colors; they can be text labels, numbers, etc. 
+- Every graph has a proper edge coloring, which can be obtained by using a different color for every edge. 
 
 ## Examples and Non-Examples
+
+Here is a proper edge coloring of $K_4$ (the [[Complete graph|complete graph]] on 4 vertices):
+![[k4-edge-color.png|400]]
+Here is an edge coloring of $K_4$ that is *not* proper, because the edges $\{1,2\}$ and $\{2,3\}$ have the same color even though they are incident: 
+![[Pasted image 20240724121459.png]]
 
 ## Resources 
 
