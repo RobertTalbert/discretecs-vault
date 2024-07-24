@@ -260,8 +260,9 @@
   },
   "active": "6943be521ba9e199",
   "lastOpenFiles": [
-    "bipartite1.png",
+    "bipartite2.png",
     "Bipartite graph.md",
+    "bipartite1.png",
     "Graphs/Graph.md",
     "edge.md",
     "Graphs/Brooks' Theorem.md",
@@ -282,7 +283,6 @@
     "Graphs/Subdivision.md",
     "Assets/Images/subdivision2.png",
     "Assets/Images/subdivision1.png",
-    "Assets/Images/cycle5-color2.png",
     "Graphs/The Four Color Theorem.md",
     "Graphs/Eulerian trail and circuit.md",
     "Graphs/Hamiltonian path and circuit.md",

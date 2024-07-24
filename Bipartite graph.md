@@ -26,8 +26,18 @@ Notes:
 
 The graph below is bipartite, with the partitions separated into red/numbers and blue/letters: 
 ![[bipartite1.png]]
-It is bipartite because every edge has one endpoint in one of the partitions and the other endpoint in the other partition. However it is not a *complete* bipartite graph because there are vertices in one partition that are not [[Adjacent|adjacent]] to every vertex in the other. For example vertex 1 is not adjacent to vertex B. In fact, none of the vertices in the red/upper partition is connected to *all* vertices in the blue/lower one
+It is bipartite because every edge has one endpoint in one of the partitions and the other endpoint in the other partition. However it is not a *complete* bipartite graph because there are vertices in one partition that are not [[Adjacent|adjacent]] to every vertex in the other. For example vertex 1 is not adjacent to vertex B. In fact, none of the vertices in the red/upper partition is connected to *all* vertices in the blue/lower one. 
 
+The complete bipartite version of the graph above is denoted $K_{4,5}$ since there are 4 vertices in one partition and 5 in the other, and it looks like this (the vertices are relabeled and the graph is "sideways" but it is isomorphic to the first one): 
+
+![[bipartite2.png|400]]
+
+The complete bipartite graph $K_{3,3}$ is frequently encountered in discrete mathematics as an example or counterexample of different properties: 
+![[k33-colored.png|400]]
+
+For example, $K_{3,3}$ is one of the simplest examples of a non-[[Planar graph|planar]] graph. 
+
+A very simple example of a graph that is *not* bipartite is $K_3$, the [[Complete graph|complete graph]] 
 
 ## Resources 
 
