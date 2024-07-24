@@ -20,12 +20,11 @@ Notes:
 
 Consider this graph $G$ with 4 vertices and 5 edges: 
 ![[subdivision1.png|400]]
+Then this graph $H$ is a subdivision of $G$:
+![[subdivision2.png|450]]
+Here, we have replaced the edge $\{1,3\}$ with the path $1, v_5, 3$. Similarly there are new vertices in "the middle" of the other four original edges. The vertices 1,2,3,4 correspond directly to vertices in the original $G$ and are thus the branch vertices. 
 
 ## Resources 
 
-(video)
+![](https://www.youtube.com/watch?v=ciqdbjB_syM)
 
-Other resources: 
-- 
-
-## Practice 
