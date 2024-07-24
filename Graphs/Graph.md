@@ -15,6 +15,7 @@ aliases:
   - Edges
   - Vertices
   - Nodes
+  - endpoint
 tags:
   - graphs
 created: 2024-07-01
