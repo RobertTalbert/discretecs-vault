@@ -83,9 +83,11 @@
             "id": "9099ce8450a4519c",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "random-graph.png"
+                "file": "Brooks' Theorem.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -180,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "random-graph.png",
+                "file": "Brooks' Theorem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -203,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "random-graph.png"
+                "file": "Brooks' Theorem.md"
               }
             }
           },
@@ -213,7 +215,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "random-graph.png",
+                "file": "Brooks' Theorem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -244,10 +246,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "38ae1e256bf5dea6",
+  "active": "9099ce8450a4519c",
   "lastOpenFiles": [
+    "Graphs/Kuratowski's Theorem.md",
     "Brooks' Theorem.md",
-    "random-graph.png",
+    "Assets/Images/random-graph-723.png",
     "Graphs/Chromatic number.md",
     "Graphs/Vizing's Theorem.md",
     "Assets/Images/k33-edge-color.png",
@@ -266,7 +269,6 @@
     "Assets/Images/cycle5-color1.png",
     "Assets/Images/Pasted image 20240724103305.png",
     "Graphs/The Four Color Theorem.md",
-    "Graphs/Kuratowski's Theorem.md",
     "Graphs/Eulerian trail and circuit.md",
     "Graphs/Hamiltonian path and circuit.md",
     "Graphs/Paths.md",
