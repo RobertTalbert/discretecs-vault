@@ -38,8 +38,16 @@ The coloring, given as a function $f$, could be represented as this table:
 
 As noted, another example of a proper coloring of this graph can be created by simply coloring each vertex with a different color, so 10 colors in all. But this would use more colors than is necessary; typically, in applications, we are seeking the smallest number of colors needed to create a proper coloring of a graph, a concept related to the [[Chromatic number|chromatic number]] of the graph. 
 
-More examples: 
-- The cycle graph $C_5$ can be 5-colored, just by picking a different color for each of the vertices: 
+More examples: The cycle graph $C_5$ can be 5-colored, just by picking a different color for each of the vertices: 
+![[cycle5-color1.png|400]]
+
+But we can obtain a proper coloring using fewer colors. Here is a 3-coloring: 
+![[cycle5-color2.png|400]]
+But it is impossible to find a 2-coloring for this graph: Suppose we color vertex 1 red. Then vertices 2 and 5 must be different, say green. We can color vertex 3 red again, but then vertex 4 cannot be red -- it must be something other than red or green. 
+
+Therefore this graph $C_5$ is 5-colorable, as well as 3-colorable, but it is not 2-colorable. 
+
+
 
 ## Resources 
 

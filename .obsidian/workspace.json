@@ -80,6 +80,18 @@
             }
           },
           {
+            "id": "69c0fd14ac088d4e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Subdivision.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "0ba44ac19488dd6a",
             "type": "leaf",
             "state": {
@@ -114,7 +126,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -180,7 +192,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Graphs/Vertex coloring.md",
+                "file": "Subdivision.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -203,7 +215,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Graphs/Vertex coloring.md"
+                "file": "Subdivision.md"
               }
             }
           },
@@ -213,7 +225,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Graphs/Vertex coloring.md",
+                "file": "Subdivision.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -246,13 +258,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2aedb1619b8522da",
+  "active": "69c0fd14ac088d4e",
   "lastOpenFiles": [
+    "Graphs/Vertex coloring.md",
+    "Subdivision.md",
+    "Assets/Images/cycle5-color2.png",
+    "Assets/Images/cycle5-color1.png",
     "Graphs/Chromatic number.md",
     "Assets/Images/Pasted image 20240724103305.png",
     "Graphs/The Four Color Theorem.md",
     "Assets/Images/k33-colored.png",
-    "Graphs/Vertex coloring.md",
     "Assets/Images/usa-map-colored.png",
     "Assets/Images/usa-map-blank.png",
     "Graphs/Planar graph.md",
@@ -261,8 +276,6 @@
     "Assets/Images/k4-intersections.png",
     "Assets/Images/grotzschgraph.png",
     "Assets/Images/colored-k3.png",
-    "Assets/Images/proper-coloring.png",
-    "Assets/Images/proper-coloring.png",
     "Graphs/Eulerian trail and circuit.md",
     "Graphs/Hamiltonian path and circuit.md",
     "Graphs/Paths.md",
