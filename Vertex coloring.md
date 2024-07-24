@@ -20,7 +20,19 @@ Notes:
 
 ## Examples and Non-Examples
 
-**An improper vertex coloring:** The g
+**An improper vertex coloring:** The graph below has ten vertices labelled 1 through 10 and colored red, green or blue:
+
+![[improper-coloring.png|400]]
+
+The coloring, given as a function $f$, could be represented as this table: 
+
+|  $v$   | 1   | 2   | 3   | 4   | 5   | 6   | 7    | 8    | 9    | 10    |
+| :----: | --- | --- | --- | --- | --- | --- | ---- | ---- | ---- | ----- |
+| $f(v)$ | Red | Red | Red | Red | Red | Red | Blue | Blue | Blue | Green |
+ 
+(This is not the only way to represent a coloring.) Note **this is not a proper coloring** because for example, vertices 1 and 2 are adjacent but have the same color. 
+
+**A proper coloring:** An example of a *proper* coloring of the graph above -- where adjacent vertices have different colors -- is this one, with 
 
 
 ## Resources 
