@@ -197,18 +197,16 @@
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -224,7 +222,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6899436834189a27",
+  "active": "16750854c4656389",
   "lastOpenFiles": [
     "Graphs/Chromatic number.md",
     "Chromatic index.md",
