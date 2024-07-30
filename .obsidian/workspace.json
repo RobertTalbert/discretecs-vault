@@ -4,131 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "751eb08a62dcf91d",
+        "id": "1b8f6cf1005c746d",
         "type": "tabs",
         "children": [
           {
-            "id": "3b08a6d93a0d9561",
+            "id": "062d75b67f82d631",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Graphs/Representations of graphs.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "513389e435e26a9e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Graphs/Graph.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "834c221dce36b2a9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Graphs/Paths.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2aedb1619b8522da",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Graphs/Vertex coloring.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4678b74033a0c8a6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Graphs/Edge coloring.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0ba44ac19488dd6a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Graphs/Chromatic number.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9099ce8450a4519c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Graphs/Brooks' Theorem.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6943be521ba9e199",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Graphs/Bipartite graph.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6899436834189a27",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Graphs/Chromatic index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2e827bfd97bee891",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Graphs/Vizing's Theorem.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
@@ -194,7 +81,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Graphs/Bipartite graph.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -216,9 +102,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Graphs/Bipartite graph.md"
-              }
+              "state": {}
             }
           },
           {
@@ -227,7 +111,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Graphs/Bipartite graph.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -258,27 +141,29 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6943be521ba9e199",
+  "active": "062d75b67f82d631",
   "lastOpenFiles": [
-    "Graphs/Kuratowski's Theorem.md",
+    "Graphs/Vizing's Theorem.md",
+    "Graphs/Chromatic index.md",
+    "Graphs/Representations of graphs.md",
+    "Graphs/Graph.md",
+    "Graphs/Paths.md",
+    "Graphs/Vertex coloring.md",
+    "Graphs/Edge coloring.md",
+    "Graphs/Chromatic number.md",
+    "Graphs/Brooks' Theorem.md",
     "Graphs/Bipartite graph.md",
+    "Graphs/Kuratowski's Theorem.md",
     "Assets/Images/bipartite2.png",
     "Assets/Images/bipartite1.png",
-    "Graphs/Graph.md",
     "edge.md",
-    "Graphs/Brooks' Theorem.md",
     "Assets/Images/random-graph723-color.png",
     "Assets/Images/random-graph-723.png",
-    "Graphs/Chromatic number.md",
-    "Graphs/Vizing's Theorem.md",
     "Assets/Images/k33-edge-color.png",
     "Combinatorics/License plate problem.md",
-    "Graphs/Chromatic index.md",
-    "Graphs/Edge coloring.md",
     "Assets/Images/k4-improper-edge-color.png",
     "Assets/Images/k4-edge-color-3.png",
     "Assets/Images/k4-edge-color.png",
-    "Graphs/Vertex coloring.md",
     "Graphs/Planar graph.md",
     "Graphs/Subdivision.md",
     "Assets/Images/subdivision2.png",
@@ -286,8 +171,6 @@
     "Graphs/The Four Color Theorem.md",
     "Graphs/Eulerian trail and circuit.md",
     "Graphs/Hamiltonian path and circuit.md",
-    "Graphs/Paths.md",
-    "Graphs/Representations of graphs.md",
     "Combinatorics/Factorial.md",
     "Basic math concepts/Floor and ceiling functions.md",
     "Basic math concepts/Divisibility.md",
