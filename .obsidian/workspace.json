@@ -11,8 +11,12 @@
             "id": "062d75b67f82d631",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Trees/Tree.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Trees/Tree.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -102,7 +107,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Trees/Tree.md"
+              }
             }
           },
           {
@@ -111,6 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Trees/Tree.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,8 +149,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "062d75b67f82d631",
+  "active": "38ae1e256bf5dea6",
   "lastOpenFiles": [
+    "Trees/Tree.md",
     "Graphs/Vizing's Theorem.md",
     "Graphs/Chromatic index.md",
     "Graphs/Representations of graphs.md",
