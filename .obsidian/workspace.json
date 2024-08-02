@@ -166,8 +166,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -187,7 +186,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c020c44517440ddf",
+  "active": "16750854c4656389",
   "lastOpenFiles": [
     "Graphs/Isomorphism.md",
     "Assets/Images/nonisomorphic-ex1.png",
