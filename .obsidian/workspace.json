@@ -138,11 +138,12 @@
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": true,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -162,7 +163,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4fe3f78a62ea8445",
+  "active": "21830707dc3b0d28",
   "lastOpenFiles": [
     "Assets/Images/connected-examples.png",
     "Graphs/Connected graph.md",
