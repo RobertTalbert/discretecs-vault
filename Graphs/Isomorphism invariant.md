@@ -36,6 +36,8 @@ Claim: If $G$ is connected and $G$ is isomorphic to $H$, then $H$ is connected.
 
 Proof: We use a [[Indirect proof|proof by contradiction]] this time. Assume that $G$ is connected, $G$ is isomorphic to $H$, but (for a contradiction) $H$ is not connected. The latter assumption means that there exist two vertices in $H$, call them $u$ and $v$, that have no walk or path between them. 
 
+Since $G$ and $H$ are isomorphic, there is a bijective, edge-preserving function $f$ from the vertex set of $G$ to the vertex set of $H$. Since $f$ is a bijection, it is [[Surjective|surjective]], so there are vertices $a$ and $b$ in $G$ that map onto $u$ and $v$ respectively; that is, $f(a) = u$ and $f(b) = v$; and these are the only such vertices in $G$ since $f$ is also [[Injective|injective]].  Now, since $G$ is connected, there is a [[Paths|walk]] (possibly a [[Paths|path]]) in $G$ that starts at $a$ and ends at $b$. Denote this walk $a, x_1, x_2, x_3, \dots, x_m, b$ as a list of [[Adjacent|adjacent]] vertices. Since $f$ preserves edges, there is an edge in $H$ between $u = f(a)$ and $f(x_1)$; an edge between $f(x_1)$ and $f(x_2)$, and so on until there is an edge between $f(x_m)$ and $f(b) = v$. each of these edges 
+
 
 ## Resources 
 
