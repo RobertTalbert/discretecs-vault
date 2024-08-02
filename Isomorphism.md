@@ -30,6 +30,11 @@ The isomorphism that makes the graphs isomorphic, is the following function $f$ 
 |  $v$   | $v1$ | $v2$ | $v3$ | $v4$ | $v5$ |     |
 | :----: | ---- | ---- | ---- | ---- | ---- | --- |
 | $f(v)$ | $u1$ | $    |      |      |      |     |
+This function is a bijection because it is [[Injective|injective]] (there are no "collisions") and [[Surjective|surjective]] (every vertex in the [[Codomain|codomain]] is "hit" by at least one vertex in the [[Domain|domain]]). Let's check to see if edges are preserved: 
+
+| Edge in $G$ | $\{v1, v3\}$ | $\{v1,v2\}$ |  $\{v1,v2\}$
+
+
 
 ## Resources 
 
