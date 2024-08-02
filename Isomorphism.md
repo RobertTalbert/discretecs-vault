@@ -27,13 +27,20 @@ The following two graphs are isomorphic:
 ([Source](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.researchgate.net%2Ffigure%2FIsomorphic-graphs_fig1_275769739&psig=AOvVaw1meLN4vGX82Va777dmGwfI&ust=1722703525920000&source=images&cd=vfe&opi=89978449&ved=0CBQQjhxqFwoTCKiRlfTg1ocDFQAAAAAdAAAAABAJ))
 The isomorphism that makes the graphs isomorphic, is the following function $f$ from the vertex set $\{v1,v2,v3,v4,v5\}$ to the other vertex set $\{u1, u2,u3,u4,u5\}$:
 
-|  $v$   | $v1$ | $v2$ | $v3$ | $v4$ | $v5$ |     |
-| :----: | ---- | ---- | ---- | ---- | ---- | --- |
-| $f(v)$ | $u1$ | $    |      |      |      |     |
-This function is a bijection because it is [[Injective|injective]] (there are no "collisions") and [[Surjective|surjective]] (every vertex in the [[Codomain|codomain]] is "hit" by at least one vertex in the [[Domain|domain]]). Let's check to see if edges are preserved: 
+|  $v$   | $v1$ | $v2$ | $v3$ | $v4$ | $v5$ |
+| :----: | ---- | ---- | ---- | ---- | ---- |
+| $f(v)$ | $u1$ | $u2$ | $u3$ | $u4$ | $u5$ |
+This function is a bijection because it is [[Injective|injective]] (there are no "collisions") and [[Surjective|surjective]] (every vertex in the [[Codomain|codomain]] is "hit" by at least one vertex in the [[Domain|domain]]). Let's check to see if edges are preserved. For each edge $\{a,b\}$ we will apply the function to the endpoints to get $\{f(a), f(b)\}$ and then see if the result is truly an edge in $H$. 
 
-| Edge in $G$ | $\{v1, v3\}$ | $\{v1,v2\}$ |  $\{v1,v2\}$
+|             Edge in $G$             | $\{v1, v2\}$ | $\{v1,v3\}$ | $\{v1,v4\}$ | $\{v1,v5\}$ | $\{v2,v3\}$ | $\{v3,v4\}$ | $\{v4,v5\}$ | $\{v5,v2\}$ |
+| :---------------------------------: | ------------ | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
+| After applying $f$ to the endpoints | $\{u1, u2\}$ | $\{u1,u3\}$ | $\{u1,u4\}$ | $\{u1,u5\}$ | $\{u2,u3\}$ | $\{u3,u4\}$ | $\{u4,u5\}$ | $\{u5,u2\}$ |
+|        Is it an edge in $H$?        | Yes          | Yes         | Yes         | Yes         | Yes         | Yes         | Yes         | Yes         |
+If two graphs are isomorphic, there can be more than one isomorphism between them. For example here is another bijection on the vertex sets that is also an isomorphism: 
 
+|  $v$   | $v1$ | $v2$ | $v3$ | $v4$ | $v5$ |
+| :----: | ---- | ---- | ---- | ---- | ---- |
+| $f(v)$ | $u1$ | $u2$ | $u3$ | $u4$ | $u5$ |
 
 
 ## Resources 
