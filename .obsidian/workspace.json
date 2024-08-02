@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4fe3f78a62ea8445",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Graphs/Connected graph.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Trees/Tree.md",
+                "file": "Graphs/Connected graph.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -108,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Trees/Tree.md"
+                "file": "Graphs/Connected graph.md"
               }
             }
           },
@@ -118,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Trees/Tree.md",
+                "file": "Graphs/Connected graph.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,8 +162,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "38ae1e256bf5dea6",
+  "active": "4fe3f78a62ea8445",
   "lastOpenFiles": [
+    "Assets/Images/connected-examples.png",
+    "Graphs/Connected graph.md",
     "Trees/Tree.md",
     "Graphs/Vizing's Theorem.md",
     "Graphs/Chromatic index.md",
@@ -176,7 +191,6 @@
     "Graphs/Planar graph.md",
     "Graphs/Subdivision.md",
     "Assets/Images/subdivision2.png",
-    "Assets/Images/subdivision1.png",
     "Graphs/The Four Color Theorem.md",
     "Graphs/Eulerian trail and circuit.md",
     "Graphs/Hamiltonian path and circuit.md",
@@ -185,8 +199,6 @@
     "Basic math concepts/Divisibility.md",
     "Basic math concepts/Closure of the integers.md",
     "Graphs/Degree.md",
-    "Basic math concepts/Prime and composite numbers.md",
-    "Proof/Mathematical induction.md",
     "Basic math concepts",
     "Documents/GitHub/discretecs-vault/LICENSE",
     "Documents/GitHub/discretecs-vault",
