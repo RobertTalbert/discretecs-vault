@@ -24,6 +24,8 @@ updated:
 
 In this picture, the red graph on the left is connected but the blue one on the right is disconnected: 
 ![[connected-examples.png]]
+([Source](https://walkenho.github.io/graph-theory-and-networkX-part2/))
+
 The first graph is connected because there is a path between each pair of distinct vertices. For example 3, 1, 2 is a path from 3 to 2. The second graph is disconnected because although some pairs of distinct vertices have paths between them, some pairs do not: For example there is no path or walk from vertex 3 to vertex 5. 
 
 In the second graph, there are two components: The subgraph consisting of vertices 0, 1, 2, and 3 and the edges $\{0,1\}, \{0,2\}, \{1,2\},$ and $\{1,3\}$ is one component, and the other is the subgraph consisting of vertices 4 and 5 and the edge $\{4,5\}$. Note that while the subgraph consisting of vertices 0, 1, and 2 and the edges $\{0,1\}, \{0,2\}, \{1,2\}$ is connected, it is not a *maximal* connected subgraph; it is not "as large as possible" since there is a connected subgraph that contains it. 
