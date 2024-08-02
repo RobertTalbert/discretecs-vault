@@ -210,11 +210,12 @@
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": true,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -237,10 +238,10 @@
   "active": "e3a772c33911f5fd",
   "lastOpenFiles": [
     "Graphs/Degree.md",
+    "Graphs/Paths.md",
     "Handshake Lemma.md",
     "Graphs/Isomorphism invariant.md",
     "Logic/Logical equivalence.md",
-    "Graphs/Paths.md",
     "logically equivalent.md",
     "Graphs/Isomorphism.md",
     "Assets/Images/nonisomorphic-ex1.png",
