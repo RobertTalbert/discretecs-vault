@@ -189,8 +189,9 @@
   },
   "active": "49cbac92f2689eef",
   "lastOpenFiles": [
-    "Isomorphism invariant.md",
+    "nonisomorphic-ex1.png",
     "Isomorphism.md",
+    "Isomorphism invariant.md",
     "isomorphism-example.png",
     "Graphs/Connected graph.md",
     "Assets/Images/connected-examples.png",
@@ -215,7 +216,6 @@
     "Combinatorics/License plate problem.md",
     "Assets/Images/k4-improper-edge-color.png",
     "Assets/Images/k4-edge-color-3.png",
-    "Assets/Images/k4-edge-color.png",
     "Graphs/Planar graph.md",
     "Graphs/Subdivision.md",
     "Graphs/The Four Color Theorem.md",
