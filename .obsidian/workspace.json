@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Isomorphism.md",
+                "file": "Graphs/Isomorphism.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,14 +49,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Isomorphism invariant.md",
+                "file": "Graphs/Isomorphism invariant.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Isomorphism.md",
+                "file": "Graphs/Isomorphism invariant.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Isomorphism.md"
+                "file": "Graphs/Isomorphism invariant.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Isomorphism.md",
+                "file": "Graphs/Isomorphism invariant.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,12 +187,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "49cbac92f2689eef",
+  "active": "c020c44517440ddf",
   "lastOpenFiles": [
-    "nonisomorphic-ex1.png",
-    "Isomorphism.md",
-    "Isomorphism invariant.md",
-    "isomorphism-example.png",
+    "Graphs/Isomorphism.md",
+    "Assets/Images/nonisomorphic-ex1.png",
+    "Graphs/Isomorphism invariant.md",
+    "Assets/Images/isomorphism-example.png",
     "Graphs/Connected graph.md",
     "Assets/Images/connected-examples.png",
     "Trees/Tree.md",

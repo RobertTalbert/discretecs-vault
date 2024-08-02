@@ -53,7 +53,7 @@ By contrast, here is a function $h$  between the same two vertex sets, that is a
 |  $v$   | $v1$ | $v2$ | $v3$ | $v4$ | $v5$ |
 | :----: | ---- | ---- | ---- | ---- | ---- |
 | $g(v)$ | $u2$ | $u3$ | $u4$ | $u5$ | $u1$ |
-This again is a bijection, but it does not preserve edges because although $\{v1, v3\}$ is an edge in $G$, the edge $\{f(v1), f(v3)\}$ is $\{u2, u4\}$ but this is not an edge in $H$. 
+This again is a bijection, but it does not preserve edges because although $\{v1, v3\}$ is an edge in $G$, the edge $\{f(v1), f(v3)\}$ is $\{u2, u4\}$ but this is not an edge in $H$. **This does not mean the graphs aren't isomorphic**; they are, as shown above. But this function is not an isomorphism. 
 
 **Non-examples:**
 
@@ -62,13 +62,10 @@ This again is a bijection, but it does not preserve edges because although $\{v1
 - However, having the same number of vertices and the same number of edges is insufficient for two graphs to be isomorphic: There are graphs with the same number of vertices and edges that are not isomorphic. Here is an example: 
 
 ![[nonisomorphic-ex1.png]]
-Both graphs have six vertices and nine edges. However, each vertex of Graph 1 has [[Degree|degree]] 3, wh
+Both graphs have six vertices and nine edges. However, each vertex of Graph 1 has [[Degree|degree]] 3, while Graph 2 has a vertex of degree 4. Having a vertex of degree 4 is an [[Isomorphism invariant|isomorphism invariant]], so the fact that one graph has a degree 4 vertex and the other does not, shows that the graphs are not isomorphic. 
 
 ## Resources 
 
-(video)
+![](https://www.youtube.com/watch?v=EwV4Puk2coU)
 
-Other resources: 
-- 
-
-## Practice 
+![](https://www.youtube.com/watch?v=rOTXqBBMFxc)
