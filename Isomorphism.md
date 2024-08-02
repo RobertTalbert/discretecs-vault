@@ -36,11 +36,28 @@ This function is a bijection because it is [[Injective|injective]] (there are no
 | :---------------------------------: | ------------ | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
 | After applying $f$ to the endpoints | $\{u1, u2\}$ | $\{u1,u3\}$ | $\{u1,u4\}$ | $\{u1,u5\}$ | $\{u2,u3\}$ | $\{u3,u4\}$ | $\{u4,u5\}$ | $\{u5,u2\}$ |
 |        Is it an edge in $H$?        | Yes          | Yes         | Yes         | Yes         | Yes         | Yes         | Yes         | Yes         |
-If two graphs are isomorphic, there can be more than one isomorphism between them. For example here is another bijection on the vertex sets that is also an isomorphism: 
+If two graphs are isomorphic, there can be more than one isomorphism between them. For example here is another bijection $g$ on the vertex sets that is also an isomorphism: 
 
 |  $v$   | $v1$ | $v2$ | $v3$ | $v4$ | $v5$ |
 | :----: | ---- | ---- | ---- | ---- | ---- |
-| $f(v)$ | $u1$ | $u2$ | $u3$ | $u4$ | $u5$ |
+| $g(v)$ | $u1$ | $u5$ | $u4$ | $u3$ | $u2$ |
+Checking that this function preserves edges: 
+
+|             Edge in $G$             | $\{v1, v2\}$ | $\{v1,v3\}$ | $\{v1,v4\}$ | $\{v1,v5\}$ | $\{v2,v3\}$ | $\{v3,v4\}$ | $\{v4,v5\}$ | $\{v5,v2\}$ |
+| :---------------------------------: | ------------ | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
+| After applying $f$ to the endpoints | $\{u1, u5\}$ | $\{u1,u4\}$ | $\{u1,u3\}$ | $\{u1,u2\}$ | $\{u5,u4\}$ | $\{u4,u3\}$ | $\{u3,u2\}$ | $\{u2,u5\}$ |
+|        Is it an edge in $H$?        | Yes          | Yes         | Yes         | Yes         | Yes         | Yes         | Yes         | Yes         |
+
+By contrast, here is a function $h$  between the same two vertex sets, that is a bijection but which does **not** preserve edges: 
+
+|  $v$   | $v1$ | $v2$ | $v3$ | $v4$ | $v5$ |
+| :----: | ---- | ---- | ---- | ---- | ---- |
+| $g(v)$ | $u2$ | $u3$ | $u4$ | $u5$ | $u1$ |
+This again is a bijection, but it does not preserve edges because although $\{v1, v3\}$ is an edge in $G$, the edge $\{f(v1), f(v3)\}$ is $\{u2, u4\}$ but this is not an edge in $H$. 
+
+**Non-examples:**
+
+
 
 
 ## Resources 
