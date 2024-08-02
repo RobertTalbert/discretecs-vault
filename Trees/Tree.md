@@ -12,7 +12,7 @@ updated:
 ## Definition 
 
 > [!tldr] Definition
-> A **tree** is a [[graph]] which is connected and which contains no [[Paths|cycles]]. 
+> A **tree** is a [[graph]] which is [[Connected graph|connected]] and which contains no [[Paths|cycles]]. 
 
 Notes: 
 

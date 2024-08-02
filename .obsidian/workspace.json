@@ -30,9 +30,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "49cbac92f2689eef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Isomorphism.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c020c44517440ddf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Isomorphism invariant.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -98,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Graphs/Connected graph.md",
+                "file": "Isomorphism invariant.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -121,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Graphs/Connected graph.md"
+                "file": "Isomorphism invariant.md"
               }
             }
           },
@@ -131,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Graphs/Connected graph.md",
+                "file": "Isomorphism invariant.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,10 +187,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "21830707dc3b0d28",
+  "active": "c020c44517440ddf",
   "lastOpenFiles": [
-    "Assets/Images/connected-examples.png",
+    "Isomorphism invariant.md",
+    "Isomorphism.md",
     "Graphs/Connected graph.md",
+    "Assets/Images/connected-examples.png",
     "Trees/Tree.md",
     "Graphs/Vizing's Theorem.md",
     "Graphs/Chromatic index.md",
@@ -199,7 +225,6 @@
     "Basic math concepts/Floor and ceiling functions.md",
     "Basic math concepts/Divisibility.md",
     "Basic math concepts/Closure of the integers.md",
-    "Graphs/Degree.md",
     "Basic math concepts",
     "Documents/GitHub/discretecs-vault/LICENSE",
     "Documents/GitHub/discretecs-vault",
