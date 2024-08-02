@@ -56,6 +56,18 @@
             }
           },
           {
+            "id": "e3a772c33911f5fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Handshake Lemma.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "705b8624835f2350",
             "type": "leaf",
             "state": {
@@ -78,9 +90,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "29c1ee5457aad3d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Graphs/Degree.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -146,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Graphs/Isomorphism invariant.md",
+                "file": "Handshake Lemma.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -169,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Graphs/Isomorphism invariant.md"
+                "file": "Handshake Lemma.md"
               }
             }
           },
@@ -179,7 +203,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Graphs/Isomorphism invariant.md",
+                "file": "Handshake Lemma.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -210,11 +234,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c020c44517440ddf",
+  "active": "e3a772c33911f5fd",
   "lastOpenFiles": [
+    "Graphs/Degree.md",
+    "Handshake Lemma.md",
+    "Graphs/Isomorphism invariant.md",
     "Logic/Logical equivalence.md",
     "Graphs/Paths.md",
-    "Graphs/Isomorphism invariant.md",
     "logically equivalent.md",
     "Graphs/Isomorphism.md",
     "Assets/Images/nonisomorphic-ex1.png",
@@ -246,8 +272,6 @@
     "Graphs/The Four Color Theorem.md",
     "Graphs/Eulerian trail and circuit.md",
     "Graphs/Hamiltonian path and circuit.md",
-    "Combinatorics/Factorial.md",
-    "Basic math concepts/Floor and ceiling functions.md",
     "Basic math concepts",
     "Documents/GitHub/discretecs-vault/LICENSE",
     "Documents/GitHub/discretecs-vault",

@@ -5,6 +5,7 @@ aliases:
   - minimum degree
   - maximum degree
   - degree sequence
+  - degrees
 tags:
   - graphs
 created: 2024-07-05

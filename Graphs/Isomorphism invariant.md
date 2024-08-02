@@ -42,17 +42,11 @@ Notes:
 	- The [[Degree|minimum degree]] and [[Degree|maximum degree]]
 	- The [[Chromatic number|chromatic number]] and [[Edge coloring|chromatic index]]
 	- The [[Degree|degree sequence]]
-	- Having a [[Paths|cycle]] of a given lengt
+	- Having a [[Paths|cycle]] of a given length
 	- Being [[Planar graph|planar]]
 	- Being [[Bipartite graph|bipartite]]
-	- 
 
 
 ## Resources 
 
-(video)
-
-Other resources: 
-- 
-
-## Practice 
+![](https://www.youtube.com/watch?v=bU5SvVUjqEE)
