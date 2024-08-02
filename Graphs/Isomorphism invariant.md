@@ -30,13 +30,22 @@ Notes:
 > 
 > Since $\deg(v) = n$ by our initial assumptions, it means that there are $n$ edges connected to $v$. Because $f$ is edge-preserving, there are $n$ edges connected to $f(v)$ as well. Hence $\deg(f(v)) = n$. ◼
 
-- Being [[Connected graph|connected]] is an isomorphism invariant. So, if one graph is connected and another is not, then the two graphs are not isomorphic. Here is a proof of that assertion:
+- **Being [[Connected graph|connected]]** is an isomorphism invariant. So, if one graph is connected and another is not, then the two graphs are not isomorphic. Here is a proof of that assertion:
 
-Claim: If $G$ is connected and $G$ is isomorphic to $H$, then $H$ is connected. 
+> [!NOTE] **Claim**: If $G$ is connected and $G$ is isomorphic to $H$, then $H$ is connected. 
+> 
+> **Proof**: We use a [[Indirect proof|proof by contradiction]] this time. Assume that $G$ is connected, $G$ is isomorphic to $H$, but (for a contradiction) $H$ is not connected. The latter assumption means that there exist two vertices in $H$, call them $u$ and $v$, that have no walk or path between them. 
+> 
+> Since $G$ and $H$ are isomorphic, there is a bijective, edge-preserving function $f$ from the vertex set of $G$ to the vertex set of $H$. Since $f$ is a bijection, it is [[Surjective|surjective]], so there are vertices $a$ and $b$ in $G$ that map onto $u$ and $v$ respectively; that is, $f(a) = u$ and $f(b) = v$; and these are the only such vertices in $G$ since $f$ is also [[Injective|injective]].  Now, since $G$ is connected, there is a [[Paths|walk]] (possibly a [[Paths|path]]) in $G$ that starts at $a$ and ends at $b$. Denote this walk $a, x_1, x_2, x_3, \dots, x_m, b$ as a list of [[Adjacent|adjacent]] vertices. Since $f$ preserves edges, there is an edge in $H$ between $u = f(a)$ and $f(x_1)$; an edge between $f(x_1)$ and $f(x_2)$, and so on until there is an edge between $f(x_m)$ and $f(b) = v$. This means there is a walk from $u$ to $v$ in $H$, which contradicts our original assumption that there wasn't such a walk. Therefore $H$ must be connected. ◼
 
-Proof: We use a [[Indirect proof|proof by contradiction]] this time. Assume that $G$ is connected, $G$ is isomorphic to $H$, but (for a contradiction) $H$ is not connected. The latter assumption means that there exist two vertices in $H$, call them $u$ and $v$, that have no walk or path between them. 
-
-Since $G$ and $H$ are isomorphic, there is a bijective, edge-preserving function $f$ from the vertex set of $G$ to the vertex set of $H$. Since $f$ is a bijection, it is [[Surjective|surjective]], so there are vertices $a$ and $b$ in $G$ that map onto $u$ and $v$ respectively; that is, $f(a) = u$ and $f(b) = v$; and these are the only such vertices in $G$ since $f$ is also [[Injective|injective]].  Now, since $G$ is connected, there is a [[Paths|walk]] (possibly a [[Paths|path]]) in $G$ that starts at $a$ and ends at $b$. Denote this walk $a, x_1, x_2, x_3, \dots, x_m, b$ as a list of [[Adjacent|adjacent]] vertices. Since $f$ preserves edges, there is an edge in $H$ between $u = f(a)$ and $f(x_1)$; an edge between $f(x_1)$ and $f(x_2)$, and so on until there is an edge between $f(x_m)$ and $f(b) = v$. each of these edges 
+- Other graph invariant properties include: 
+	- The [[Degree|minimum degree]] and [[Degree|maximum degree]]
+	- The [[Chromatic number|chromatic number]] and [[Edge coloring|chromatic index]]
+	- The [[Degree|degree sequence]]
+	- Having a [[Paths|cycle]] of a given lengt
+	- Being [[Planar graph|planar]]
+	- Being [[Bipartite graph|bipartite]]
+	- 
 
 
 ## Resources 
