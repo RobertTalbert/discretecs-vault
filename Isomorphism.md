@@ -29,7 +29,7 @@ The isomorphism that makes the graphs isomorphic, is the following function $f$ 
 
 |  $v$   | $v1$ | $v2$ | $v3$ | $v4$ | $v5$ |     |
 | :----: | ---- | ---- | ---- | ---- | ---- | --- |
-| $f(v)$ | $u1$ |      |      |      |      |     |
+| $f(v)$ | $u1$ | $    |      |      |      |     |
 
 ## Resources 
 
