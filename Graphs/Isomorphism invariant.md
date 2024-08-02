@@ -16,6 +16,8 @@ updated:
 
 Notes: 
 - In other words, an isomorphism invariant property "X" is one that satisfies this [[Conditional statements|conditional statement]]: If $G$ has property "X" and $G$ is [[Isomorphism|isomorphic]] to $H$, then $H$ has property "X". 
+- This statement is [[logically equivalent]] to the statement that **if X is an isomorphism invariant, and $G$ has property $X$ but $H$ does not have that property, then $G$ and $H$ are *not* isomorphic**. 
+- The practical use of isomorphism invariants is to prove that two graphs are 
 
 ## Examples and Non-Examples
 
@@ -25,7 +27,9 @@ Notes:
 
 Claim: If $G$ is a graph that has a vertex of degree $n$, and $G$ is isomorphic to $H$, then $H$ also has a vertex of degree $n$. 
 
-Proof: Assume that $G$ has a vertex (label it as $v$) with degree $n$, and that $G$ is isomorphic to $H$. We want to sh
+Proof: Assume that $G$ has a vertex (label it as $v$) with degree $n$, and that $G$ is isomorphic to $H$. We want to show that $H$ has a vertex of degree $n$. Since $G$ is isomorphic to $H$, by definition, there is a [[Bijective|bijection]] $f$ from the vertex set of $G$ to the vertex set of $H$ that preserves edges. We  claim that $f(v)$ has degree $n$. 
+
+Since $\deg(v) = n$ by our initial assumptions, it means that there are $n$ edges connected to $v$. 
 
 
 ## Resources 

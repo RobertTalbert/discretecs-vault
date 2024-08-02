@@ -54,6 +54,18 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "705b8624835f2350",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Logic/Logical equivalence.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
         "currentTab": 3
@@ -186,11 +198,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "16750854c4656389",
+  "active": "c020c44517440ddf",
   "lastOpenFiles": [
+    "logically equivalent.md",
+    "Logic/Logical equivalence.md",
     "Graphs/Isomorphism.md",
-    "Assets/Images/nonisomorphic-ex1.png",
     "Graphs/Isomorphism invariant.md",
+    "Assets/Images/nonisomorphic-ex1.png",
     "Assets/Images/isomorphism-example.png",
     "Graphs/Connected graph.md",
     "Assets/Images/connected-examples.png",
@@ -222,7 +236,6 @@
     "Graphs/Hamiltonian path and circuit.md",
     "Combinatorics/Factorial.md",
     "Basic math concepts/Floor and ceiling functions.md",
-    "Basic math concepts/Divisibility.md",
     "Basic math concepts",
     "Documents/GitHub/discretecs-vault/LICENSE",
     "Documents/GitHub/discretecs-vault",

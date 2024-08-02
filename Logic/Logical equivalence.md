@@ -1,6 +1,8 @@
 ---
-aliases: [logically equivalent]
---- 
+aliases:
+  - logically equivalent
+---
+---
 
 #logic 
 ## Definition 
