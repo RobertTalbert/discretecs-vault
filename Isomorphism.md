@@ -57,7 +57,9 @@ This again is a bijection, but it does not preserve edges because although $\{v1
 
 **Non-examples:**
 
-
+- A graph that has $3$ vertices is not isomorphic to a graph that has $4$ vertices, because no bijection is possible between a [[Set|set]] with [[Cardinality|cardinality]] 3 and one with cardinality 4. In general, graphs that have different numbers of vertices are not isomorphic. The number of vertices in a graph is therefore [[Isomorphism invariant]]. 
+- Likewise, two graphs with different numbers of edges are not isomorphic due to the "if and only if" ([[Biconditional statement|biconditional statement]]) about edges in the definition. 
+- However, having the same number of vertices and the same number of edges is insufficient 
 
 
 ## Resources 
