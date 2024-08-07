@@ -24,6 +24,9 @@ Notes:
 ## Examples 
 
 - The set $\{(1,2), (1,3), (2,4)\}$ is a relation on the set $\{1,2,3,4\}$. 
+- Define a relation $\sim$ on the set $X = \{1,2,3,4,5,6\}$ using the following rule: $a \sim b$ if and only if $a$ divides $b$ (that is, $b$ is a multiple of $a$). Then the relation is the following set: 
+$$\{(1,2), (1,3), (1,4), (1,5), (1,6), (2,4), (2,6), (3,6), (1,1), (2,2), (3,3), (4,4), (5,5), (6,6)\}$$
+- Define another relation, also called $\sim$, on the set $X = \{1,2,3,4,5,6\}$ by declaring $a \sim b$ if and only if $b \% a = 
 
 ## Resources 
 

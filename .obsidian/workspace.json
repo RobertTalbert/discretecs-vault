@@ -66,6 +66,18 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f9f5ecb6085ae18e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Arithmetic/The modulus operator.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
         "currentTab": 2
@@ -201,8 +213,9 @@
   },
   "active": "70a173ea3bb21c49",
   "lastOpenFiles": [
-    "Directed Graphs and Relations/In-degree and out-degree.md",
+    "Computer Arithmetic/The modulus operator.md",
     "Relation.md",
+    "Directed Graphs and Relations/In-degree and out-degree.md",
     "Directed Graphs and Relations/Directed graph.md",
     "Assets/Images/digraph-example.png",
     "Assets/Images/digraph-example2.png",
@@ -236,7 +249,6 @@
     "Assets/Images/random-graph-723.png",
     "Assets/Images/k33-edge-color.png",
     "Combinatorics/License plate problem.md",
-    "Graphs/Planar graph.md",
     "Basic math concepts",
     "Documents/GitHub/discretecs-vault/LICENSE",
     "Documents/GitHub/discretecs-vault",
