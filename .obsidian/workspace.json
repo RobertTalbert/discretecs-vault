@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Handshake Lemma.md",
+                "file": "Graphs/Handshake Lemma.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Handshake Lemma.md",
+                "file": "Graphs/Isomorphism.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -193,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Handshake Lemma.md"
+                "file": "Graphs/Isomorphism.md"
               }
             }
           },
@@ -203,7 +203,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Handshake Lemma.md",
+                "file": "Graphs/Isomorphism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,11 +235,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e3a772c33911f5fd",
+  "active": "49cbac92f2689eef",
   "lastOpenFiles": [
+    "Graphs/Handshake Lemma.md",
     "Graphs/Degree.md",
     "Graphs/Paths.md",
-    "Handshake Lemma.md",
     "Graphs/Isomorphism invariant.md",
     "Logic/Logical equivalence.md",
     "logically equivalent.md",
