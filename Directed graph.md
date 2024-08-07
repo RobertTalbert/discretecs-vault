@@ -15,11 +15,18 @@ updated:
 > A **directed graph** (or **digraph**) is pair of sets: 
 > 1. A nonempty [set](app://obsidian.md/set) called the **vertex set**, whose elements we call **vertices** or **nodes**.
 > 2. A (possibly empty) set called the **edge set**, whose elements we call **edges**, where each edge is an [[Cartesian product|ordered pair]] of vertices. 
-> We often use $G = (V,E)$ to denote a digraph whose name is $G$ with vertex set $V$ and edge set $E$. Note that $
+> 
+> We often use $G = (V,E)$ to denote a digraph whose name is $G$ with vertex set $V$ and edge set $E$. Note that $E$ is a [[Subset|subset]] of the [[Cartesian product]] $V \times V$. If $(u,v)$ is an edge in $G$, then we say that the edge **points from $u$ to $v$** and that $u$ is the **head** of the edge and $v$ is the **tail**. An edge of the form $(u,u)$ is called a **loop**. 
 
-(blurb)
+Notes: 
+- Unlike a regular, undirected [[graph]], the edges of a diagraph are *not* simply two-element subsets of the vertex set: They are *ordered pairs*. It is possible for $(u,v)$ to be an edge in a digraph but $(v,u)$ is not an edge. 
+- We think of edges in a digraph as being vectors or arrows with a head and a tail. Sometimes we write $u \rightarrow v$ to represent an edge from $u$ to $v$. 
 
-## Examples and Non-Examples
+## Examples
+
+Consider the digraph $G$ below: 
+
+![[Pasted image 20240807105721.png]]
 
 ## Resources 
 

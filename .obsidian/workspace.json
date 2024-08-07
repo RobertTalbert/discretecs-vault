@@ -11,11 +11,9 @@
             "id": "db1544ae8f7e7a8f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Directed graph.md",
-                "mode": "source",
-                "source": false
+                "file": "Pasted image 20240807105721.png"
               }
             }
           },
@@ -109,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Directed graph.md",
+                "file": "Pasted image 20240807105721.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -132,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Directed graph.md"
+                "file": "Pasted image 20240807105721.png"
               }
             }
           },
@@ -142,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Directed graph.md",
+                "file": "Pasted image 20240807105721.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,9 +174,10 @@
   },
   "active": "db1544ae8f7e7a8f",
   "lastOpenFiles": [
-    "Sets and Functions/Cartesian product.md",
-    "Graphs/Graph.md",
     "Directed graph.md",
+    "Pasted image 20240807105721.png",
+    "Graphs/Graph.md",
+    "Sets and Functions/Cartesian product.md",
     "Trees/Tree.md",
     "Graphs/Connected graph.md",
     "Graphs/Isomorphism.md",
@@ -208,10 +207,8 @@
     "Assets/Images/k33-edge-color.png",
     "Combinatorics/License plate problem.md",
     "Assets/Images/k4-improper-edge-color.png",
-    "Assets/Images/k4-edge-color-3.png",
     "Graphs/Planar graph.md",
     "Graphs/Subdivision.md",
-    "Graphs/The Four Color Theorem.md",
     "Basic math concepts",
     "Documents/GitHub/discretecs-vault/LICENSE",
     "Documents/GitHub/discretecs-vault",

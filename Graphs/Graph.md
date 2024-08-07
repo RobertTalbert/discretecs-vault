@@ -19,7 +19,7 @@ aliases:
 tags:
   - graphs
 created: 2024-07-01
-updated:
+updated: 2024-08-07
 ---
 ---
 ## Definition 
@@ -33,7 +33,7 @@ updated:
 
 Notes: 
 - The definition of a graph is rather abstract because we want room to represent graphs in different ways: both visually, and as pure data structures in several different forms. See  [[Representations of graphs]] for more. 
-- Note that the edge set of a graph is a set, whose [[Set|elements]] are also sets -- namely, two-element [[Subset|subsets]] of the vertices. 
+- Note that the edge set of a graph is a set, whose [[Set|elements]] are also sets -- namely, two-element [[Subset|subsets]] of the vertices. The edge $\{u,v\}$ and the edge $\{v,u\}$ are the same, since they are equal [[Set|sets]]. 
 
 ## Examples 
 
