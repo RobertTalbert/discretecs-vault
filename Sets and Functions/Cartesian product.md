@@ -1,5 +1,13 @@
 ---
-aliases: [cartesian product]
+aliases:
+  - cartesian product
+  - ordered pair
+tags:
+  - sets-functions
+created: 
+updated: 2024-08-07
+---
+
 --- 
 
 #sets-functions 

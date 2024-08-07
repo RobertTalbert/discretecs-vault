@@ -4,107 +4,46 @@
     "type": "split",
     "children": [
       {
-        "id": "1b8f6cf1005c746d",
+        "id": "e03e74d6714e2989",
         "type": "tabs",
         "children": [
           {
-            "id": "062d75b67f82d631",
+            "id": "db1544ae8f7e7a8f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Trees/Tree.md",
+                "file": "Directed graph.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "4fe3f78a62ea8445",
+            "id": "f415a449b5aa72de",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Graphs/Connected graph.md",
+                "file": "Graphs/Graph.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "49cbac92f2689eef",
+            "id": "5e0807c6f5942161",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Graphs/Isomorphism.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c020c44517440ddf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Graphs/Isomorphism invariant.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e3a772c33911f5fd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Graphs/Handshake Lemma.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "705b8624835f2350",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Logic/Logical equivalence.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "67514f7358416db8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Graphs/Paths.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "29c1ee5457aad3d5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Graphs/Degree.md",
+                "file": "Sets and Functions/Cartesian product.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -170,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Graphs/Isomorphism.md",
+                "file": "Directed graph.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -193,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Graphs/Isomorphism.md"
+                "file": "Directed graph.md"
               }
             }
           },
@@ -203,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Graphs/Isomorphism.md",
+                "file": "Directed graph.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,24 +174,26 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "49cbac92f2689eef",
+  "active": "db1544ae8f7e7a8f",
   "lastOpenFiles": [
+    "Sets and Functions/Cartesian product.md",
+    "Graphs/Graph.md",
+    "Directed graph.md",
+    "Trees/Tree.md",
+    "Graphs/Connected graph.md",
+    "Graphs/Isomorphism.md",
     "Graphs/Handshake Lemma.md",
     "Graphs/Degree.md",
     "Graphs/Paths.md",
     "Graphs/Isomorphism invariant.md",
     "Logic/Logical equivalence.md",
     "logically equivalent.md",
-    "Graphs/Isomorphism.md",
     "Assets/Images/nonisomorphic-ex1.png",
     "Assets/Images/isomorphism-example.png",
-    "Graphs/Connected graph.md",
     "Assets/Images/connected-examples.png",
-    "Trees/Tree.md",
     "Graphs/Vizing's Theorem.md",
     "Graphs/Chromatic index.md",
     "Graphs/Representations of graphs.md",
-    "Graphs/Graph.md",
     "Graphs/Vertex coloring.md",
     "Graphs/Edge coloring.md",
     "Graphs/Chromatic number.md",
@@ -271,8 +212,6 @@
     "Graphs/Planar graph.md",
     "Graphs/Subdivision.md",
     "Graphs/The Four Color Theorem.md",
-    "Graphs/Eulerian trail and circuit.md",
-    "Graphs/Hamiltonian path and circuit.md",
     "Basic math concepts",
     "Documents/GitHub/discretecs-vault/LICENSE",
     "Documents/GitHub/discretecs-vault",
@@ -281,7 +220,7 @@
     "Recursion",
     "Trees",
     "untitled folder",
-    "Relations",
+    "Directed Graphs and Relations",
     "Graphs"
   ]
 }
