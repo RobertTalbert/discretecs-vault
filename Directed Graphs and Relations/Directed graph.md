@@ -32,15 +32,12 @@ The vertex set of $G$ is $V = \{1,2,3,4,5\}$. The edge set is the following set 
 $$E = \{(1,3), (2,1), (2,3), (2,5), (4,3)\}$$
 Notice that although $(1,3)$ is an edge, $(3,1)$ is not. This is a *directed* graph and the ordering reflects the direction of the edge. 
 
-Conversely, consider the digraph whose vertex set is $\{1,2,3,4\}$ and whose edge set is $E = \{(1,2), (1,3), (1,4), (3,2), ()}
+Conversely, consider the digraph whose vertex set is $\{1,2,3,4\}$ and whose edge set is $E = \{(1,2), (1,3), (1,4), (3,2), (3,4), (4,2), (4,3)\}$. As a visual diagram, $G$ looks like: 
 
-
+![[digraph-example2.png|400]]
+This digraph has no loops, but it does have two vertices (3 and 4) with edges pointing in both directions. 
 
 ## Resources 
 
-(video)
+![](https://www.youtube.com/watch?v=mXoiHgH4mEE)
 
-Other resources: 
-- 
-
-## Practice 

@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Directed graph.md",
+                "file": "Directed Graphs and Relations/Directed graph.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b88a377e75d6b3ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "In-degree and out-degree.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,7 +55,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Directed graph.md",
+                "file": "In-degree and out-degree.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -132,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Directed graph.md"
+                "file": "In-degree and out-degree.md"
               }
             }
           },
@@ -142,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Directed graph.md",
+                "file": "In-degree and out-degree.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,10 +187,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "db1544ae8f7e7a8f",
+  "active": "b88a377e75d6b3ec",
   "lastOpenFiles": [
-    "digraph-example.png",
-    "Directed graph.md",
+    "Directed Graphs and Relations/Directed graph.md",
+    "In-degree and out-degree.md",
+    "Assets/Images/digraph-example.png",
+    "Assets/Images/digraph-example2.png",
     "Graphs/Graph.md",
     "Sets and Functions/Cartesian product.md",
     "Trees/Tree.md",
@@ -208,7 +223,6 @@
     "Assets/Images/random-graph-723.png",
     "Assets/Images/k33-edge-color.png",
     "Combinatorics/License plate problem.md",
-    "Assets/Images/k4-improper-edge-color.png",
     "Graphs/Planar graph.md",
     "Graphs/Subdivision.md",
     "Basic math concepts",
