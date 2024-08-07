@@ -49,7 +49,7 @@ $$\begin{pmatrix}
 \end{pmatrix}$$
 Here, the first row and column correspond to vertex $a$, the second to vertex $b$, the third to vertex $c$, and the fourth to vertex $d$. 
 
-Adjacency matrices work well in computing environments because most modern languages are set up well to deal with arrays of integers. Certain algorithms (such as [[Warshall's algorithm]] for finding the [[transitive closure]] of a [[relation]]) can be implemented using arithmetic operations on adjacency matrices. They are not as compact as dictionaries. 
+Adjacency matrices work well in computing environments because most modern languages are set up well to deal with arrays of integers. Certain algorithms (such as [[Warshall's algorithm]] for finding the [[transitive closure]] of a [[Relation]]) can be implemented using arithmetic operations on adjacency matrices. They are not as compact as dictionaries. 
 
 ***As an incidence matrix***. Another form of matrix representation is by listing the vertices in order to represent the rows of the matrix, and listing the edges in order to represent the columns. Then, place a `1` in the column for an edge $e$ and row for a vertex $v$ if $e$ is [[Adjacent|incident]] with $v$. For example, consider the graph whose dictionary is `{a: [b,c,d], b: [a], c: [a,d], d: [a,c]}`, and order the edges with `[a,b]` first, then `[a,c]`, `[a,d]`, and finally `[c,d]`. The incidence matrix would be $4 \times 4$ (four rows, one for each vertex; and four columns, one for each edge): 
 

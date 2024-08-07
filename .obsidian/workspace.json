@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Relation.md",
+                "file": "Directed Graphs and Relations/Relation.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Relation.md",
+                "file": "Directed Graphs and Relations/Relation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -169,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Relation.md"
+                "file": "Directed Graphs and Relations/Relation.md"
               }
             }
           },
@@ -179,19 +179,18 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Relation.md",
+                "file": "Directed Graphs and Relations/Relation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": true,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -211,10 +210,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "70a173ea3bb21c49",
+  "active": "16750854c4656389",
   "lastOpenFiles": [
+    "Assets/Images/relation-digraph.png",
+    "Directed Graphs and Relations/Relation.md",
     "Computer Arithmetic/The modulus operator.md",
-    "Relation.md",
     "Directed Graphs and Relations/In-degree and out-degree.md",
     "Directed Graphs and Relations/Directed graph.md",
     "Assets/Images/digraph-example.png",
@@ -247,8 +247,6 @@
     "edge.md",
     "Assets/Images/random-graph723-color.png",
     "Assets/Images/random-graph-723.png",
-    "Assets/Images/k33-edge-color.png",
-    "Combinatorics/License plate problem.md",
     "Basic math concepts",
     "Documents/GitHub/discretecs-vault/LICENSE",
     "Documents/GitHub/discretecs-vault",
