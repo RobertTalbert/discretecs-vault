@@ -31,13 +31,9 @@ $$\{(3, 2), (4, 2), (5, 2), (6, 2), (3, 5), (4, 6) \}$$
 - The following [[Directed graph|digraph]] visually represents the relation from the previous point: 
 ![[relation-digraph.png|400]]
 - Relations can be put on any set of objects. For example consider $X$ to be the set of words `{cat, bat, cup, cake, bake, shake}`. Let $R$ be the relation on $X$ where if $w$ and $v$ are words in $X$, then $wRv$ if and only if $w$ and $v$ are different words and $w$ rhymes with $v$. Then $R$ is the set `{(cat, bat), (bat, cat), (cake, bake), (cake, shake), (bake, cake), (shake, cake), (bake, shake), (shake, bake)}`. (Note, there are no duplicates in this set: `(cat, bat)` and `(bat, cat)` are different pairs; we cannot assume that if one pair is in the relation then its reverse is also in the relation.) 
+- Social networks can be modeled using relations. For example if $X$ is the set of all [LinkedIn](https://www.linkedin.com/) users, then given two users $a$ and $b$, we can say $a \sim b$ if $a$ and $b$ are "connected" on LinkedIn. See the video below for more on relations and social networks. 
 
 
 ## Resources 
 
-(video)
-
-Other resources: 
-- 
-
-## Practice 
+![](https://www.youtube.com/watch?v=qnjxdlpWMLA)
