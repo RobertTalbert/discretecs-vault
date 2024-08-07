@@ -11,9 +11,11 @@
             "id": "db1544ae8f7e7a8f",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Pasted image 20240807105721.png"
+                "file": "Directed graph.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -107,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pasted image 20240807105721.png",
+                "file": "Directed graph.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -130,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pasted image 20240807105721.png"
+                "file": "Directed graph.md"
               }
             }
           },
@@ -140,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pasted image 20240807105721.png",
+                "file": "Directed graph.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,8 +176,8 @@
   },
   "active": "db1544ae8f7e7a8f",
   "lastOpenFiles": [
+    "digraph-example.png",
     "Directed graph.md",
-    "Pasted image 20240807105721.png",
     "Graphs/Graph.md",
     "Sets and Functions/Cartesian product.md",
     "Trees/Tree.md",
