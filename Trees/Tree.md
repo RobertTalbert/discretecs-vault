@@ -8,7 +8,7 @@ aliases:
 tags:
   - tree-search
 created: 2024-07-30
-updated:
+updated: 2024-08-09
 ---
 ---
 ## Definition 
@@ -17,7 +17,7 @@ updated:
 > A **tree** is a [[graph]] which is [[Connected graph|connected]] and which contains no [[Paths|cycles]]. 
 
 Notes: 
-- A collection of trees is called a **forest**. That is, a forest is a graph that has no [[Paths|cycles]] (but which might be disconnected). 
+- A collection of trees is called a **forest**. That is, a forest is a [[graph]] that has no [[Paths|cycles]] (but which might be disconnected). 
 
 ## Examples 
 
@@ -28,12 +28,18 @@ Another example:
 
 ![[tree-example2.png|400]]
 
-Each of the graphs below is a tree, used to model molecular structure 
+Each of the [[Graph|graphs]] below is a tree, used to model molecular structure in chemistry: 
+![[tree-example3.png]]
+
+This [[graph]] below on the left is not a tree, because it contains a [[Paths|cycle]] ([source](https://www.gatevidyalay.com/tree-data-structure-tree-terminology/)): 
+
+![[tree-example4.png]]
+
+The image below, taken to be a single [[graph]] with three [[Connected graph|components]], is not a tree, because it is not [[Connected graph|connected]]. But, we can think of it as a forest. 
+
+![[tree-example5.png]]
+
+
 ## Resources 
 
-(video)
-
-Other resources: 
-- 
-
-## Practice 
+![](https://www.youtube.com/watch?v=QFQlxtz7f6g)
