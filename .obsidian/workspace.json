@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Directed Graphs and Relations/Relation.md",
+                "file": "Trees/Tree.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Directed Graphs and Relations/Relation.md",
+                "file": "Trees/Tree.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -169,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Directed Graphs and Relations/Relation.md"
+                "file": "Trees/Tree.md"
               }
             }
           },
@@ -179,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Directed Graphs and Relations/Relation.md",
+                "file": "Trees/Tree.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -210,18 +210,20 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "16750854c4656389",
+  "active": "38ae1e256bf5dea6",
   "lastOpenFiles": [
+    "tree-example2.png",
+    "tree-example1.png",
+    "Trees/Tree.md",
+    "Directed Graphs and Relations/Directed graph.md",
     "Assets/Images/relation-digraph.png",
     "Directed Graphs and Relations/Relation.md",
     "Computer Arithmetic/The modulus operator.md",
     "Directed Graphs and Relations/In-degree and out-degree.md",
-    "Directed Graphs and Relations/Directed graph.md",
     "Assets/Images/digraph-example.png",
     "Assets/Images/digraph-example2.png",
     "Graphs/Graph.md",
     "Sets and Functions/Cartesian product.md",
-    "Trees/Tree.md",
     "Graphs/Connected graph.md",
     "Graphs/Isomorphism.md",
     "Graphs/Handshake Lemma.md",
@@ -246,7 +248,6 @@
     "Assets/Images/bipartite1.png",
     "edge.md",
     "Assets/Images/random-graph723-color.png",
-    "Assets/Images/random-graph-723.png",
     "Basic math concepts",
     "Documents/GitHub/discretecs-vault/LICENSE",
     "Documents/GitHub/discretecs-vault",
