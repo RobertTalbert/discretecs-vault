@@ -18,6 +18,7 @@ updated: 2024-08-09
 
 Notes: 
 - A collection of trees is called a **forest**. That is, a forest is a [[graph]] that has no [[Paths|cycles]] (but which might be disconnected). 
+- In a tree, there is a unique path between any two vertices. That is, given any two vertices, there exists a path from one to the other; and only one such path exists. 
 
 ## Examples 
 
