@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Trees/Rooted tree.md",
+                "file": "Trees/Tree.md",
                 "mode": "source",
                 "source": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Trees/Rooted tree.md",
+                "file": "Trees/Tree.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -181,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Trees/Rooted tree.md"
+                "file": "Trees/Tree.md"
               }
             }
           },
@@ -191,7 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Trees/Rooted tree.md",
+                "file": "Trees/Tree.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -224,8 +224,8 @@
   },
   "active": "db957e368423c021",
   "lastOpenFiles": [
-    "Trees/Tree.md",
     "Trees/Rooted tree.md",
+    "Trees/Tree.md",
     "Assets/Images/tree-example5.png",
     "Assets/Images/tree-example4.png",
     "Assets/Images/tree-example3.png",

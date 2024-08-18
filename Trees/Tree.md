@@ -44,3 +44,5 @@ The image below, taken to be a single [[graph]] with three [[Connected graph|com
 ## Resources 
 
 ![](https://www.youtube.com/watch?v=QFQlxtz7f6g)
+
+![](https://www.youtube.com/watch?v=BptJFixSseM)
