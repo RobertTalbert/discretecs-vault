@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Trees/Tree.md",
+                "file": "Trees/Minimum spanning tree.md",
                 "mode": "source",
                 "source": false
               }
@@ -158,9 +158,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Trees/Tree.md",
+                "file": "Trees/Minimum spanning tree.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           },
@@ -181,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Trees/Tree.md"
+                "file": "Trees/Minimum spanning tree.md"
               }
             }
           },
@@ -191,7 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Trees/Tree.md",
+                "file": "Trees/Minimum spanning tree.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -222,10 +222,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "db957e368423c021",
+  "active": "38ae1e256bf5dea6",
   "lastOpenFiles": [
     "Trees/Rooted tree.md",
     "Trees/Tree.md",
+    "Graphs/Weighted graph.md",
+    "Trees/Spanning tree.md",
+    "Trees/Minimum spanning tree.md",
+    "Assets/Images/weighted.png",
+    "Assets/Images/k4-spanning.png",
+    "Assets/Images/k4-2.png",
     "Assets/Images/tree-example5.png",
     "Assets/Images/tree-example4.png",
     "Assets/Images/tree-example3.png",
@@ -237,7 +243,6 @@
     "Computer Arithmetic/The modulus operator.md",
     "Directed Graphs and Relations/In-degree and out-degree.md",
     "Assets/Images/digraph-example.png",
-    "Assets/Images/digraph-example2.png",
     "Graphs/Graph.md",
     "Sets and Functions/Cartesian product.md",
     "Graphs/Connected graph.md",
@@ -248,8 +253,6 @@
     "Graphs/Isomorphism invariant.md",
     "Logic/Logical equivalence.md",
     "logically equivalent.md",
-    "Assets/Images/nonisomorphic-ex1.png",
-    "Assets/Images/isomorphism-example.png",
     "Graphs/Vizing's Theorem.md",
     "Graphs/Chromatic index.md",
     "Graphs/Representations of graphs.md",
@@ -257,9 +260,6 @@
     "Graphs/Edge coloring.md",
     "Graphs/Chromatic number.md",
     "Graphs/Brooks' Theorem.md",
-    "Graphs/Bipartite graph.md",
-    "Graphs/Kuratowski's Theorem.md",
-    "edge.md",
     "Basic math concepts",
     "Documents/GitHub/discretecs-vault/LICENSE",
     "Documents/GitHub/discretecs-vault",
