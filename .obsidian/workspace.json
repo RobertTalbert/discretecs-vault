@@ -222,15 +222,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "38ae1e256bf5dea6",
+  "active": "db957e368423c021",
   "lastOpenFiles": [
+    "Assets/Images/k4-spanning.png",
+    "Trees/Minimum spanning tree.md",
     "Trees/Rooted tree.md",
     "Trees/Tree.md",
     "Graphs/Weighted graph.md",
     "Trees/Spanning tree.md",
-    "Trees/Minimum spanning tree.md",
     "Assets/Images/weighted.png",
-    "Assets/Images/k4-spanning.png",
     "Assets/Images/k4-2.png",
     "Assets/Images/tree-example5.png",
     "Assets/Images/tree-example4.png",
@@ -259,7 +259,6 @@
     "Graphs/Vertex coloring.md",
     "Graphs/Edge coloring.md",
     "Graphs/Chromatic number.md",
-    "Graphs/Brooks' Theorem.md",
     "Basic math concepts",
     "Documents/GitHub/discretecs-vault/LICENSE",
     "Documents/GitHub/discretecs-vault",
