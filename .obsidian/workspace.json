@@ -158,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Trees/Minimum spanning tree.md",
+                "file": "Directed Graphs and Relations/Directed graph.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Trees/Minimum spanning tree.md"
+                "file": "Directed Graphs and Relations/Directed graph.md"
               }
             }
           },
@@ -191,7 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Trees/Minimum spanning tree.md",
+                "file": "Directed Graphs and Relations/Directed graph.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,10 +216,7 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "publish:Publish changes...": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "custom-sort:Toggle custom sorting": false,
-      "templater-obsidian:Templater": false
+      "publish:Publish changes...": false
     }
   },
   "active": "16750854c4656389",
