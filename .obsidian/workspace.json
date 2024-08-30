@@ -222,8 +222,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "38ae1e256bf5dea6",
+  "active": "db957e368423c021",
   "lastOpenFiles": [
+    "Directed Graphs and Relations/Directed graph.md",
     "Documents/Graphs/Spanning tree.md",
     "Documents/Graphs",
     "Documents/Assets/Images/complement.png",
@@ -260,7 +261,6 @@
     "Documents/Logic/Negation.md",
     "Documents/Recursion/Recursion.md",
     "Documents/Combinatorics/Multiplicative principle.md",
-    "Documents/Logic/Universal quantifier.md",
     "Documents/Directed Graphs and Relations",
     "Documents/Computer Arithmetic",
     "Documents/Basic math concepts",

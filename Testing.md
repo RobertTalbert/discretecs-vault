@@ -1,6 +1,3 @@
 This is testing the Github and sync setup
 
-Trying again 2024-08-26
-
-Trying again using Obsidian Git
- Testing again on 2024-08-26
+This note was written on the laptop, to see if it will sync up with the computer at home
