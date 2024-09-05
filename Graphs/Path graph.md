@@ -10,11 +10,12 @@ updated:
 ## Definition 
 
 > [!tldr] Definition
-> The **path graph** $P_n$ is the graph that is the path on $n$ vertices. It can be represented as 
+> The **path graph** $P_n$ is the graph that is the [[Paths|path]] on $n$ vertices. It can be represented as 
 > - The [[Graph|vertex]] set $\{1,2,\dots, n\}$
-> - The [[Graph|edge]] set $\{\{1,2\}, \{2,3\}, \dots, \{n-1, n\}}
+> - The [[Graph|edge]] set $\{\{1,2\}, \{2,3\}, \dots, \{n-1, n\}\}$
 
-(blurb)
+Notes: 
+- Different labelings of the vertices are possible in $P_n$, 
 
 ## Examples and Non-Examples
 
