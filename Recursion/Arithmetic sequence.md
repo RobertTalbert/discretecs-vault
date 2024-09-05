@@ -13,6 +13,8 @@ Notes:
 - Arithmetic sequences have a [[Recursion|recursive]] definition by letting $a_0$ be the first term of the sequence, then $a_n = b + a_{n-1}$ where $b$ is the common difference 
 
 **This is a change made on the laptop 2024-09-05**
+**This is a change made on the mac Mini 2024-09-05**
+
 
 ## Examples and Non-Examples
 

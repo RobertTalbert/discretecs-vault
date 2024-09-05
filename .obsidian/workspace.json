@@ -1,112 +1,52 @@
 {
   "main": {
-    "id": "a762cd732aab0eb1",
+    "id": "a408ede63ebe9016",
     "type": "split",
     "children": [
       {
-        "id": "e03e74d6714e2989",
+        "id": "65384b718919fb81",
         "type": "tabs",
         "children": [
           {
-            "id": "db1544ae8f7e7a8f",
+            "id": "f84b377db55543f4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Directed Graphs and Relations/Directed graph.md",
+                "file": "Recursion/Arithmetic sequence.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "b88a377e75d6b3ec",
+            "id": "2982ed20a616dd73",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Directed Graphs and Relations/In-degree and out-degree.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "70a173ea3bb21c49",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Trees/Tree.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "db957e368423c021",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Testing.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f415a449b5aa72de",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Graphs/Graph.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5e0807c6f5942161",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sets and Functions/Cartesian product.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f9f5ecb6085ae18e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Arithmetic/The modulus operator.md",
+                "file": "Recursion/Arithmetic sequence.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "fe940413ee953dab",
+    "id": "9174d2ebbad7a9d8",
     "type": "split",
     "children": [
       {
-        "id": "f8a47cc0c30955ab",
+        "id": "fc7379ff0db9e919",
         "type": "tabs",
         "children": [
           {
-            "id": "38ae1e256bf5dea6",
+            "id": "83b84cd384af79b9",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -116,7 +56,7 @@
             }
           },
           {
-            "id": "422e1d20fbc7f24c",
+            "id": "90147ffb1657716d",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -131,7 +71,7 @@
             }
           },
           {
-            "id": "0ab48411b58a4db2",
+            "id": "f4641672d6358ef1",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -145,27 +85,44 @@
     "width": 300
   },
   "right": {
-    "id": "1d4ac08ade1fa34a",
+    "id": "a5936ae68bddc817",
     "type": "split",
     "children": [
       {
-        "id": "487c2c0e96184fca",
+        "id": "46ae8ef9ce31e3d9",
         "type": "tabs",
         "children": [
           {
-            "id": "16750854c4656389",
+            "id": "7d1e269470b1da83",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Recursion/Arithmetic sequence.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "34f7494dc0469059",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Testing.md",
+                "file": "Recursion/Arithmetic sequence.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "ad177d3520873663",
+            "id": "a5f2d7c9fcf39e2d",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -176,29 +133,12 @@
             }
           },
           {
-            "id": "dede0effc37337ec",
+            "id": "7ba3c070d48023ad",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Testing.md"
-              }
-            }
-          },
-          {
-            "id": "21830707dc3b0d28",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Testing.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": true,
-                "unlinkedCollapsed": false
+                "file": "Recursion/Arithmetic sequence.md"
               }
             }
           }
@@ -206,69 +146,26 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "custom-sort:Toggle custom sorting": false,
+      "templater-obsidian:Templater": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "publish:Publish changes...": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "custom-sort:Toggle custom sorting": false,
-      "templater-obsidian:Templater": false
+      "publish:Publish changes...": false
     }
   },
-  "active": "db957e368423c021",
+  "active": "2982ed20a616dd73",
   "lastOpenFiles": [
-    "Directed Graphs and Relations/Directed graph.md",
-    "Documents/Graphs/Spanning tree.md",
-    "Documents/Graphs",
-    "Documents/Assets/Images/complement.png",
-    "Documents/Assets/Images/nonisomorphic-ex1.png",
-    "Documents/Assets/Images/graphview.jpg",
-    "Documents/Assets/Images/Pasted image 20230718094622.png",
-    "Graphs/Spanning tree.md",
-    "Documents/Assets/Images/usa-map-blank.png",
-    "Documents/Assets/Images/bipartite2.png",
-    "Documents/Assets/Images/isomorphism-example.png",
-    "Documents/Assets/Images/injective1.png",
-    "Documents/Assets/Images/simple-function-diagram.png",
-    "Documents/Assets/Images/connected-examples.png",
-    "Documents/Proof/Mathematical induction.md",
-    "Documents/Graphs/Representations of graphs.md",
-    "Documents/Graphs/Isomorphism.md",
-    "Documents/Logic/Truth tables.md",
-    "Documents/Computer Arithmetic/Base conversion algorithm.md",
-    "Documents/Sets and Functions/Surjective.md",
-    "Documents/Proof/Strong induction.md",
-    "Documents/Recursion/Characteristic root method.md",
-    "Documents/Graphs/Isomorphism invariant.md",
-    "Documents/Sets and Functions/Function.md",
-    "Documents/Sets and Functions/Bijective.md",
-    "Documents/Proof/Indirect proof.md",
-    "Documents/Computer Arithmetic/Division in binary.md",
-    "Documents/Proof/Proof by contraposition.md",
-    "Documents/Logic/Conditional statements.md",
-    "Documents/Graphs/Graph.md",
-    "Documents/Computer Arithmetic/Addition in binary.md",
-    "Documents/Sets and Functions/Set-builder notation.md",
-    "Documents/Sets and Functions/Injective function.md",
-    "Documents/Sets and Functions/Injective.md",
-    "Documents/Logic/Negation.md",
-    "Documents/Recursion/Recursion.md",
-    "Documents/Combinatorics/Multiplicative principle.md",
-    "Documents/Directed Graphs and Relations",
-    "Documents/Computer Arithmetic",
-    "Documents/Basic math concepts",
-    "Documents/Sets and Functions",
-    "Documents/Assets/Templates",
-    "Documents/Combinatorics",
-    "Documents/Assets/Images",
-    "Documents/Recursion",
-    "Documents/Trees"
+    "conflict-files-obsidian-git.md",
+    "Recursion/Arithmetic sequence.md"
   ]
 }
