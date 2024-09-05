@@ -22,14 +22,6 @@ Notes:
 
 ## Examples and Non-Examples
 
-Here are vis
+Here are visualizations of the first four path graphs: 
 ![[pathgraphs.png]]
 
-## Resources 
-
-(video)
-
-Other resources: 
-- 
-
-## Practice 

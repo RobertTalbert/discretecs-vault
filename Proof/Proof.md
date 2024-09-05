@@ -9,7 +9,7 @@ aliases: [proof, proofs]
 > [!tldr] Definition
 > A **proof** is an explanation for why a [[Propositions|proposition]] is always true under the conditions in which it is stated, that is thorough, free of errors, and clearly expressed. 
 
-The types of proof that you will learn in MTH 225 include: 
+Notes: 
 
 - Proof using [[Recursion and Induction/Mathematical induction|mathematical induction]] 
 - Combinatorial proof
