@@ -12,6 +12,8 @@ Notes:
 - We say that arithmetics sequences "grow at a constant rate".
 - Arithmetic sequences have a [[Recursion|recursive]] definition by letting $a_0$ be the first term of the sequence, then $a_n = b + a_{n-1}$ where $b$ is the common difference 
 
+**This is a change made on the laptop 2024-09-05**
+
 ## Examples and Non-Examples
 
 - The sequence $3, 5, 7, 9, 11, 13, \dots$ is arithmetic because each term is $2$ plus the previous term. (Or, the difference between any two consecutive terms is $2$.)
