@@ -18,8 +18,12 @@ Notes:
 - Different labelings of the vertices are possible in $P_n$, but the edges must represent the path between the vertices. There is only one such path up to [[Isomorphism|isomorphism]]. 
 - $P_1$ is just a single vertex with no edges. 
 - $P_2$ is a single edge with two vertices. 
+- The path graph $P_n$ is a [[Paths|path]] of length $n-1$. 
 
 ## Examples and Non-Examples
+
+Here are vis
+![[pathgraphs.png]]
 
 ## Resources 
 
