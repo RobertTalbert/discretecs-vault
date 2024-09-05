@@ -1,7 +1,7 @@
 **Welcome to the vault for Discrete Structures for Computer Science**. This website contains articles for all the important concepts in a two-semester course on discrete mathematics for computer science majors. 
 
-> [!important] NOTE FOR SUMMER 2024
-> **During Summer 2024, this vault will be under heavy construction** as concepts and content from the second semester of the course are added. The content being added includes concepts from mathematical proof, graphs, relations/digraphs, and trees. The content from the first semester of the course -- computer arithmetic, logic, set theory, functions, recursion, and combinatorics -- will be getting updates, but no major renovations are planned. 
+> [!important] NOTE FOR FALL 2024
+> The updates to this vault from summer 2024 aren't done yet, so there are some topics from graph theory, trees, relations and directed graphs that are incomplete or which haven't been added yet. I'm on it! Expect a complete vault and some updates to older articles by the end of September. 
 
 The articles in this vault are **linked together** like Wikipedia articles. if you see underlined text, this is a link to either external webpage (like this) or to another article in the vault (for example, click to read about the [[Binomial coefficient|binomial coefficient]]). This makes it easy to go from one idea to any related idea in one click. 
 
