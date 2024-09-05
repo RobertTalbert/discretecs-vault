@@ -10,6 +10,11 @@ aliases: [proof, proofs]
 > A **proof** is an explanation for why a [[Propositions|proposition]] is always true under the conditions in which it is stated, that is thorough, free of errors, and clearly expressed. 
 
 Notes: 
+- While there is almost never a single "right" way to prove a proposition, there are several commonly accepted methods for approaching a proof, including: 
+	- [[Direct proof]]
+	- [[Proof by contraposition]]
+	- [[Indirect proof|Proof by contradiction]]
+	- [[Pr]]
 
 - Proof using [[Recursion and Induction/Mathematical induction|mathematical induction]] 
 - Combinatorial proof
