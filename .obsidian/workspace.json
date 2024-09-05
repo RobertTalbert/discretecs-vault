@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Testing.md",
+                "file": "Recursion/Arithmetic sequence.md",
                 "mode": "source",
                 "source": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Testing.md",
+                "file": "Recursion/Arithmetic sequence.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Testing.md"
+                "file": "Recursion/Arithmetic sequence.md"
               }
             }
           },
@@ -191,7 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Testing.md",
+                "file": "Recursion/Arithmetic sequence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -224,6 +224,7 @@
   },
   "active": "db957e368423c021",
   "lastOpenFiles": [
+    "Testing.md",
     "Directed Graphs and Relations/Directed graph.md",
     "Documents/Graphs/Spanning tree.md",
     "Documents/Graphs",
@@ -260,7 +261,6 @@
     "Documents/Sets and Functions/Injective.md",
     "Documents/Logic/Negation.md",
     "Documents/Recursion/Recursion.md",
-    "Documents/Combinatorics/Multiplicative principle.md",
     "Documents/Directed Graphs and Relations",
     "Documents/Computer Arithmetic",
     "Documents/Basic math concepts",
