@@ -14,11 +14,10 @@ Notes:
 	- [[Direct proof]]
 	- [[Proof by contraposition]]
 	- [[Indirect proof|Proof by contradiction]]
-	- [[Pr]]
-
-- Proof using [[Recursion and Induction/Mathematical induction|mathematical induction]] 
-- Combinatorial proof
-- As well as simply giving thorough explanations for observed phenomena. 
+	- Proof by [[Mathematical induction|mathematical induction]] or [[Strong induction|strong induction]]
+	- Combinatorial proof 
+	- As well as simply giving thorough explanations for observed phenomena. 
+- 
 
 ## Examples and Non-Examples
 
