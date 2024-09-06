@@ -26,7 +26,7 @@ We can think of this map as a graph, where each state is a vertex and two vertic
 
 
 More examples/non-examples:
-- The complete graph on 6 vertices $K_6$ cannot be colored with fewer than 6 colors, since each vertex is adjacent to the remaining five. Therefore the [[]] of the Four Color Theorem says $K_6$ is nonplanar. (A fact also concluded using [[Kuratowski's Theorem]].)
+- The complete graph on 6 vertices $K_6$ cannot be colored with fewer than 6 colors, since each vertex is adjacent to the remaining five. Therefore the [[Contrapositive|contrapositive]] of the Four Color Theorem says $K_6$ is nonplanar. (A fact also concluded using [[Kuratowski's Theorem]].)
 - Just because a graph has a 4-coloring, it does not mean the graph is planar. For example $K_{3,3}$ (the [[Bipartite graph|complete bipartite graph]] with 3 vertices in each partition) has a 4-coloring, in fact it has a 2-coloring (below). But $K_{3,3}$ is nonplanar due to [[Kuratowski's Theorem]]. Therefore the [[converse]] of the Four Color Theorem is false. 
 
 ![[k33-colored.png|400]]
@@ -35,9 +35,4 @@ More examples/non-examples:
 
 ## Resources 
 
-(video)
-
-Other resources: 
 - [Every Planar Map is Four Colorable](http://www.ams.org/books/conm/098/) 
-
-## Practice 
