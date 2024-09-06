@@ -17,7 +17,7 @@ updated:
 > [!tldr] Definition
 > The **degree** of a [[Graph|vertex]] in a [[Graph|graph]] is the number of [[Graph|edges]] that are [[Adjacent|incident]] to $v$. That is, it is the number of edges "coming out" of the vertex. If $v$ is a specific vertex, then its degree is denoted $\deg(v)$.
 > 
-> The **minimum degree** of a graph $G$ is the smallest of all its vertex degrees and is denoted $\delta(G)$. The **maximum degree** of a graph $G$ is the smallest of all its vertex degrees and is denoted $\Delta(G)$.
+> The **minimum degree** of a graph $G$ is the smallest of all its vertex degrees and is denoted $\delta(G)$. The **maximum degree** of a graph $G$ is the largest of all its vertex degrees and is denoted $\Delta(G)$.
 > 
 > The **degree sequence** of a graph is the list of all of its vertex degrees listed in non-increasing order. 
 
