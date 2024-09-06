@@ -1,11 +1,11 @@
 ---
-aliases: 
 tags:
   - graphs
-created: 2024-07-24
-updated: 2024-09-06
+created: 2024-09-06
+aliases:
+  - The Four Color Theorem
 ---
----
+
 ## Definition 
 
 > [!tldr] Definition
