@@ -41,7 +41,7 @@ Consider this graph $G$:
 ![[degree-graph-example.png]]
 
 
-- The vertex sequence 4, 3, 2, 5, 3, 2 is a walk because it's a nonempty sequence of vertices in which every pair of consec. But it is not a trail, because it has a repeated edge (3,2). Since it is not a trail, it is also not a path. 
+- The vertex sequence 4, 3, 2, 5, 3, 2 is a walk because it's a nonempty sequence of vertices in which every pair of consecutive vertices (4 and 3, 3 and 2, 2 and 5, etc.) are adjacent. But it is not a trail, because it has a repeated edge (3,2). Since it is not a trail, it is also not a path. 
 - The vertex sequence 4, 3, 2, 1, 3 is a walk, and also a trail because no edges are repeated. However it is not a path because there is a repeated vertex (3). 
 - The vertex sequence 4, 3, 2, 6, 5 is a walk, a trail, and a path. But it is not a closed walk, closed trail, or cycle because the starting and ending vertices are not the same. 
 - The vertex sequence 4, 3, 2, 3, 4 is a closed walk because it is a walk and it starts and ends at the same vertex. But is it not a trail (repeated edge) nor a path (repeated vertex), hence neither a closed trail nor a cycle. 
