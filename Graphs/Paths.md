@@ -27,6 +27,8 @@ updated:
 > 3. A **path** is a trail with no repeated vertex. A path consisting of a single vertex is called a **trivial path**. 
 > 4. A **cycle** is a closed trail that has at least three (3) different vertices in it, and the only repeating vertices are the first and the last. 
 > 5. The **length** of a walk, trail, path, or cycle is the number of edges it contains. 
+>    
+>    We often omit the edges from walks, trails, paths, and cycles and just list the 
 
 **Notes**: 
 - Since we do not allow for loops or multiple edges in graphs, we typically represent walks, trails, paths, and cycles using only vertices. 
