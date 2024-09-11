@@ -28,7 +28,7 @@ updated:
 > 4. A **cycle** is a closed trail that has at least three (3) different vertices in it, and the only repeating vertices are the first and the last. 
 > 5. The **length** of a walk, trail, path, or cycle is the number of edges it contains. 
 >    
->    We often omit the edges from walks, trails, paths, and cycles and just list the 
+>    We often omit the edges from walks, trails, paths, and cycles and just list the vertices in a sequence. In this case a walk is a nonempty sequence of vertices in which any two consecutive vertices are [[Adjacent|adjacent]]. 
 
 **Notes**: 
 - Since we do not allow for loops or multiple edges in graphs, we typically represent walks, trails, paths, and cycles using only vertices. 
@@ -41,7 +41,7 @@ Consider this graph $G$:
 ![[degree-graph-example.png]]
 
 
-- The vertex sequence 4, 3, 2, 5, 3, 2 is a walk. But it is not a trail, because it has a repeated edge (3,2). Since it is not a trail, it is also not a path. 
+- The vertex sequence 4, 3, 2, 5, 3, 2 is a walk because it's a nonempty sequence of vertices in which every pair of consec. But it is not a trail, because it has a repeated edge (3,2). Since it is not a trail, it is also not a path. 
 - The vertex sequence 4, 3, 2, 1, 3 is a walk, and also a trail because no edges are repeated. However it is not a path because there is a repeated vertex (3). 
 - The vertex sequence 4, 3, 2, 6, 5 is a walk, a trail, and a path. But it is not a closed walk, closed trail, or cycle because the starting and ending vertices are not the same. 
 - The vertex sequence 4, 3, 2, 3, 4 is a closed walk because it is a walk and it starts and ends at the same vertex. But is it not a trail (repeated edge) nor a path (repeated vertex), hence neither a closed trail nor a cycle. 
