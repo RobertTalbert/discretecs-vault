@@ -18,7 +18,7 @@ Notes:
 
 ## Example
 
-In the graph below, $n = 6$ (the number of vertices). The degree of each vertex is either 3 or 5, and every vertex other than vertex 5 is adjacent to vertex 5. 
+In the graph below, $n = 6$ (the number of vertices). The degree of each vertex is either 3 or 5, and every vertex other than vertex 5 is adjacent to vertex 5. So if $u$ and $v$ are non-adjacent, it must be that $\deg(u)$ and $\deg(v)$ both equal 3, so $\deg(u) + \deg(v) = 
 
 
 
