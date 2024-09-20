@@ -21,7 +21,7 @@ Notes:
 
 Consider this graph with $n=8$ vertices: 
 ![[dirac-example.png]]
-The degree sequence of the graph is 
+The degree sequence of the graph is 6, 6, 5, 5, 5, 5, 4, 4. So the degree of each vertex is 
 
 
 ## Resources 
