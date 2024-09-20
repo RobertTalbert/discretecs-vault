@@ -19,8 +19,9 @@ Notes:
 
 ## Examples 
 
-
-
+Consider this graph with $n=8$ vertices: 
+![[dirac-example.png]]
+The degree sequence of the graph is 
 
 
 ## Resources 
