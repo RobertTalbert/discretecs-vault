@@ -10,9 +10,10 @@ updated:
 
 > [!tldr] Definition
 > **Dirac's Theorem** states: 
-> If $G$ is a graph with $n \geq 3$ vertices, 
+> If $G$ is a [[Graph|graph]] with $n \geq 3$ vertices, and the degree of each vertex is at least $n/2$, then $G$ has a [[Hamiltonian path and circuit|Hamilton circuit]]. 
 
-(blurb)
+Notes: 
+- Dirac's Theorem is a corollary to [[Ore's Theorem]]: If the conditions of 
 
 ## Examples and Non-Examples
 
