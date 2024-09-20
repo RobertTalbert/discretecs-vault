@@ -25,7 +25,7 @@ The degree of each vertex is either 3 or 5, and every vertex other than vertex 1
 Another example: Consider the [[Bipartite graph|complete bipartite graph]] $K_{4,4}$:  
 ![[k44.png]]
 
-There are $n=8$ vertices in this graph, and any two nonadjacent vertices must come from the same partition, and have degree 4. Therefore $\deg(u) + \deg(v) = 8$ for all nonadjacent vertices $u$ and $v$. Since this is greater than or equal to $n=8$, $K_{4,4}$ has a Hamilton circuit. 
+There are $n=8$ vertices in this graph, and any two nonadjacent vertices must come from the same partition, and have degree 4. Therefore $\deg(u) + \deg(v) = 8$ for all nonadjacent vertices $u$ and $v$. Since this is greater than or equal to $n=8$, $K_{4,4}$ has a Hamilton circuit. An example of a such a circuit can be built by picking a vertex and alternating back and forth between the partitions and choosing different vertices each time, and ending at the starting vertex. 
 
 ## Resources 
 
