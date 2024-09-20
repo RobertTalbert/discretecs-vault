@@ -21,7 +21,7 @@ Notes:
 
 Consider this graph with $n=8$ vertices: 
 ![[dirac-example.png]]
-The degree sequence of the graph is 6, 6, 5, 5, 5, 5, 4, 4. We can see from here that the degree of each vertex is greater than or equal to $8/2 = 4$. Dirac's Theorem would then imply that $G$ has a [[Hamiltonian path and circuit|Hamilton circuit]]. Dirac's Theorem gives only the *existence* of this circuit; it doesn't say what it is, or how to find it. However, 
+The degree sequence of the graph is 6, 6, 5, 5, 5, 5, 4, 4. We can see from here that the degree of each vertex is greater than or equal to $8/2 = 4$. Dirac's Theorem would then imply that $G$ has a [[Hamiltonian path and circuit|Hamilton circuit]]. Dirac's Theorem gives only the *existence* of this circuit; it doesn't say what it is, or how to find it. However, working with the graph some more would uncover 1, 4, 7, 3, 6, 5, 2, 8, 1 as an example [[Hamiltonian path and circuit|Hamilton circuit]]. 
 
 
 ## Resources 
