@@ -22,10 +22,10 @@ In the graph below, $n = 6$ (the number of vertices).
 ![[ore-example.png]]
 The degree of each vertex is either 3 or 5, and every vertex other than vertex 1 is adjacent to vertex 1. So if $u$ and $v$ are non-adjacent, it must be that $\deg(u)$ and $\deg(v)$ both equal 3, so $\deg(u) + \deg(v) = 6$ which is greater than or equal to 6. Ore's Theorem would then guarantee that $G$ has a Hamilton circuit. By examining the graph, we can see that this is indeed the case, for example $1, 2, 4, 3, 6, 5, 1$ is a Hamilton circuit. 
 
-Another example: Consider the [[Bipartite graph|complete bipartite graph]] $K_{3,4}$:  
-![[k34.png]]
+Another example: Consider the [[Bipartite graph|complete bipartite graph]] $K_{4,4}$:  
+![[k44.png]]
 
-There are $n=7$ vertices in this graph, and any two non
+There are $n=8$ vertices in this graph, and any two nonadjacent vertices must come from the same partition, w
 
 ## Resources 
 
