@@ -18,7 +18,7 @@ Notes:
 
 ## Example
 
-
+In the graph below, $n = 6$ (the number of vertices). 
 
 
 
