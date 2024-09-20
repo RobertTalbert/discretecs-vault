@@ -17,7 +17,7 @@ Notes:
 
 ## Examples and Non-Examples
 
-The [[Converse|converse]] of Ore's Theorem is not true. That is, if $G$ has a [[Hamiltonian path and circuit|Hamilton circuit]] we cannot necessarily conclude anything about the degrees of the vertices in $G$. A simple example where the converse is not satisfied is $C_4$, the [[Cycle graph|cycle graph]] on 4 vertices (which looks like a square). 
+The [[Converse|converse]] of Ore's Theorem is not true. That is, if $G$ has a [[Hamiltonian path and circuit|Hamilton circuit]] we cannot necessarily conclude anything about the degrees of the vertices in $G$. A simple example where the converse is not satisfied is $C_5$, the [[Cycle graph|cycle graph]] on 5 vertices (which looks like a pentagon). Clearly $C_5$ has a Hamilton circuit (pick one vertex and go around the entire graph). The degree of each vertex in $C_5$ is 2, so $\deg(u) + \deg(v) = 4$, which is less than 
 
 
 ## Resources 
