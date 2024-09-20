@@ -10,7 +10,7 @@ updated:
 
 > [!tldr] Definition
 > **Ore's Theorem** states that: 
-> If $G$ is a graph with $n$ vertices with $n \geq 3$, such that $\deg(u) + \deg(v) \geq n$ for every pair of nonadjacent vertices $u$ and $v$, then $G$ has a [[Hamilton]]
+> If $G$ is a [[Graph|graph]] with $n$ [[Graph|vertices]] with $n \geq 3$, such that $\deg(u) + \deg(v) \geq n$ for every pair of nonadjacent vertices $u$ and $v$, then $G$ has a [[Hamiltonian path and circuit|Hamilton circuit]]. 
 
 (blurb)
 

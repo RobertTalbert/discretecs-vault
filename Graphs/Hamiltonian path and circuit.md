@@ -4,10 +4,11 @@ aliases:
   - Hamilton cycle
   - Hamiltonian cycle
   - Hamiltonian
+  - Hamilton circuit
 tags:
   - graphs
 created: 2024-07-17
-updated:
+updated: 2024-09-20
 ---
 ---
 ## Definition 
