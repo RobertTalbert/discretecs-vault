@@ -18,7 +18,7 @@ Notes:
 
 ## Example
 
-In the graph below, $n = 6$ (the number of vertices). The degree of each vertex is either 3 or 5. Notice each vertex is adjacent to vertex 1 which has degree 5; so any pair of nonadjac
+In the graph below, $n = 6$ (the number of vertices). The degree of each vertex is either 3 or 5, and every vertex other than vertex 5 is adjacent to vertex 5. 
 
 
 
