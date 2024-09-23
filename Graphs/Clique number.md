@@ -18,7 +18,7 @@ Notes:
 * "Clique" is pronounced "CLEEK". 
 * The common use of the term "clique" refers to a subgroup of people within a large group, and everyone in the subgroup knows everyone else in the subgroup. That is the same sense as what's meant in a graph. 
 * A clique of size $n$ is just a triangle. So, any graph that contains a triangle has a clique number at least (if not bigger than) $3$. 
-* It can be proven that the [[Chromatic number|chromatic number]] of a graph must be greater than or equal to its clique number. 
+* The [[Chromatic number|chromatic number]] of a graph must be greater than or equal to its clique number. 
 
 ## Examples
 
@@ -29,9 +29,6 @@ This graph does not have a clique of size 5, because in such a clique, each of t
 
 ## Resources 
 
-(video)
+![](https://www.youtube.com/watch?v=nBrFC0STApo)
 
-Other resources: 
-- 
-
-## Practice 
+![](https://www.youtube.com/watch?v=4D8P92w-Hf4)
