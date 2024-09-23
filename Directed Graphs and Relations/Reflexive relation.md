@@ -24,9 +24,6 @@ Notes:
 
 ## Resources 
 
-(video)
+![](https://www.youtube.com/watch?v=HXFHVRS1ZW8)
 
-Other resources: 
-- 
-
-## Practice 
+Specific discussion of reflexive relations starts at [7:20](https://youtu.be/HXFHVRS1ZW8?si=EPg4-CKO0G3xIPE0&t=440). 
