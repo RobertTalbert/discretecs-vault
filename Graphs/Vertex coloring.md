@@ -22,13 +22,13 @@ Notes:
 
 ## Examples and Non-Examples
 
-**An improper vertex coloring:** The graph below has ten vertices labelled 1 through 10 and colored red, green or blue:
+**An improper vertex coloring:** The graph below has ten vertices labelled 0 through 5 and colored either yellow or purple: 
 
-![[improper-coloring.png|400]]
+![[bad color.png]]
 
 The coloring, given as a function $f$, could be represented as this table: 
 
-|  $v$   | 1   | 2   | 3   | 4   | 5   | 6   | 7    | 8    | 9    | 10    |
+|  $v$   | 0   | 1   | 2   | 3   | 4   | 5   | 7    | 8    | 9    | 10    |
 | :----: | --- | --- | --- | --- | --- | --- | ---- | ---- | ---- | ----- |
 | $f(v)$ | Red | Red | Red | Red | Red | Red | Blue | Blue | Blue | Green |
  
