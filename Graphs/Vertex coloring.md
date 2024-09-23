@@ -19,6 +19,7 @@ updated:
 Notes: 
 - The labels used in a coloring are not necessarily literally colors; they can be text labels, numbers, etc. 
 - Every graph has a proper coloring, which can be obtained by using a different color for every vertex. 
+-
 
 ## Examples and Non-Examples
 
@@ -44,7 +45,7 @@ As a function, this would be:
 
 
 
-As noted, another example of a proper coloring of this graph can be created by simply coloring each vertex with a different color, so 10 colors in all. But this would use more colors than is necessary; typically, in applications, we are seeking the smallest number of colors needed to create a proper coloring of a graph, a concept related to the [[Chromatic number|chromatic number]] of the graph. 
+As noted, another example of a proper coloring of this graph can be created by simply coloring each vertex with a different color, so using 6 different colors in all. But this would use more colors than is necessary; typically, in applications, we are seeking the smallest number of colors needed to create a proper coloring of a graph, a concept related to the [[Chromatic number|chromatic number]] of the graph. 
 
 More examples: The cycle graph $C_5$ can be 5-colored, just by picking a different color for each of the vertices: 
 ![[cycle5-color1.png|400]]
