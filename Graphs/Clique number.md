@@ -21,7 +21,7 @@ Notes:
 
 ## Examples
 
-The graph below has a clique of size 4 (consisting of of vertices 1, 6, 3, and 4) and several cliques of size 3 (for example, vertices 1, 3, and 4). 
+The graph below has a clique of size 4 (consisting of of vertices 1, 6, 3, and 4) and several cliques of size 3 (for example, vertices 1, 3, and 4). But it does not have a clique of size 5, because in such a clique, each vertex would have to have a degree at least 4 (since each vertex in the clique would be adjacent to all the other vertices in the clique and possibly others outside the clique). But, this graph has just 
 
 
 ## Resources 
