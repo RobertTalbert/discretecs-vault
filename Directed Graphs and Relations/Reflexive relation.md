@@ -11,9 +11,10 @@ updated:
 ## Definition 
 
 > [!tldr] Definition
-> A [[Relation|relation]]
+> A [[Relation|relation]] $R$ on a set $X$ is said to be **reflexive** if $(a,a) \in R$ for all $a \in X$. 
 
-(blurb)
+Notes: 
+- In other words a relation is reflexive if every element of the 
 
 ## Examples and Non-Examples
 
