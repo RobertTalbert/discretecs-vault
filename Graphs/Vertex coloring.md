@@ -8,7 +8,7 @@ aliases:
 tags:
   - graphs
 created: 2024-07-24
-updated:
+updated: 2024-09-23
 ---
 ---
 ## Definition 
@@ -19,7 +19,6 @@ updated:
 Notes: 
 - The labels used in a coloring are not necessarily literally colors; they can be text labels, numbers, etc. 
 - Every graph has a proper coloring, which can be obtained by using a different color for every vertex. 
--
 
 ## Examples and Non-Examples
 
