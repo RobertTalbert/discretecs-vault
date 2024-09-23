@@ -25,7 +25,7 @@ By extension, $\chi(K_n) = n$ (where $K_n$ is the [[Complete graph|complete grap
 
 Also by extension, any graph that has $K_3$ (a triangle) as a [[Subgraph|subgraph]] must have a chromatic number greater than or equal to 3, since a minimum of 3 colors is required to color just the triangle. 
 
-It can be proven as a theorem that the chromatic number of a graph 
+It can be proven as a theorem that the chromatic number of a graph is always greater than or equal to its [[Clique number|clique number]] (the largest value of $n$ for which the graph has a [[Subgraph|subgraph]] that is  [[Isomorphism|isomorphic]] to the [[Complete graph|complete graph]] $K_n$). 
 
 The graph below has a chromatic number of 4; a 4-coloring is shown. While there are proper colorings of this graph with more than four colors (again we could just assign 11 different colors, one for each vertex) there are no proper colorings with 3 or fewer colors: 
 ![[grotzschgraph.png]]
