@@ -28,13 +28,16 @@ Notes:
 
 The coloring, given as a function $f$, could be represented as this table: 
 
-|  $v$   | 0   | 1   | 2   | 3   | 4   | 5   | 7    | 8    | 9    | 10    |
-| :----: | --- | --- | --- | --- | --- | --- | ---- | ---- | ---- | ----- |
-| $f(v)$ | Red | Red | Red | Red | Red | Red | Blue | Blue | Blue | Green |
+|  $v$   | 0      | 1      | 2      | 3      | 4      | 5      |
+| :----: | ------ | ------ | ------ | ------ | ------ | ------ |
+| $f(v)$ | Purple | Yellow | Purple | Purple | Yellow | Yellow |
  
-(This is not the only way to represent a coloring.) Note **this is not a proper coloring** because for example, vertices 1 and 2 are adjacent but have the same color. 
+(This is not the only way to represent a coloring.) Note **this is not a proper coloring** because for example, vertices 1 and 4 are adjacent but have the same color. 
 
-**A proper coloring:** An example of a *proper* coloring of the graph above -- where adjacent vertices have different colors -- is below, where 1 is red, the remaining odd numbered vertices are blue, and the even numbered vertices are green: ![[proper-coloring.png|400]]
+**A proper coloring:** An example of a *proper* coloring of the graph above -- where adjacent vertices have different colors -- is below: 
+![[good colors.png]]
+As a function, this would be: 
+
 
 As noted, another example of a proper coloring of this graph can be created by simply coloring each vertex with a different color, so 10 colors in all. But this would use more colors than is necessary; typically, in applications, we are seeking the smallest number of colors needed to create a proper coloring of a graph, a concept related to the [[Chromatic number|chromatic number]] of the graph. 
 
