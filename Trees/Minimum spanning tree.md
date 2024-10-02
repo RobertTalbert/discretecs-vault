@@ -22,7 +22,7 @@ There are several spanning trees for this graph, including:
 * $\{\{0,1\}, \{0,3\}, \{3,4\}, \{0,8\}, \{1,7\}, \{2,7\}, \{2,5\}, \{5,6\}\}$
 * $\{\{4,8\}, \{8,0\}, \{0,3\}, \{0,1\}, \{3,2\}, \{1,7\}, \{2,5\}, \{5,6\}\}$
 
-But notice that the weights are 
+But notice that the weights are different. The total weight of the first spanning tree is $4+3+4+2+2+1+1+8 = 25$ while the second is $8+4+2+3+6+4+1+8 = 
 ## Resources 
 
 (video)
