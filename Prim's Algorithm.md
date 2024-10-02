@@ -24,7 +24,8 @@ Notes:
 
 ## Examples 
 
-
+Consider this weighted graph: 
+![[weighted.png]]
 
 ## Resources 
 
