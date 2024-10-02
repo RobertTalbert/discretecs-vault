@@ -18,7 +18,9 @@ Notes:
 
 Consider this weighted graph: 
 ![[weighted.png]]
-
+There are several spanning trees for this graph, including: 
+* $\{\{0,1\}, \{0,3\}, \{3,4\}, \{0,8\}, \{1,7\}, \{2,7\}, \{2,5\}, \{5,6\}\}$
+* $\{\{4,8\}, \{8,0\}, \{0,\}$
 
 
 ## Resources 
