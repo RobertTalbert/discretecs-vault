@@ -28,7 +28,8 @@ Consider this weighted graph:
 ![[weighted.png]]
 Prim's Algorithm starting at vertex 1 would proceed as follows: 
 - Make 1 the first vertex in the tree. At this stage the tree is just this one vertex. 
-- The edges that go out from "the tree" are 
+- The edges that go out from "the tree" are $\{1,7\}$ and $\{1,0\}$. Of those, the one with minimum weight is $\{1,0\}$. It connects a vertex in the tree (1) with one that is not (0) so add this edge to the tree. The tree is now the single edge $\{0,1\}$. 
+- The tree does not co
 
 
 ## Resources 
