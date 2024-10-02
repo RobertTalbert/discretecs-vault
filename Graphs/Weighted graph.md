@@ -24,5 +24,8 @@ Here is an example of a weighted graph:
 ![[weighted.png]]
 
 The weight of edge $\{3,4\}$ is 1. The weight of edge $\{5,6\}$ is 8. 
+
+We can represent a weighted graph using 
 ## Resources 
 
+![](https://www.youtube.com/watch?v=MurOpIGCmhQ)
