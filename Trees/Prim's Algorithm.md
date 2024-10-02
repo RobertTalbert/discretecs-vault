@@ -36,8 +36,9 @@ Prim's Algorithm starting at vertex 1 would proceed as follows:
 - Look at all edges that come out from the tree with one vertex in the tree and the other not in the tree: $\{2,7\}$ and $\{3,2\}$. $\{2,7\}$ has the smallest weight, so add it: $\{\{0,1\}, \{0,3\}, \{3,4\}, \{0,8\}, \{1,7\}, \{2,7\}\}$
 - Now there is only one edge that connects a vertex not in the tree to one that is in the tree, namely $\{2,5\}$, so add it: $\{\{0,1\}, \{0,3\}, \{3,4\}, \{0,8\}, \{1,7\}, \{2,7\}, \{2,5\}\}$. 
 - Finally there is only one edge that connects a vertex not in the tree to one that is in the tree, namely $\{5,6\}$, so add it: $\{\{0,1\}, \{0,3\}, \{3,4\}, \{0,8\}, \{1,7\}, \{2,7\}, \{2,5\}, \{5,6\}\}$. 
-- The tree now contains all the vertices of the original graph, so stop. The resulting tree is shown below in red: 
+- The tree now contains all the vertices of the original graph, so stop. The resulting tree is shown below in red. It total weight is $4+3+4+2+2+1+1+8 = 25$. 
 
+![[prim-outcome.png]]
 
 
 ## Resources 
