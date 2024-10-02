@@ -6,7 +6,7 @@ aliases:
 tags:
   - graphs
 created: 2024-08-15
-updated:
+updated: 2024-10-02
 ---
 ---
 ## Definition 
@@ -17,7 +17,7 @@ updated:
 Notes: 
 - The weights in a weighted graph can be [[Integers|integer]] or non-integer, positive or negative or zero. 
 - A [[Directed graph|directed graph]] can also have weighted edges. 
-- In applications, the weight of an edge often represents a "cost". For example, a graph representing a highway map could use cities as the vertices, and the weight of an edge between cities could represent the distance between the cities, or the cost of a
+- In applications, the weight of an edge often represents a "cost". For example, a graph representing a highway map could use cities as the vertices, and the weight of an edge between cities could represent the distance between the cities, or the time needed to get from one city to the other, or the cost of road tolls or airfare between them. 
 
 ## Examples
 
