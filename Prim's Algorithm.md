@@ -13,7 +13,7 @@ updated:
 > 
 > The algorithm works as follows. The input is a [[Connected graph|connected]], [[Weighted graph|weighted graph]] $G$. 
 > 1. Select an arbitrary vertex $v$ in $G$ and an empty tree $T$. Add this vertex to $T$. 
-> 2. Find all edges in $G$ that are incident with $v$ 
+> 2. Find all edges in $G$ that are incident with $v$. Choose the one with the minimum weight. (Choose randomly in case of a tie.) Add this edge to $T$. 
 
 (blurb)
 
