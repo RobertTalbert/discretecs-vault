@@ -1,8 +1,9 @@
 ---
 aliases:
   - minimum spanning tree
-tags: 
-created: 
+tags:
+  - tree-search
+created: 2024-10-02
 updated:
 ---
 ---
@@ -25,9 +26,4 @@ There are several spanning trees for this graph, including:
 But notice that the weights are different. The total weight of the first spanning tree is $4+3+4+2+2+1+1+8 = 25$ while the second is $8+4+2+3+6+4+1+8 = 36$. In fact the first tree is a *minimal* spanning tree, because there is no other spanning tree with a lower total weight. It was constructed using [[Prim's Algorithm]], an algorithm that guarantees a minimum spanning tree as an output. 
 ## Resources 
 
-(video)
-
-Other resources: 
-- 
-
-## Practice 
+![](https://www.youtube.com/watch?v=Yldkh0aOEcg)
