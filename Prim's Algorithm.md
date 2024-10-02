@@ -32,7 +32,7 @@ Prim's Algorithm starting at vertex 1 would proceed as follows:
 - The tree does not contain all the vertices yet, so look at all edges that come out from the tree with one vertex in the tree and the other not in the tree: $\{0,3\}, \{0,8\},$ and $\{1,7\}$. The one with lowest weight is $\{0,3\}$. It connects a vertex in the tree with one outside the tree, so add it to the tree. The tree is now $\{\{0,1\}, \{0,3\}\}$. 
 - The tree does not contain all the vertices yet, so look at all edges that come out from the tree with one vertex in the tree and the other not in the tree: $\{0,8\},\{3,4\}, \{3,2\}$ and $\{1,7\}$. The edge with the lowest weight is $\{3,4\}$ and it connects a vertex in the tree with one not in the tree, so add it to the tree: $\{\{0,1\}, \{0,3\}, \{3,4\}\}$. 
 - Look at all edges that come out from the tree with one vertex in the tree and the other not in the tree: $\{0,8\},\{3,2\}$ and $\{1,7\}$. There's a tie for lowest weight between $\{0,8\}$ and $\{1,7\}$ so choose one, let's say $\{0,8\}$, and add it: : $\{\{0,1\}, \{0,3\}, \{3,4\}, \{0,8\}\}$. 
-- Look at all edges that come out from the tree with one vertex in the tree and the other not in the tree: $\{0,8\},\{1,7\}, \{3,2\}$, and $\{4,8\}$. 
+- Look at all edges that come out from the tree with one vertex in the tree and the other not in the tree: $\{1,7\}$ and $\{3,2\}$. Note, we would *not* look at $\{4,8\}$ 
 
 
 ## Resources 
