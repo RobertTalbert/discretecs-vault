@@ -27,7 +27,8 @@ The weight of edge $\{3,4\}$ is 1. The weight of edge $\{5,6\}$ is 8.
 
 We can represent a weighted graph by modifying existing ways of [[Representations of graphs|representation]] of an unweighted graph: 
 
-- A weighted graph can be given as an adjacency matrix by replacing the "1" in the entry that represents an edge, 
+- A weighted graph can be given as an adjacency matrix by replacing the "1" in the entry that represents an edge, with the weight of the edge. 
+- A weighted graph can be given in "edge list" form by replacing the list of edges with a dictionary whose keys are the edges and the value of a key is the weight of the edge. 
 ## Resources 
 
 ![](https://www.youtube.com/watch?v=MurOpIGCmhQ)
