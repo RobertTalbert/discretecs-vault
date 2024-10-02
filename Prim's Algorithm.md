@@ -20,9 +20,11 @@ updated:
 
 Notes: 
 - Prim's algorithm is an example of a greedy algorithm since it chooses the minimum weight edge each time. This will guarantee that the spanning tree is minimal. 
-- The result of the algortit
+- The result of the algorithm is a tree since we are intentionally adding edges that do not create cycles. 
 
-## Examples and Non-Examples
+## Examples 
+
+
 
 ## Resources 
 
