@@ -43,9 +43,6 @@ Prim's Algorithm starting at vertex 1 would proceed as follows:
 
 ## Resources 
 
-(video)
+This video gives Prim's Algorithm with a few implementation differences: 
+![](https://www.youtube.com/watch?v=cplfcGZmX7I)
 
-Other resources: 
-- 
-
-## Practice 
