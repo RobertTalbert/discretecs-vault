@@ -9,7 +9,7 @@ updated:
 ## Definition 
 
 > [!tldr] Definition
-> Contents
+> **Prim's Algorithm** is an algorithm for constructing a [[Documents/Graphs/Spanning tree|spanning tree]] in a [[Connected graph|connected]] [[Graph|graph]]. 
 
 (blurb)
 
