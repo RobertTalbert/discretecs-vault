@@ -34,7 +34,10 @@ Prim's Algorithm starting at vertex 1 would proceed as follows:
 - Look at all edges that come out from the tree with one vertex in the tree and the other not in the tree: $\{0,8\},\{4,8\},\{3,2\}$ and $\{1,7\}$. There's a tie for lowest weight between $\{0,8\}$ and $\{1,7\}$ so choose one, let's say $\{0,8\}$, and add it: $\{\{0,1\}, \{0,3\}, \{3,4\}, \{0,8\}\}$. 
 - Look at all edges that come out from the tree with one vertex in the tree and the other not in the tree: $\{1,7\}$ and $\{3,2\}$. Note, we would *not* look at $\{4,8\}$ this time even though we considered it earlier, because it no longer connects a vertex in the tree with one outside the tree -- that means adding it would create a cycle. Of the two eligible edges, $\{1,7\}$ has the lower weight, so add it: $\{\{0,1\}, \{0,3\}, \{3,4\}, \{0,8\}, \{1,7\}\}$. 
 - Look at all edges that come out from the tree with one vertex in the tree and the other not in the tree: $\{2,7\}$ and $\{3,2\}$. $\{2,7\}$ has the smallest weight, so add it: $\{\{0,1\}, \{0,3\}, \{3,4\}, \{0,8\}, \{1,7\}, \{2,7\}\}$
-- Now there is only one edge that connects a vertex not in the tree to one that is in the tree, namely $\{2,5\}$, so add it: $\{\{0,1\}, \{0,3\}, \{3,4\}, \{0,8\}, \{1,7\}, \{2,7\}, \{2,5\\}$
+- Now there is only one edge that connects a vertex not in the tree to one that is in the tree, namely $\{2,5\}$, so add it: $\{\{0,1\}, \{0,3\}, \{3,4\}, \{0,8\}, \{1,7\}, \{2,7\}, \{2,5\}\}$. 
+- Finally there is only one edge that connects a vertex not in the tree to one that is in the tree, namely $\{5,6\}$, so add it: $\{\{0,1\}, \{0,3\}, \{3,4\}, \{0,8\}, \{1,7\}, \{2,7\}, \{2,5\}, \{5,6\}\}$. 
+- The tree now contains all the vertices of the original graph, so stop. The resulting tree is shown below in red: 
+
 
 
 ## Resources 
