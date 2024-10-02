@@ -15,9 +15,12 @@ updated:
 > 1. Choose an arbitrary vertex $v$ in $G$ and make this the first vertex in the spanning tree.
 > 2. Look at all edges that go out from the tree. Choose an edge with the lowest weight that connects a vertex in the tree to a vertex outside the tree, and which will not form a cycle if added into the spanning tree.
 > 3. Add this edge and the new endpoint to the spanning tree. 
-> 4. Repeat steps 2 an
+> 4. Repeat steps 2 and 3 until all vertices are in the spanning tree. 
+>
 
-(blurb)
+Notes: 
+- Prim's algorithm is an example of a greedy algorithm since it chooses the minimum weight edge each time. This will guarantee that the spanning tree is minimal. 
+- The result of the algortit
 
 ## Examples and Non-Examples
 
