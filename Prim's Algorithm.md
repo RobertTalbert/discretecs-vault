@@ -13,7 +13,9 @@ updated:
 > 
 > The algorithm works as follows. The input is a [[Connected graph|connected]], [[Weighted graph|weighted graph]] $G$. 
 > 1. Choose an arbitrary vertex $v$ in $G$ and make this the first vertex in the spanning tree.
-> 2. Look at all edges that go out from the tree. Choose an edge with the lowest weight that connects 
+> 2. Look at all edges that go out from the tree. Choose an edge with the lowest weight that connects a vertex in the tree to a vertex outside the tree, and which will not form a cycle if added into the spanning tree.
+> 3. Add this edge and the new endpoint to the spanning tree. 
+> 4. Repeat steps 2 an
 
 (blurb)
 
