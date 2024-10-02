@@ -1,5 +1,6 @@
 ---
-aliases: 
+aliases:
+  - minimum spanning tree
 tags: 
 created: 
 updated:
