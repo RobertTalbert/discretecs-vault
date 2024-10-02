@@ -25,7 +25,9 @@ Here is an example of a weighted graph:
 
 The weight of edge $\{3,4\}$ is 1. The weight of edge $\{5,6\}$ is 8. 
 
-We can represent a weighted graph using 
+We can represent a weighted graph by modifying existing ways of [[Representations of graphs|representation]] of an unweighted graph: 
+
+- A weighted graph can be given as an adjacency matrix by replacing the "1" in the entry that represents an edge, 
 ## Resources 
 
 ![](https://www.youtube.com/watch?v=MurOpIGCmhQ)
