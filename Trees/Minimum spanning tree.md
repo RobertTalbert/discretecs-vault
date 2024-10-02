@@ -22,7 +22,7 @@ There are several spanning trees for this graph, including:
 * $\{\{0,1\}, \{0,3\}, \{3,4\}, \{0,8\}, \{1,7\}, \{2,7\}, \{2,5\}, \{5,6\}\}$
 * $\{\{4,8\}, \{8,0\}, \{0,3\}, \{0,1\}, \{3,2\}, \{1,7\}, \{2,5\}, \{5,6\}\}$
 
-But notice that the weights are different. The total weight of the first spanning tree is $4+3+4+2+2+1+1+8 = 25$ while the second is $8+4+2+3+6+4+1+8 = 
+But notice that the weights are different. The total weight of the first spanning tree is $4+3+4+2+2+1+1+8 = 25$ while the second is $8+4+2+3+6+4+1+8 = 36$. In fact the first tree is a *minimal* spanning tree, because there is no other spanning tree with a lower total weight. It was constructed using [[Prim's Algorithm]], an algorithm that guarantees a minimum spanning tree as an output. 
 ## Resources 
 
 (video)
