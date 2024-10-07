@@ -9,7 +9,7 @@ updated:
 ## Definition 
 
 > [!tldr] Definition
-> Contents
+> **Dijsktra's Algorithm** is a process for finding the shortest [[Paths|path]] between two [[Graph|vertices]] in a [[Weighted graph|weighted graph]]. In fact, the algorithm produces a [[Tree|tree]] that contains 
 
 (blurb)
 
