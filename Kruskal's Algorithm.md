@@ -33,7 +33,8 @@ $$\{2,5\}, \{3,4\}, \{0,3\}, \{2,7\}, \{0,1\}, \{0,8\}, \{1,7\}, \{3,2\}, \{8,4\
 Initialize $T$ to be the empty tree. 
 
 - There are two edges with lowest weight (equal to 1), so just pick one: $\{2,5\}$. The current tree is empty so adding this edge does not produce a cycle. The tree becomes $\{\{2,5\}\}$. 
-- Repeat this step: The next edge of smallest weight is $\{3,4\}$. Adding it to the tree does not create a cycle, so add it to get  $T = \{\{2,5\}, \{3,4\}\}$. (Note, )
+- Repeat this step: The next edge of smallest weight is $\{3,4\}$. Adding it to the tree does not create a cycle, so add it to get  $T = \{\{2,5\}, \{3,4\}\}$. (Note, although we are calling $T$ a "tree", it is actually not a tree at this stage because it is not [[Connected graph|connected]]. We call it a tree because it will eventually grow into one.)
+- There is a tie for the next edge of minimum weight (equal to 2), so pick one: $\{}
 
 ## Resources 
 
