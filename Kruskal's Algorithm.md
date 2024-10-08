@@ -39,6 +39,7 @@ Initialize $T$ to be the empty tree.
 - Continuing this process, $\{0,1\}$ would be added next: $T = \{\{2,5\}, \{3,4\}, \{0,3\}, \{2,7\}, \{0,1\}\}$. 
 - Continuing this process, an edge of weight 4 would be added next. There are two of these so pick one: $\{0,8\}$: $T = \{\{2,5\}, \{3,4\}, \{0,3\}, \{2,7\}, \{0,8\}\}$. 
 - Next we would add the other edge of weight 4: $T = \{\{2,5\}, \{3,4\}, \{0,3\}, \{2,7\}, \{0,8\}, \{1,7\}\}$. 
+- The next edge to consider is $\{3,2\}$ which has weight 6. However, we do not add this one because doing so would create a cycle in $T$. 
 ## Resources 
 
 (video)
