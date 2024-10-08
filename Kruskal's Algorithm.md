@@ -41,7 +41,8 @@ Initialize $T$ to be the empty tree.
 - Next we would add the other edge of weight 4: $T = \{\{2,5\}, \{3,4\}, \{0,3\}, \{2,7\}, \{0,8\}, \{1,7\}\}$. 
 - The next edge to consider is $\{3,2\}$ which has weight 6. However, we do not add this one because doing so would create a cycle in $T$. So we discard it. 
 - We would similarly discard $\{8,4\}$ because adding it would create a cycle. 
-- 
+- The last edge to consider is $\{5,6\}$. Adding this does not create a cycle, so add it: $T = \{\{2,5\}, \{3,4\}, \{0,3\}, \{2,7\}, \{0,8\}, \{1,7\}, \{5,6\}\}$. 
+- The algorithm stops here because there are 9 vertices in the graph and we have reached 
 ## Resources 
 
 (video)
