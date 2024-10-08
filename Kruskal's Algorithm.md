@@ -28,7 +28,7 @@ Consider this weighted graph:
 
 Sort the edges in non-decreasing order of weight: 
 
-
+$$\{2,5\}, \{3,4\}, \{0,3\}, \{2,7\}, \{0,1\}, \{0,8\}, \{1,7\}, \{3,2\}, \{}}
 
 
 ## Resources 
