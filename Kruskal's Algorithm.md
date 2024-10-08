@@ -28,8 +28,11 @@ Consider this weighted graph:
 
 Sort the edges in non-decreasing order of weight: 
 
-$$\{2,5\}, \{3,4\}, \{0,3\}, \{2,7\}, \{0,1\}, \{0,8\}, \{1,7\}, \{3,2\}, \{}}
+$$\{2,5\}, \{3,4\}, \{0,3\}, \{2,7\}, \{0,1\}, \{0,8\}, \{1,7\}, \{3,2\}, \{8,4\}, \{5,6\}\}$$
 
+Initialize $T$ to be the empty tree. 
+
+There are two edges with lowest weight (equal to 1), so just pick one: $\{2,5\}$. 
 
 ## Resources 
 
