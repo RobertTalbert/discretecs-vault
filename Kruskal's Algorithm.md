@@ -37,12 +37,14 @@ Initialize $T$ to be the empty tree.
 - There is a tie for the next edge of minimum weight (equal to 2), so pick one: $\{0,3\}$. Adding this to $T$ does not create a cycle, so add it: $T = \{\{2,5\}, \{3,4\}, \{0,3\}\}$. 
 - Continuing this process, $\{2,7\}$ would be added next: $T = \{\{2,5\}, \{3,4\}, \{0,3\}, \{2,7\}\}$. 
 - Continuing this process, $\{0,1\}$ would be added next: $T = \{\{2,5\}, \{3,4\}, \{0,3\}, \{2,7\}, \{0,1\}\}$. 
-- Continuing this process, an edge of weight 4 would be added next. There are two of these so pick one: $\{0,8\}$: $T = \{\{2,5\}, \{3,4\}, \{0,3\}, \{2,7\}, \{0,8\}\}$. 
-- Next we would add the other edge of weight 4: $T = \{\{2,5\}, \{3,4\}, \{0,3\}, \{2,7\}, \{0,8\}, \{1,7\}\}$. 
+- Continuing this process, an edge of weight 4 would be added next. There are two of these so pick one: $\{0,8\}$: $T = \{\{2,5\}, \{3,4\}, \{0,3\}, \{2,7\}, \{0,1\}, \{0,8\}\}$. 
+- Next we would add the other edge of weight 4: $T = \{\{2,5\}, \{3,4\}, \{0,3\}, \{2,7\}, \{0,1\}, \{0,8\}, \{1,7\}\}$. 
 - The next edge to consider is $\{3,2\}$ which has weight 6. However, we do not add this one because doing so would create a cycle in $T$. So we discard it. 
 - We would similarly discard $\{8,4\}$ because adding it would create a cycle. 
-- The last edge to consider is $\{5,6\}$. Adding this does not create a cycle, so add it: $T = \{\{2,5\}, \{3,4\}, \{0,3\}, \{2,7\}, \{0,8\}, \{1,7\}, \{5,6\}\}$. 
-- The algorithm stops here because there are 9 vertices in the graph and we have reached 
+- The last edge to consider is $\{5,6\}$. Adding this does not create a cycle, so add it: $T = \{\{2,5\}, \{3,4\}, \{0,3\}, \{2,7\}, \{0,1\}, \{0,8\}, \{1,7\}, \{5,6\}\}$. 
+- The algorithm stops here because there are 9 vertices in the graph and we have reached 8 edges in the tree. 
+
+The resulting graph is a minimum spanning tree, whose total weight is $1+1+2+2+3+4+4+8
 ## Resources 
 
 (video)
