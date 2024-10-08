@@ -34,7 +34,8 @@ Initialize $T$ to be the empty tree.
 
 - There are two edges with lowest weight (equal to 1), so just pick one: $\{2,5\}$. The current tree is empty so adding this edge does not produce a cycle. The tree becomes $\{\{2,5\}\}$. 
 - Repeat this step: The next edge of smallest weight is $\{3,4\}$. Adding it to the tree does not create a cycle, so add it to get  $T = \{\{2,5\}, \{3,4\}\}$. (Note, although we are calling $T$ a "tree", it is actually not a tree at this stage because it is not [[Connected graph|connected]]. We call it a tree because it will eventually grow into one.)
-- There is a tie for the next edge of minimum weight (equal to 2), so pick one: $\{}
+- There is a tie for the next edge of minimum weight (equal to 2), so pick one: $\{0,3\}$. Adding this to $T$ does not create a cycle, so add it: $T = \{\{2,5\}, \{3,4\}, \{0,3\}\}$. 
+- Continuing this process, $\{2,7\}$ would be added next: $T = \{\{2,5\}, \{3,4\}, \}$
 
 ## Resources 
 
