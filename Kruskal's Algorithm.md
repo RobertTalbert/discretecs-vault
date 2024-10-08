@@ -19,7 +19,7 @@ updated:
 
 Notes: 
 - [[Prim's Algorithm]] is a different approach that also finds a minimum spanning tree -- not necessarily the same tree as found by Prim's Algorithm but the total weight will be the same. 
-- Kruskal's Algorithm will always terminate because 
+- Kruskal's Algorithm produces a graph with no cycles due to step 2's instructions. The end result is a tree because a graph that has no cycles and whose number of edges is one less than the number of vertices, must be a tree. 
 
 ## Examples and Non-Examples
 
