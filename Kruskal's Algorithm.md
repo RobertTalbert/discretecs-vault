@@ -14,10 +14,12 @@ updated:
 > The algorithm works as follows. The input is a [[Connected graph|connected]], [[Weighted graph|weighted graph]] $G$. 
 > 
 > 1. Sort all of the edges of $G$ in non-decreasing order of weight and initialize an empty tree (that will eventually be a minimum spanning tree). 
-> 2. Select an edge with minimum weight. Check if it forms a cycle if added to the tree, 
+> 2. Select an edge with minimum weight. Check if it forms a cycle if added to the tree. If it does, discard it. If it does not, add it to the tree. 
+> 3. Repeat step 2 until the number of edges in the tree is one less than the number of vertices in $G$. 
 
 Notes: 
 - [[Prim's Algorithm]] is a different approach that also finds a minimum spanning tree -- not necessarily the same tree as found by Prim's Algorithm but the total weight will be the same. 
+- Kruskal's Algorithm will always terminate because 
 
 ## Examples and Non-Examples
 
