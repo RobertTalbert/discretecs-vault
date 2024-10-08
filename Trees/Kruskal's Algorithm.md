@@ -47,9 +47,7 @@ Initialize $T$ to be the empty tree.
 The resulting graph is a minimum spanning tree, whose total weight is $1+1+2+2+3+4+4+8 = 25$. (Note, this happens to be the same tree as the one in the example for [[Prim's Algorithm]]. This need not always be the case; Kruskal's algorithm could produce a different MST that has the same total weight.)
 ## Resources 
 
-(video)
+![](https://www.youtube.com/watch?v=71UQH7Pr9kU)
 
-Other resources: 
-- 
 
-## Practice 
+![](https://www.youtube.com/watch?v=ivcbaIhrcsE)
