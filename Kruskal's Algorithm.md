@@ -44,7 +44,7 @@ Initialize $T$ to be the empty tree.
 - The last edge to consider is $\{5,6\}$. Adding this does not create a cycle, so add it: $T = \{\{2,5\}, \{3,4\}, \{0,3\}, \{2,7\}, \{0,1\}, \{0,8\}, \{1,7\}, \{5,6\}\}$. 
 - The algorithm stops here because there are 9 vertices in the graph and we have reached 8 edges in the tree. 
 
-The resulting graph is a minimum spanning tree, whose total weight is $1+1+2+2+3+4+4+8
+The resulting graph is a minimum spanning tree, whose total weight is $1+1+2+2+3+4+4+8 = 25$. (Note, this happens to be the same tree as the one in the example for [[Prim's Algorithm]]. This need not always be the case; Kruskal's algorithm could produce a different MST that has the same total weight.)
 ## Resources 
 
 (video)
