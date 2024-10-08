@@ -37,7 +37,8 @@ Initialize $T$ to be the empty tree.
 - There is a tie for the next edge of minimum weight (equal to 2), so pick one: $\{0,3\}$. Adding this to $T$ does not create a cycle, so add it: $T = \{\{2,5\}, \{3,4\}, \{0,3\}\}$. 
 - Continuing this process, $\{2,7\}$ would be added next: $T = \{\{2,5\}, \{3,4\}, \{0,3\}, \{2,7\}\}$. 
 - Continuing this process, $\{0,1\}$ would be added next: $T = \{\{2,5\}, \{3,4\}, \{0,3\}, \{2,7\}, \{0,1\}\}$. 
-- Continuing this process, an edge of w$\{2,7\}$ would be added next: $T = \{\{2,5\}, \{3,4\}, \{0,3\}, \{2,7\}\}$. 
+- Continuing this process, an edge of weight 4 would be added next. There are two of these so pick one: $\{0,8\}$: $T = \{\{2,5\}, \{3,4\}, \{0,3\}, \{2,7\}, \{0,8\}\}$. 
+- Next we would add the other edge of weight 4: $T = \{\{2,5\}, \{3,4\}, \{0,3\}, \{2,7\}, \{0,8\}, \{1,7\}\}$. 
 ## Resources 
 
 (video)
