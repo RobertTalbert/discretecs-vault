@@ -110,9 +110,14 @@ The last vertex to be added is `F`. The `VISITED` list now contains all the vert
 
 The data from Dijkstra's Algorithm keeps track of which paths to take from $A$ to reach all the other vertices with the shortest total length: 
 
-| Vertex | Path from $A$ of shortest length |     |
-| :----: | -------------------------------- | --- |
-|        |                                  |     |
+| Vertex | Path from $A$ of shortest length | Distance |
+| :----: | -------------------------------- | -------- |
+|  $A$   | $A$                              | $0$      |
+|  $B$   | $A,B$                            | $4$      |
+|  $C$   |                                  |          |
+|  $D$   |                                  |          |
+|  $E$   |                                  |          |
+|  $F$   |                                  |          |
  ## Resources 
 
 (video)
