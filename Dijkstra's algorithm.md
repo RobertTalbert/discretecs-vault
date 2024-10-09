@@ -22,11 +22,10 @@ updated:
 > 
 > The algorithm terminates when all vertices in the graph have been added to the `VISTED` list. The vertices in the visited list can be used to find the shortest path from the source to any other point in the graph. 
 
+## Example
 
-Notes: 
-- In fact, Dijkstra's algorithm produces a [[Tree|tree]] that contains the shortest path starting from a given vertex to *all* other vertices in the graph. 
 
-## Examples and Non-Examples
+
 
 ## Resources 
 
