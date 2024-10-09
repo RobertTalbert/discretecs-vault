@@ -103,9 +103,8 @@ The `VISITED` list does not contain all the vertices, so we repeat step 4: Pick 
 The `VISITED` list does not contain all the vertices, so we repeat step 4: Pick a vertex that is not in `VISITED` (at this point these are only $D$ and $F$) that has minimum distance. This time that vertex is $D$. Add this to `VISITED`.  Now update the total distances of all vertices adjacent to $D$: 
 
 - $B$: The current distance is $4$. The distance from $A$ to $B$ going through $D$ is $13+9=22$, so do not update. 
-- $E$: The current distance is $8$. The distance from $A$ to $E$ going through $D$ is $13+13 =2$, so do not update.
-- $D$: The current distance is $13$. The distance from $A$ to $D$ going through $E$ is $8+13 =21$, so do not update. 
-- $F$: The current distance is $\infty$. The distance from $A$ to $F$ going through $E$ is $8+6 =14$, which is less than the current distance, so update this distance. 
+- $E$: The current distance is $8$. The distance from $A$ to $E$ going through $D$ is $13+13 =26$, so do not update.
+- $F$: The current distance is $14$. The distance from $A$ to $F$ going through $D$ is $13+2 =14$, which is less than the current distance, so update this distance. 
 ## Resources 
 
 (video)
