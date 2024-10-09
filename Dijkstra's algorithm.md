@@ -108,8 +108,12 @@ The `VISITED` list does not contain all the vertices, so we repeat step 4: Pick 
 
 The last vertex to be added is `F`. The `VISITED` list now contains all the vertices of the graph, so the algorithm terminates. 
 
+The data from Dijkstra's Algorithm keeps track of which paths to take from $A$ to reach all the other vertices with the shortest total length: 
 
-## Resources 
+| Vertex | Path from $A$ of shortest length |     |
+| :----: | -------------------------------- | --- |
+|        |                                  |     |
+ ## Resources 
 
 (video)
 
