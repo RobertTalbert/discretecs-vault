@@ -118,9 +118,9 @@ The data from Dijkstra's Algorithm keeps track of which paths to take from $A$ t
 |  $D$   | $A,B,D$                          | $13$     |
 |  $E$   | $A,C,E$                          | $8$      |
 |  $F$   | $A,C,E,F$                        | $14$     |
- ## Resources 
+## Resources 
 
-(video)
+![](https://www.youtube.com/watch?v=bZkzH5x0SKU)
 
 Other resources: 
 - [A walkthrough of Dijkstra's algorithm with a Python implementation](https://www.w3schools.com/dsa/dsa_algo_graphs_dijkstra.php) (uses object-oriented programming)
