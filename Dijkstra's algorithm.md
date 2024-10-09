@@ -39,6 +39,16 @@ Let's use Dijkstra's Algorithm to find a shortest-path tree with $A$ as the sour
 |  $E$   |     $\infty$      |
 |  $F$   |     $\infty$      |
 
+The `VISITED` list does not contain all the vertices -- in fact, it's empty. So in step 4, we pick a vertex not in `VISITED` that has the minimum distance value. That vertex is $A$, since its distance is 0 and all others are infinite. So, add $A$ to the `VISITED` list. Then update the distances of all vertices adjacent to $A$, which are $B$ and $C$. To update, look at the current distance values for $B$ and $C$ in the table, and if the total distance from the source to those vertices is less than what is in the table, replace the table value with that distance. Here, the current distance value for $B$ is $\infty$ but its total distance from $A$ is $4$. So update its distance to $4$. Likewise update the distance value for $C$ to $5$. The `VISITED` list is now `[0]`, and the distances are:
+
+| Vertex | Distance from $A$ |
+| :----: | :---------------: |
+|  $A$   |        $0$        |
+|  $B$   |        $4$        |
+|  $C$   |        $5$        |
+|  $D$   |     $\infty$      |
+|  $E$   |     $\infty$      |
+|  $F$   |     $\infty$      |
 
 ## Resources 
 
