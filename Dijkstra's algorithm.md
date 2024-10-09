@@ -56,7 +56,7 @@ The `VISITED` list does not contain all the vertices, so we repeat step 4: Pick 
 - $D$ is adjacent to $B$ and its current distance is infinite. The total distance from $A$ going through $B$ is 13. This is less than $\infty$ so **update the distance to $D$, to $13$. 
 - Likewise, update the distance to $E$, to $11$. 
 
-`VISTED` is now `[A,B]` and the distance list is: 
+`VISITED` is now `[A,B]` and the distance list is: 
 
 | Vertex | Distance from $A$ |
 | :----: | :---------------: |
@@ -72,7 +72,7 @@ The `VISITED` list does not contain all the vertices, so we repeat step 4: Pick 
 - $B$ is adjacent to $C$ and its current distance is $4$. The total distance to $B$ going through $C$ is 16, so do not update $B$'s distance. 
 - $E$ is adjacent to $C$ and its current distance is $11$ (this uses the path $A, B, E$). The distance to $E$ going through $C$ on the other hand is $8$. So update the distance for $E$ to $8$. 
 
-`VISTED` is now `[A,B, C]` and the distance list is: 
+`VISITED` is now `[A,B,C]` and the distance list is: 
 
 | Vertex | Distance from $A$ |
 | :----: | :---------------: |
@@ -82,6 +82,7 @@ The `VISITED` list does not contain all the vertices, so we repeat step 4: Pick 
 |  $D$   |     $13$      |
 |  $E$   |     $8$      |
 |  $F$   |     $\infty$      |
+The `VISITED` list does not contain all the vertices, so we repeat step 4: Pick a vertex that is not in `VISITED` that has minimum distance. This time that vertex is $C$. Add this to `VISITED`.  Now update the total distances of all vertices adjacent to $C$: 
 
 
 
