@@ -96,10 +96,11 @@ The `VISITED` list does not contain all the vertices, so we repeat step 4: Pick 
 |  $A$   |        $0$        |
 |  $B$   |        $4$        |
 |  $C$   |        $5$        |
-|  $D$   |     $13$      |
-|  $E$   |     $8$      |
-|  $F$   |     $14$      |
+|  $D$   |       $13$        |
+|  $E$   |        $8$        |
+|  $F$   |       $14$        |
 
+The `VISITED` list does not contain all the vertices, so we repeat step 4: Pick a vertex that is not in `VISITED` (at this point these are only $D$ and $F$) that has minimum distance. This time that vertex is $D$. Add this to `VISITED`.  Now update the total distances of all vertices adjacent to $D$: 
 
 ## Resources 
 
