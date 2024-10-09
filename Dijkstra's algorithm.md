@@ -104,7 +104,11 @@ The `VISITED` list does not contain all the vertices, so we repeat step 4: Pick 
 
 - $B$: The current distance is $4$. The distance from $A$ to $B$ going through $D$ is $13+9=22$, so do not update. 
 - $E$: The current distance is $8$. The distance from $A$ to $E$ going through $D$ is $13+13 =26$, so do not update.
-- $F$: The current distance is $14$. The distance from $A$ to $F$ going through $D$ is $13+2 =14$, which is less than the current distance, so update this distance. 
+- $F$: The current distance is $14$. The distance from $A$ to $F$ going through $D$ is $13+2 =15$, so do not update. 
+
+`VISITED` is now `[A,B,C,E,D]` and the table of distances is unchanged. 
+
+The last vertex to be added is `F`. All paths from 
 ## Resources 
 
 (video)
