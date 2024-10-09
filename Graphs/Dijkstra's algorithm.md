@@ -124,5 +124,3 @@ The data from Dijkstra's Algorithm keeps track of which paths to take from $A$ t
 
 Other resources: 
 - [A walkthrough of Dijkstra's algorithm with a Python implementation](https://www.w3schools.com/dsa/dsa_algo_graphs_dijkstra.php) (uses object-oriented programming)
-
-## Practice 
