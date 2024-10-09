@@ -82,7 +82,7 @@ The `VISITED` list does not contain all the vertices, so we repeat step 4: Pick 
 |  $D$   |     $13$      |
 |  $E$   |     $8$      |
 |  $F$   |     $\infty$      |
-The `VISITED` list does not contain all the vertices, so we repeat step 4: Pick a vertex that is not in `VISITED` that has minimum distance. This time that vertex is $C$. Add this to `VISITED`.  Now update the total distances of all vertices adjacent to $C$: 
+The `VISITED` list does not contain all the vertices, so we repeat step 4: Pick a vertex that is not in `VISITED` that has minimum distance. This time that vertex is $E$. Add this to `VISITED`.  Now update the total distances of all vertices adjacent to $E$: 
 
 
 
