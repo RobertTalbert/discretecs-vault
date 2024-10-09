@@ -49,7 +49,22 @@ The `VISITED` list does not contain all the vertices -- in fact, it's empty. So 
 |  $D$   |     $\infty$      |
 |  $E$   |     $\infty$      |
 |  $F$   |     $\infty$      |
+The `VISITED` list does not contain all the vertices, so we repeat step 4: Pick a vertex that is not in `VISITED` that has minimum distance. This time that vertex is $B$. Now update the total distances of all vertices adjacent to $B$: 
 
+- $C$ is adjacent to $B$ and its current distance value is $5$. The total distance from $A$ going through $B$, is 15. This is greater than $5$, so **leave the distance value alone**. 
+- $D$ is adjacent to $B$ and its current distance is infinite. The total distance from $A$ going through $B$ is 13. This is less than $\infty$ so **update the distance to $D$, to $13$. 
+- Likewise, update the distance to $E$, to $11$. 
+
+`VISTED` is now `[A,B]` and the distance list is: 
+
+| Vertex | Distance from $A$ |
+| :----: | :---------------: |
+|  $A$   |        $0$        |
+|  $B$   |        $4$        |
+|  $C$   |        $5$        |
+|  $D$   |     $13$      |
+|  $E$   |     $11$      |
+|  $F$   |     $\infty$      |
 ## Resources 
 
 (video)
