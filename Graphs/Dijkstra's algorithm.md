@@ -3,7 +3,7 @@ aliases:
 tags:
   - graphs
 created: 2024-10-07
-updated:
+updated: 2024-10-09
 ---
 ---
 ## Definition 
