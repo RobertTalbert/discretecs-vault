@@ -28,7 +28,7 @@ updated:
 
 Here is a weighted graph: 
 ![[dijkstras-algorithm6.png]]
-Let's use Dij
+Let's use Dijkstra's Algorithm to find a shortest-path tree with $A$ as the source node. 
 
 
 ## Resources 
