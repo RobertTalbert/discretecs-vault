@@ -24,7 +24,11 @@ updated:
 
 ## Example
 
+(Adapted from [the example at this website](https://www.javatpoint.com/dijkstras-algorithm))
 
+Here is a weighted graph: 
+![[dijkstras-algorithm6.png]]
+Let's use Dij
 
 
 ## Resources 
