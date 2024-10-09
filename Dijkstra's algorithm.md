@@ -18,7 +18,9 @@ updated:
 > 4. While `VISITED` does not contain all the vertices in the graph: 
 > 	- Pick a vertex that is not in `VISITED` that has minimum distance value. Call that vertex $u$. 
 > 	- Add $u$ to `VISITED`. 
-> 	- Update the distance values of all the vertices adjacent to $u$: 
+> 	- Update the distance values of all the vertices adjacent to $u$: For each vertex $v$ that is adjacent to $u$, if the total distance from the source to $v$ is less than its current distance value, replace the distance with the new smaller value. Otherwise leave it alone. 
+> 
+> The algorithm terminates when all vertices in the graph have been added to the `VISTED`
 
 
 > 
