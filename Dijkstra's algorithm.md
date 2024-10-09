@@ -20,13 +20,7 @@ updated:
 > 	- Add $u$ to `VISITED`. 
 > 	- Update the distance values of all the vertices adjacent to $u$: For each vertex $v$ that is adjacent to $u$, if the total distance from the source to $v$ is less than its current distance value, replace the distance with the new smaller value. Otherwise leave it alone. 
 > 
-> The algorithm terminates when all vertices in the graph have been added to the `VISTED`
-
-
-> 
-> 1. Select a vertex $v$ in the graph as the starting point. Initialize a list containing the distance of each vertex in the graph to $v$ (where the distance is the total weight of the shortest path between the vertices); initialize all distances to $\infty$ (infinity). 
-> 2. Mark all vertices as "unvisited" and create a second list containing all the unvisited vertices. 
-> 3. From the list of unvisited vertices, select the current vertex to be the one with the smallest finite distance. 
+> The algorithm terminates when all vertices in the graph have been added to the `VISTED` list. The vertices in the visited list can be used to find the shortest path from the source to any other point in the graph. 
 
 
 Notes: 
