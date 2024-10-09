@@ -14,6 +14,10 @@ updated:
 > The algorithm proceeds as follows: 
 > 1. Select a vertex to be the "source", i.e. the starting point of the paths. 
 > 2. Create an empty list `VISITED` that will keep track of vertices that are included in the shortest path tree. 
+> 3. Assign a distance value to all vertices in the graph. The distance from the source to itself is 0. For all other vertices, initialize the distances as $\infty$ (infinity). 
+> 4. While ``
+
+
 > 
 > 1. Select a vertex $v$ in the graph as the starting point. Initialize a list containing the distance of each vertex in the graph to $v$ (where the distance is the total weight of the shortest path between the vertices); initialize all distances to $\infty$ (infinity). 
 > 2. Mark all vertices as "unvisited" and create a second list containing all the unvisited vertices. 
