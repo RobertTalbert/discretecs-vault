@@ -28,7 +28,16 @@ updated:
 
 Here is a weighted graph: 
 ![[dijkstras-algorithm6.png]]
-Let's use Dijkstra's Algorithm to find a shortest-path tree with $A$ as the source node. 
+Let's use Dijkstra's Algorithm to find a shortest-path tree with $A$ as the source node. We have selected $A$ as the source node. Initialize `VISITED` as the empty list. The initial distances are: 
+
+| Vertex | Distance from $A$ |
+| :----: | :---------------: |
+|  $A$   |        $0$        |
+|  $B$   |     $\infty$      |
+|  $C$   |     $\infty$      |
+|  $D$   |     $\infty$      |
+|  $E$   |     $\infty$      |
+|  $F$   |     $\infty$      |
 
 
 ## Resources 
