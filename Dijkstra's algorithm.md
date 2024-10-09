@@ -114,10 +114,10 @@ The data from Dijkstra's Algorithm keeps track of which paths to take from $A$ t
 | :----: | -------------------------------- | -------- |
 |  $A$   | $A$                              | $0$      |
 |  $B$   | $A,B$                            | $4$      |
-|  $C$   |                                  |          |
-|  $D$   |                                  |          |
-|  $E$   |                                  |          |
-|  $F$   |                                  |          |
+|  $C$   | $A, C$                           | $5$      |
+|  $D$   | $A,B,D$                          | $13$     |
+|  $E$   | $A,C,E$                          | $8$      |
+|  $F$   | $A,C,E,F$                        | $14$     |
  ## Resources 
 
 (video)
