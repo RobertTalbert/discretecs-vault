@@ -24,8 +24,6 @@ updated:
 
 ## Example
 
-(Adapted from [the example at this website](https://www.javatpoint.com/dijkstras-algorithm))
-
 Here is a weighted graph: 
 ![[dijkstras-algorithm6.png]]
 Let's use Dijkstra's Algorithm to find a shortest-path tree with $A$ as the source node. We have selected $A$ as the source node. Initialize `VISITED` as the empty list. The initial distances are: 
@@ -109,6 +107,8 @@ The `VISITED` list does not contain all the vertices, so we repeat step 4: Pick 
 `VISITED` is now `[A,B,C,E,D]` and the table of distances is unchanged. 
 
 The last vertex to be added is `F`. The `VISITED` list now contains all the vertices of the graph, so the algorithm terminates. 
+
+
 ## Resources 
 
 (video)
