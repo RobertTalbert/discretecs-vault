@@ -49,7 +49,7 @@ The `VISITED` list does not contain all the vertices -- in fact, it's empty. So 
 |  $D$   |     $\infty$      |
 |  $E$   |     $\infty$      |
 |  $F$   |     $\infty$      |
-The `VISITED` list does not contain all the vertices, so we repeat step 4: Pick a vertex that is not in `VISITED` that has minimum distance. This time that vertex is $B$. Now update the total distances of all vertices adjacent to $B$: 
+The `VISITED` list does not contain all the vertices, so we repeat step 4: Pick a vertex that is not in `VISITED` that has minimum distance. This time that vertex is $B$. Add this to `VISITED`. Now update the total distances of all vertices adjacent to $B$: 
 
 - $A$ is adjacent to $B$, and its current distance is $0$. This will never be updated because no distance will be less than $0$. So leave the distance from $A$ alone. 
 - $C$ is adjacent to $B$ and its current distance value is $5$. The total distance from $A$ going through $B$, is 15. This is greater than $5$, so **leave the distance value alone**. 
@@ -66,7 +66,22 @@ The `VISITED` list does not contain all the vertices, so we repeat step 4: Pick 
 |  $D$   |       $13$        |
 |  $E$   |       $11$        |
 |  $F$   |     $\infty$      |
+The `VISITED` list does not contain all the vertices, so we repeat step 4: Pick a vertex that is not in `VISITED` that has minimum distance. This time that vertex is $C$. Add this to `VISITED`.  Now update the total distances of all vertices adjacent to $C$: 
 
+- $A$ is adjacent to $C$, and its current distance is $0$. This will never be updated because no distance will be less than $0$. So leave the distance from $A$ alone. 
+- $B$ is adjacent to $C$ and its current distance is $4$. The total distance to $B$ going through $C$ is 16, so do not update $B$'s distance. 
+- $E$ is adjacent to $C$ and its current distance is $11$ (this uses the path $A, B, E$). The distance to $E$ going through $C$ on the other hand is $8$. So update the distance for $E$ to $8$. 
+
+`VISTED` is now `[A,B, C]` and the distance list is: 
+
+| Vertex | Distance from $A$ |
+| :----: | :---------------: |
+|  $A$   |        $0$        |
+|  $B$   |        $4$        |
+|  $C$   |        $5$        |
+|  $D$   |     $13$      |
+|  $E$   |     $8$      |
+|  $F$   |     $\infty$      |
 
 
 
