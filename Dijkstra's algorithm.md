@@ -108,7 +108,7 @@ The `VISITED` list does not contain all the vertices, so we repeat step 4: Pick 
 
 `VISITED` is now `[A,B,C,E,D]` and the table of distances is unchanged. 
 
-The last vertex to be added is `F`. All paths from 
+The last vertex to be added is `F`. The `VISITED` list now contains all the vertices of the graph, so the algorithm terminates. 
 ## Resources 
 
 (video)
