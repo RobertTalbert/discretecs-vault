@@ -15,7 +15,10 @@ updated:
 > 1. Select a vertex to be the "source", i.e. the starting point of the paths. 
 > 2. Create an empty list `VISITED` that will keep track of vertices that are included in the shortest path tree. 
 > 3. Assign a distance value to all vertices in the graph. The distance from the source to itself is 0. For all other vertices, initialize the distances as $\infty$ (infinity). 
-> 4. While ``
+> 4. While `VISITED` does not contain all the vertices in the graph: 
+> 	- Pick a vertex that is not in `VISITED` that has minimum distance value. Call that vertex $u$. 
+> 	- Add $u$ to `VISITED`. 
+> 	- Update the distance values of all the vertices adjacent to $u$: 
 
 
 > 
