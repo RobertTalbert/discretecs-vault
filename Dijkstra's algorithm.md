@@ -84,7 +84,21 @@ The `VISITED` list does not contain all the vertices, so we repeat step 4: Pick 
 |  $F$   |     $\infty$      |
 The `VISITED` list does not contain all the vertices, so we repeat step 4: Pick a vertex that is not in `VISITED` that has minimum distance. This time that vertex is $E$. Add this to `VISITED`.  Now update the total distances of all vertices adjacent to $E$: 
 
+- $B$: The current distance is $4$. The distance from $A$ to $B$ going through $E$ is $8+7 =15$, so do not update. 
+- $C$: The current distance is $5$. The distance from $A$ to $C$ going through $E$ (we would go from $A$ to $C$, then to $E$, then backtrack to $C$) is $8+3 =11$, so do not update.
+- $D$: The current distance is $13$. The distance from $A$ to $D$ going through $E$ is $8+13 =21$, so do not update. 
+- $F$: The current distance is $\infty$. The distance from $A$ to $F$ going through $E$ is $8+6 =14$, which is less than the current distance, so update this distance. 
 
+`VISITED` is now `[A,B,C,E]` and the distance list is: 
+
+| Vertex | Distance from $A$ |
+| :----: | :---------------: |
+|  $A$   |        $0$        |
+|  $B$   |        $4$        |
+|  $C$   |        $5$        |
+|  $D$   |     $13$      |
+|  $E$   |     $8$      |
+|  $F$   |     $14$      |
 
 
 ## Resources 
