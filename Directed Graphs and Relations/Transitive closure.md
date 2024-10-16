@@ -15,6 +15,7 @@ updated:
 > 2. Given two vertices $a$ and $b$, there is a directed edge $(a,b)$ in $G^+$ if there is a directed [[Paths|path]] from $a$ to $b$ in the original digraph $G$.  
 
 Notes: 
+- The transitive closure of a digraph automatically includes all the existing edges in the original digraph, because if there is a directed edge from $a$ to $b$ then this 
 - In the context of a social network in which the connections are directed (like Twitter, where "following" can be one-directional), there would be an edge from one user to another if there is a chain of followers that starts with the first user and ends with the second. 
 
 ## Examples 
@@ -22,7 +23,7 @@ Notes:
 Consider this directed graph: 
 ![[tc-graphic.png]]
 
-There is no edge from 4 to 5 in t
+There is no edge from 4 to 5 in this graph. However, there is a directed path starting at 4 and ending at 5, namely the sequence 4, 3, 5. So in the transitive closu
 
 ## Resources 
 
