@@ -24,7 +24,7 @@ updated:
 - The list $Q$ is known in computer science and data structures as a [queue](https://www.geeksforgeeks.org/queue-data-structure/). This is a data structure in which operations are performed "first in, first out" or "last in, last out" -- the most recently added (or "rightmost", or "topmost") items are the ones removed last. It works like a waiting line ([the literal use of the word "queue"](https://www.merriam-webster.com/dictionary/queue)). 
 - The BFS algorithm is essentially the same as [[Depth first search|depth first search]] except in depth first search, instead of a queue we use a [stack](https://www.geeksforgeeks.org/stack-data-structure/). 
 - This is known as *breadth first* search because it traverses the graph by moving out "one level at a time" and gradually proceeding through the graph after all the nearby vertices are visited. 
-- This is known as depth first *search* because the algorithm is often implemented with additional stopping conditions that halt the process once a node with a particular property is visited. 
+- This is known as breadth first *search* because the algorithm is often implemented with additional stopping conditions that halt the process once a node with a particular property is visited. 
 
 ## Examples
 
