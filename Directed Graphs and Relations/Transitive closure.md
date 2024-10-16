@@ -28,11 +28,10 @@ The transitive closure of this graph would include all six vertices and all eigh
 - The loops $(1,1)$ and $(2,2)$ because there is a directed path from 1 to itself (1, 2, 1) and likewise there is a directed path from 2 to itself. 
 - $(2,5)$: There is a directed path 2, 1, 5 (also 2, 1, 3, 5). 
 
-There are more edges than just these. The completed transitive closure looks like the following. Note, the loops are not shown due to limitations on the 
+There are more edges than just these. The completed transitive closure looks like the following. Note, the loops are not shown due to limitations on the graphing software being used. There are only two self-loops, on vertices 1 and 2. 
 
 ![[tc-graph2.png]]
 
-There is no edge from 4 to 5 in this graph. However, there is a directed path starting at 4 and ending at 5, namely the sequence 4, 3, 5. So in the transitive closu
 
 ## Resources 
 
