@@ -28,8 +28,8 @@ updated:
 ## Examples 
 
 (Taken from [this tutorial website](https://www.programiz.com/dsa/graph-dfs)) Consider the undirected graph below: 
-
-
+![[dfs-image.png]]
+Choose vertex 0 as the start point. We initialize $S = [0]$ and $V = [ \ ]$. Initially $S$ is nonempry
 ## Resources 
 
 (video)
