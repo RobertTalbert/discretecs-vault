@@ -28,7 +28,7 @@ The transitive closure of this graph would include all six vertices and all eigh
 - The loops $(1,1)$ and $(2,2)$ because there is a directed path from 1 to itself (1, 2, 1) and likewise there is a directed path from 2 to itself. 
 - $(2,5)$: There is a directed path 2, 1, 5 (also 2, 1, 3, 5). 
 
-There are more edges than just these. The completed transitive clos
+There are more edges than just these. The completed transitive closure looks like this: 
 
 
 
