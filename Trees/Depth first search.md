@@ -15,7 +15,7 @@ updated:
 > 
 > 1. Initialize a list $V$ of visited nodes, initially consisting just of the start node $a$. 
 > 2. While $V$ is nonempty:
-> 	a) Take the top item from $V$
+> 	a) Take the top item from $V$ -- that is, the last or "rightmost" item added -- and remove it from the list and 
 > 
 
 (blurb)
