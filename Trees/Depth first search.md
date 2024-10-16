@@ -14,7 +14,8 @@ updated:
 > **Depth first search** is an algorithm for visiting the nodes of a [[Graph|graph]] in a particular order. Given a graph $G$ and a starting vertex $a$, the algorithm proceeds as follows: 
 > 
 > 1. Initialize a list $V$ of visited nodes, starting with an empty list.  
-> 2. 
+> 2. Mark $a$ as visited and add it to the list. 
+> 3. Choose any neighbor of $a$. Mark it as visit
 > 
 
 (blurb)
