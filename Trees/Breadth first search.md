@@ -35,6 +35,7 @@ Choose vertex 0 as the start point. We initialize $Q = [0]$ and $V = [ \ ]$. Ini
 * Remove $0$ from $Q$ and put it into the visited list: $V = [0]$. 
 * Make a list of all of the [[Adjacent|neighbors]] of $0$: $1$, $2$, and $3$. None of these are in the visited list, so add them to the queue: $Q = [1,2,3]$. 
 * Repeat the loop: The queue is nonempty, so remove the "front" item and add it to $V$: $V = [0,1]$. (And $S = [2,3]$.) Make a list of all the neighbors of 1: 0 and 2. Vertex 0 has been visited but 2 has not, so add 2 to the queue (even though it's already there): $Q = [2,3,2]$. 
+* Repeat the loop: The queue is nonempty, so remove the "front" item and add it to $V$: $V =
 
 ## Resources 
 
