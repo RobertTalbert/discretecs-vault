@@ -16,7 +16,7 @@ updated:
 > 1. Initialize a list $S$ of nodes, initially consisting just of the start node $a$; and another list $V$ of visited nodes which is initially empty. 
 > 2. While $S$ is nonempty:
 > 	a) Take the top item from $S$ -- that is, the last or "rightmost" item added -- and remove it from the list and add it to $V$, the list of visited nodes. 
-> 	b) Create a list of that node's . Add the ones which are not in the visited list $V$ to the "top" (or "right") of $S$. 
+> 	b) Create a list of that node's [[Adjacent|neighbors]]. Add the ones which are not in the visited list $V$ to the "top" (or "right") of $S$. 
 > 	
 >The result of the algorithm is a list of vertices with a particular order of visiting. 
 
@@ -31,7 +31,8 @@ updated:
 ![[dfs-image.png]]
 Choose vertex 0 as the start point. We initialize $S = [0]$ and $V = [ \ ]$. Initially $S$ is nonempty, so: 
 * Remove $0$ from $S$ and put it into the visited list: $V = [0]$. 
-* Make a list of all of the [[Adjacent|neighbors]] of $0$: 
+* Make a list of all of the [[Adjacent|neighbors]] of $0$: $1$, $2$, and $3$. None of these are in the visited list, so add them to the stack $S$: $S = [1,2,3]$. 
+* 
 ## Resources 
 
 (video)
