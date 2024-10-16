@@ -20,9 +20,9 @@ updated:
 > 	
 >The result of the algorithm is a list of vertices with a particular order of visiting. 
 
-> 
 
-(blurb)
+**Notes**: 
+- The list $S$ is known in computer science and data structures as a [stack](https://www.geeksforgeeks.org/stack-data-structure/). This is a data structure in which operations are performed "fi"
 
 ## Examples 
 
