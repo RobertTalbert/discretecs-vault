@@ -20,7 +20,11 @@ updated:
 > 	
 >The result of the algorithm is a list of vertices with a particular order of visiting. 
 
-(blurb)
+**Notes:**
+- The list $Q$ is known in computer science and data structures as a queue. This is a data structure in which operations are performed "first in, last out" or "last in, first out" -- the most recently added (or "rightmost", or "topmost") items are the ones removed first. 
+- The DFS algorithm is essentially the same as [[Breadth first search|breadth first search]] except in breadth first search, instead of a stack we use a [queue](https://www.geeksforgeeks.org/queue-data-structure/). 
+- This is known as *depth first* search because it traverses the graph by moving as far in a single direction as possible before reaching a dead end, then it backtracks and recursively travels the other possible paths in the graph. 
+- This is known as depth first *search* because the algorithm is often implemented with additional stopping conditions that halt the process once a node with a particular property is visited. 
 
 ## Examples and Non-Examples
 
