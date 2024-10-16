@@ -46,6 +46,5 @@ Choose vertex 0 as the start point. We initialize $Q = [0]$ and $V = [ \ ]$. Ini
 
 Other resources: 
 - [Breadth first search visualizer](https://www.cs.usfca.edu/~galles/visualization/BFS.html)
-- NetworkX BFS 
+- [NetworkX BFS implementation docs](https://networkx.org/documentation/stable/reference/algorithms/generated/networkx.algorithms.traversal.breadth_first_search.bfs_edges.html#networkx.algorithms.traversal.breadth_first_search.bfs_edges)
 
-## Practice 
