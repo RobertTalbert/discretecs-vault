@@ -24,7 +24,8 @@ Consider this directed graph:
 ![[tc-graphic.png]]
 The transitive closure of this graph would include all six vertices and all eight of the existing edges, but would add an edge between any two vertices that have a directed path connecting them. These edges would include: 
 - $(4,5)$: There is no edge from 4 to 5 in the original, but there is a directed path from 4 to 5 -- the sequence 4, 3, 5. So in the transitive closure we would connect 4 to 5 directly. 
-- 
+- $(6,2)$: There is no edge from 6 to 2 in the original, but there is a directed path from 6 to 2 -- the sequence 6, 1, 2. 
+- The loops $(1,1)$ and $(2,2)$ because there is a directed 
 
 
 
