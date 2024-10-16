@@ -23,6 +23,7 @@ updated:
 
 **Notes**: 
 - The list $S$ is known in computer science and data structures as a [stack](https://www.geeksforgeeks.org/stack-data-structure/). This is a data structure in which operations are performed "first in, last out" or "last in, first out" -- the most recently added (or "rightmost", or "topmost") items are the ones removed first. 
+- This is known as *depth first* search because it traverses the graph by moving as far in a single direction as possible before reaching a dead end, then it backy
 - This is known as depth first *search* because the algorithm is often implemented with additional stopping conditions that halt the process once a node with a particular property is visited. 
 
 ## Examples 
@@ -36,7 +37,7 @@ Choose vertex 0 as the start point. We initialize $S = [0]$ and $V = [ \ ]$. Ini
 * Repeat the loop: The stack is nonempty, so remove the top item and add it to $V$ to get $V = [0,3,2]$ and $S = [1]$. Make a list of all the neighbors of $2$: 0, 1, and 4. Of these, only 4 has not been visited yet, so add it to the stack: $S = [1,4]$. 
 * Repeat the loop: The stack is nonempty, so remove the top item and add it to $V$ to get $V = [0,3,2, 4]$ and $S = [1]$. Make a list of all the neighbors of $4$: just 2. This is in the visited list, so there is nothing new to add to the stack. 
 * Repeat the loop: The stack is nonempty, so remove the top item and add it to $V$ to get $V = [0,3,2, 4, 1]$ and $S = [ \ ]$. Make a list of all the neighbors of $1$: just 0 and 2. These are both in the visited list, so there is nothing to add to the stack. 
-* The stack is now empty, so the algorithm stops and returns $V = [0,]
+* The stack is now empty, so the algorithm stops and returns $V = [0,3,2,4,1]$. 
 ## Resources 
 
 (video)
