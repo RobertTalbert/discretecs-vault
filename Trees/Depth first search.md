@@ -44,6 +44,7 @@ Choose vertex 0 as the start point. We initialize $S = [0]$ and $V = [ \ ]$. Ini
 
 Other resources: 
 - [Depth first search visualizer](https://www.cs.usfca.edu/~galles/visualization/DFS.html) (randomly generates a graph and animates the DFS process)
+- [NetworkX DFS implementation docs](https://networkx.org/documentation/stable/reference/algorithms/generated/networkx.algorithms.traversal.depth_first_search.dfs_edges.html#networkx.algorithms.traversal.depth_first_search.dfs_edges)
 - Python implementation using a recursive approach: 
 ```python
 def dfs(graph, start, visited=None):
@@ -57,4 +58,4 @@ def dfs(graph, start, visited=None):
         dfs(graph, next, visited)
     return visited
 ```
-Note, this is not networkX but pure Python. It requires that we have defined a graph as a data structure first, and there is no 
+Note, this is not networkX but pure Python. It requires that we have defined a graph as a data structure first. 
