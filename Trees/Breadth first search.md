@@ -31,10 +31,10 @@ updated:
 
 (Taken from [this tutorial website](https://www.programiz.com/dsa/graph-dfs)) Consider the undirected graph below: 
 ![[dfs-image.png]]
-Choose vertex 0 as the start point. We initialize $Q = [0]$ and $V = [ \ ]$. Initially $S$ is nonempty, so: 
-* Remove $0$ from $S$ and put it into the visited list: $V = [0]$. 
-* Make a list of all of the [[Adjacent|neighbors]] of $0$: $1$, $2$, and $3$. None of these are in the visited list, so add them to the stack $S$: $S = [1,2,3]$. 
-* Repeat the loop: The stack is nonempty, so remove the "top" item and add it to $V$: $V = [0,3]$. (And $S = [1,2]$.) Make a list of all the neighbors of 3: This time it's just 0, but that's already been visited. There are no new elements to add to $S$. 
+Choose vertex 0 as the start point. We initialize $Q = [0]$ and $V = [ \ ]$. Initially $Q$ is nonempty, so: 
+* Remove $0$ from $Q$ and put it into the visited list: $V = [0]$. 
+* Make a list of all of the [[Adjacent|neighbors]] of $0$: $1$, $2$, and $3$. None of these are in the visited list, so add them to the queue: $Q = [1,2,3]$. 
+* Repeat the loop: The queue is nonempty, so remove the "front" item and add it to $V$: $V = [0,1]$. (And $S = [2,3]$.) Make a list of all the neighbors of 1: This time it's just 0, but that's already been visited. There are no new elements to add to $Q$. 
 
 ## Resources 
 
