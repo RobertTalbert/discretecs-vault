@@ -17,7 +17,12 @@ updated:
 Notes: 
 - In the context of a social network in which the connections are directed (like Twitter, where "following" can be one-directional), there would be an edge from one user to another if there is a chain of followers that starts with the first user and ends with the second. 
 
-## Examples and Non-Examples
+## Examples 
+
+Consider this directed graph: 
+![[tc-graphic.png]]
+
+There is no edge from 4 to 5 in t
 
 ## Resources 
 
