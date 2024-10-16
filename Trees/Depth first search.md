@@ -32,7 +32,7 @@ updated:
 Choose vertex 0 as the start point. We initialize $S = [0]$ and $V = [ \ ]$. Initially $S$ is nonempty, so: 
 * Remove $0$ from $S$ and put it into the visited list: $V = [0]$. 
 * Make a list of all of the [[Adjacent|neighbors]] of $0$: $1$, $2$, and $3$. None of these are in the visited list, so add them to the stack $S$: $S = [1,2,3]$. 
-* 
+* Repeat the loop: The stack is nonempty, so remove the "top" item and add it to $V$: $V = [0,3]$. Make a list of all the neighbors of 3: This time it's just 0, but t
 ## Resources 
 
 (video)
