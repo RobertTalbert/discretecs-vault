@@ -35,9 +35,8 @@ There are more edges than just these. The completed transitive closure looks lik
 
 ## Resources 
 
-(video)
+![](https://www.youtube.com/watch?v=OO8Jfs9uZnc)
 
-Other resources: 
-- 
+Note, this video refers to the transitive closure of a [[Relation|relation]], not of a directed graph; however every directed graph is a relation and vice versa so the two terms can be used interchangeably. Also, the video uses $r
 
 ## Practice 
