@@ -23,6 +23,7 @@ updated:
 
 **Notes**: 
 - The list $S$ is known in computer science and data structures as a [stack](https://www.geeksforgeeks.org/stack-data-structure/). This is a data structure in which operations are performed "first in, last out" or "last in, first out" -- the most recently added (or "rightmost", or "topmost") items are the ones removed first. 
+- The DFS algorithm is essentially the same as [[Breadth first search|breadth first search]] except in place of a stack we use a queue. 
 - This is known as *depth first* search because it traverses the graph by moving as far in a single direction as possible before reaching a dead end, then it backtracks and recursively travels the other possible paths in the graph. 
 - This is known as depth first *search* because the algorithm is often implemented with additional stopping conditions that halt the process once a node with a particular property is visited. 
 
