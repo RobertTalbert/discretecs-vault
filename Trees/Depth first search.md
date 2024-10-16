@@ -34,8 +34,9 @@ Choose vertex 0 as the start point. We initialize $S = [0]$ and $V = [ \ ]$. Ini
 * Make a list of all of the [[Adjacent|neighbors]] of $0$: $1$, $2$, and $3$. None of these are in the visited list, so add them to the stack $S$: $S = [1,2,3]$. 
 * Repeat the loop: The stack is nonempty, so remove the "top" item and add it to $V$: $V = [0,3]$. (And $S = [1,2]$.) Make a list of all the neighbors of 3: This time it's just 0, but that's already been visited. There are no new elements to add to $S$. 
 * Repeat the loop: The stack is nonempty, so remove the top item and add it to $V$ to get $V = [0,3,2]$ and $S = [1]$. Make a list of all the neighbors of $2$: 0, 1, and 4. Of these, only 4 has not been visited yet, so add it to the stack: $S = [1,4]$. 
-* Repeat the loop: The stack is nonempty, so remove the top item and add it to $V$ to get $V = [0,3,2, 4]$ and $S = [1]$. Make a list of all the neighbors of $4$: 0 and 2. All of these are in the visited list, so there is nothing new to add to the stack. 
-* 
+* Repeat the loop: The stack is nonempty, so remove the top item and add it to $V$ to get $V = [0,3,2, 4]$ and $S = [1]$. Make a list of all the neighbors of $4$: just 2. This is in the visited list, so there is nothing new to add to the stack. 
+* Repeat the loop: The stack is nonempty, so remove the top item and add it to $V$ to get $V = [0,3,2, 4, 1]$ and $S = [ \ ]$. Make a list of all the neighbors of $1$: just 0 and 2. These are both in the visited list, so there is nothing to add to the stack. 
+* The stack is now empty, so the algorithm stops and returns $V = [0,]
 ## Resources 
 
 (video)
