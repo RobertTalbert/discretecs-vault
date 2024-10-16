@@ -16,7 +16,7 @@ updated:
 > 1. Initialize a list $Q$ of nodes, initially consisting just of the start node $a$; and another list $V$ of visited nodes which is initially empty. 
 > 2. While $Q$ is nonempty:
 > 	a) Take the front item from $Q$ -- that is, the first or "leftmost" item -- and remove it from the list and add it to $V$, the list of visited nodes. 
-> 	b) Create a list of that node's [[Adjacent|neighbors]]. Add the ones which are not in the visited list $V$ to the "bottom" (or "left") of $S$. 
+> 	b) Create a list of that node's [[Adjacent|neighbors]]. Add the ones which are not in the visited list $V$ to the "back" (or "right") of $Q$. 
 > 	
 >The result of the algorithm is a list of vertices with a particular order of visiting. 
 
@@ -26,7 +26,15 @@ updated:
 - This is known as *breadth first* search because it traverses the graph by moving out "one level at a time" and gradually proceeding through the graph after all the nearby vertices are visited. 
 - This is known as depth first *search* because the algorithm is often implemented with additional stopping conditions that halt the process once a node with a particular property is visited. 
 
-## Examples and Non-Examples
+## Examples
+
+
+(Taken from [this tutorial website](https://www.programiz.com/dsa/graph-dfs)) Consider the undirected graph below: 
+![[dfs-image.png]]
+Choose vertex 0 as the start point. We initialize $Q = [0]$ and $V = [ \ ]$. Initially $S$ is nonempty, so: 
+* Remove $0$ from $S$ and put it into the visited list: $V = [0]$. 
+* Make a list of all of the [[Adjacent|neighbors]] of $0$: $1$, $2$, and $3$. None of these are in the visited list, so add them to the stack $S$: $S = [1,2,3]$. 
+* Repeat the loop: The stack is nonempty, so remove the "top" item and add it to $V$: $V = [0,3]$. (And $S = [1,2]$.) Make a list of all the neighbors of 3: This time it's just 0, but that's already been visited. There are no new elements to add to $S$. 
 
 ## Resources 
 
