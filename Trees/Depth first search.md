@@ -45,4 +45,4 @@ Choose vertex 0 as the start point. We initialize $S = [0]$ and $V = [ \ ]$. Ini
 Other resources: 
 - [Depth first search visualizer](https://www.cs.usfca.edu/~galles/visualization/DFS.html) (randomly generates a graph and animates the DFS process)
 
-## Practice 
+
