@@ -14,7 +14,7 @@ updated:
 > 1. The vertices are the same as those of $G$, and 
 > 2. Given two vertices $a$ and $b$, there is a directed edge $(a,b)$ in $G^+$ if there is a directed [[Paths|path]] from $a$ to $b$ in the original digraph $G$.  
 
-Notes: 
+**Notes**: 
 - The transitive closure of a digraph automatically includes all the existing edges in the original digraph, because if there is a directed edge from $a$ to $b$ then this is a directed path of length 1. 
 - In the context of a social network in which the connections are directed (like Twitter, where "following" can be one-directional), there would be an edge from one user to another if there is a chain of followers that starts with the first user and ends with the second. 
 
@@ -37,6 +37,4 @@ There are more edges than just these. The completed transitive closure looks lik
 
 ![](https://www.youtube.com/watch?v=OO8Jfs9uZnc)
 
-Note, this video refers to the transitive closure of a [[Relation|relation]], not of a directed graph; however every directed graph is a relation and vice versa so the two terms can be used interchangeably. Also, the video uses $r
-
-## Practice 
+Note, this video refers to the transitive closure of a [[Relation|relation]], not of a directed graph; however every directed graph is a relation and vice versa so the two terms can be used interchangeably. Also, the video uses $r^*$ rather than $r^+$ to denote the transitive closure. 
