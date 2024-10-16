@@ -15,7 +15,7 @@ updated:
 > 2. Given two vertices $a$ and $b$, there is a directed edge $(a,b)$ in $G^+$ if there is a directed [[Paths|path]] from $a$ to $b$ in the original digraph $G$.  
 
 Notes: 
-- In the context of a social network in which the connections are directed (like Twitter, where "following" can be one-directional), there would be an edge between two 
+- In the context of a social network in which the connections are directed (like Twitter, where "following" can be one-directional), there would be an edge from one user to another if there is a chain of followers that starts with the first user and ends with the second. 
 
 ## Examples and Non-Examples
 
