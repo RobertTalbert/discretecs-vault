@@ -11,17 +11,18 @@ updated:
 ## Definition 
 
 > [!tldr] Definition
-> **Depth first search** is an algorithm for visiting the nodes of a [[Graph|graph]] in a particular ord
+> **Depth first search** is an algorithm for visiting the nodes of a [[Graph|graph]] in a particular order. Given a graph $G$ and a starting vertex $v$, the algorithm proceeds as follows: 
+> 
 
 (blurb)
 
-## Examples and Non-Examples
+## Examples 
 
 ## Resources 
 
 (video)
 
 Other resources: 
-- 
+- [Depth first search visualizer](https://www.cs.usfca.edu/~galles/visualization/DFS.html) (randomly generates a graph and animates the DFS process)
 
 ## Practice 
