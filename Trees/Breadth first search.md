@@ -45,6 +45,7 @@ Choose vertex 0 as the start point. We initialize $Q = [0]$ and $V = [ \ ]$. Ini
 ![](https://www.youtube.com/watch?v=oDqjPvD54Ss)
 
 Other resources: 
-- 
+- [Breadth first search visualizer](https://www.cs.usfca.edu/~galles/visualization/BFS.html)
+- NetworkX BFS 
 
 ## Practice 
