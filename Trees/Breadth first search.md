@@ -35,9 +35,10 @@ Choose vertex 0 as the start point. We initialize $Q = [0]$ and $V = [ \ ]$. Ini
 * Remove $0$ from $Q$ and put it into the visited list: $V = [0]$. 
 * Make a list of all of the [[Adjacent|neighbors]] of $0$: $1$, $2$, and $3$. None of these are in the visited list, so add them to the queue: $Q = [1,2,3]$. 
 * Repeat the loop: The queue is nonempty, so remove the "front" item and add it to $V$: $V = [0,1]$. (And $Q = [2,3]$.) Make a list of all the neighbors of 1: 0 and 2. Vertex 0 has been visited but 2 has not. However 2 is already in the queue. So, in all, there's nothing added to $Q$ this time.  
-* Repeat the loop: The queue is nonempty, so remove the "front" item and add it to $V$: $V = [0,1,2]$, also $Q = [3]$. Look at the neighbors of $2$: 0, 1, and 4. Vertex 4 hasn't been visited yet, so add it to the queue to get $Q = [3,2,4]$. 
-* Repeat the loop: The queue is nonempty, so remove the "front" item and add it to $V$: $V = [0,1,2,3]$, and also $Q = [2,4]$. Look at the neighbors of $3$: Just 0, and that's already been visited. So there's nothing new in the queue. 
-* Repeat the loop: The queue is nonempty, so remove the "front" item and add it to $V$: $V = [0,1,]
+* Repeat the loop: The queue is nonempty, so remove the "front" item and add it to $V$: $V = [0,1,2]$, also $Q = [3]$. Look at the neighbors of $2$: 0, 1, and 4. Vertex 4 hasn't been visited yet, so add it to the queue to get $Q = [3,4]$. 
+* Repeat the loop: The queue is nonempty, so remove the "front" item and add it to $V$: $V = [0,1,2,3]$, and also $Q = [4]$. Look at the neighbors of $3$: Just 0, and that's already been visited. So there's nothing new in the queue. 
+* Repeat the loop: The queue is nonempty, so remove the "front" item and add it to $V$: $V = [0,1,2, 3, 4]$ and also $Q = [ \ ]$. Look at the neighbors of 4 -- just 2, and that's been visited. 
+* The queue is now empty so the algorithm stops, and returns $V = [0,1,2,3,]
 
 ## Resources 
 
