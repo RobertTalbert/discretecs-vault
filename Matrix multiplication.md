@@ -25,7 +25,8 @@ updated:
 Let $A$ and $B$ be the following matrices: 
 $$A = \begin{bmatrix} 1 & 0 & 4 \\ 2 & 1 & 1 \\ 3 & 1 & 0 \\ 0 & 2 & 2 \end{bmatrix} \qquad 
 B = \begin{bmatrix} 2 & 4 \\ 1 & 1 \\ 3 & 0  \end{bmatrix}$$
-Notice that $A$ is $4 \times 3$ and $B$ is $3 \times 2$. Since the number of columns of $A$ matches the number of rows in $B$, we can compute the product $AB$ (but not the product $BA$). The result will be a $4 \times 2$ matrix. 
+Notice that $A$ is $4 \times 3$ and $B$ is $3 \times 2$. Since the number of columns of $A$ matches the number of rows in $B$, we can compute the product $AB$ (but not the product $BA$). The result will be a $4 \times 2$ matrix. The $(1,1)$-entry of $AB$ is the sum of the products of elements in the first row of $A$ with the first column of $B$: 
+$$(1)(2) + (0)(1) + (4)(3) = 14$$
 
 
 ## Resources 
