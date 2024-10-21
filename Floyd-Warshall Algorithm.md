@@ -18,6 +18,6 @@ updated:
 ## Examples and Non-Examples
 
 ## Resources 
-
+![](https://www.youtube.com/watch?v=hKCqske0rAE)
 
 ## Practice 
