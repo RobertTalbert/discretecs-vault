@@ -37,7 +37,8 @@ Initialize $W$ to be this matrix. The number of rows and columns is 4. Note, alt
 
 We begin a threefold `for` loop in which $k$, $i$, and $j$ all loop through the values 0, 1, 2, and 3. This results in $4^3 = 64$ operations to perform. We will just do a sample of those. 
 
-The very first computation 
+The very first computation will occur when $k,i,j = 0$. The algorithm looks at the $(0,0)$-entry (this is when $i=0$ and $j=0$): 
+* The current $(0,0)$-t
 
 ## Resources 
 
