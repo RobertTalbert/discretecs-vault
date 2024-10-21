@@ -29,7 +29,11 @@ Notice that $A$ is $4 \times 3$ and $B$ is $3 \times 2$. Since the number of col
 $$(1)(2) + (0)(1) + (4)(3) = 14$$
 The $(1,2)$-entry is the sum of the products of the elements of the first row of $A$ with the second column of $B$: 
 $$(1)(4) + (0)(1) + (4)(0) = 4$$
-The $(2,1)$-entry is the sum of the products of the elements of the second row of $A$ with the second column of $B$: 
+The $(2,1)$-entry is the sum of the products of the elements of the second row of $A$ with the first column of $B$: 
+$$(2)(2) + (1)(1) + (1)(3) = 8$$
+The $(2,2)$-entry is the sum of the products of the elements of the second row of $A$ with the second column of $B$: 
+
+
 ## Resources 
 
 (video)
