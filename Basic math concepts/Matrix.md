@@ -25,7 +25,9 @@ updated:
 
 Here is an example of a $3 \times 2$ matrix: 
 $$\begin{bmatrix} 1 & 1 \\ 0 & 2 \\ 1 & 3 \end{bmatrix}$$
-The number $3$ is in row 3, column 2. 
+The number $3$ is in row 3, column 2. That is, $3$ is the $(3,2)$ element of this matrix. 
+
+
 
 
 
