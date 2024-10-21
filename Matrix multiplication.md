@@ -51,9 +51,6 @@ $$A^3 = A \cdot A^2 = \begin{bmatrix} 0 & 1 & 1 \\ 1 & 0 & 0 \\ 1 & 1 & 1 \end{b
 
 ## Resources 
 
-(video)
+![](https://www.youtube.com/watch?v=OMA2Mwo0aZg)
 
-Other resources: 
-- 
-
-## Practice 
+![](https://youtu.be/vzt9c7iWPxs?si=bXtX6h1r7RObWuyL)
