@@ -43,11 +43,11 @@ For a [[Directed graph|directed graph]], the $(i,j)$ entry is $1$ if there is a 
 ![[small-digraph.png|400]]
 Its adjacency matrix is: 
 $$\begin{bmatrix}
-0 & 1 & 1 & 1 & 1 \\
-1 & 0 & 1 & 1 & 0 \\
-1 & 1 & 0 & 1 & 1 \\
-1 & 1 & 1 & 0 & 0 \\
-1 & 0 & 1 & 0 & 0 
+0 & 0 & 1 & 0 & 1 \\
+0 & 0 & 1 & 1 & 0 \\
+1 & 0 & 0 & 1 & 1 \\
+0 & 0 & 0 & 0 & 0 \\
+0 & 0 & 1 & 0 & 0 
 \end{bmatrix}$$
 
 ## Resources 
