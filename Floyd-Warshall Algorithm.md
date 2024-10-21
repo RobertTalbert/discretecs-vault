@@ -33,7 +33,9 @@ Consider this directed graph:
 ![[fw-digraph.png|500]]
 Its adjacency matrix is 
 $$\begin{bmatrix} 0 & 0 & 1 & 0 \\ 0 & 0 & 0 & 0 \\ 1 & 1 & 0 & 1 \\ 1 & 1 & 0 & 0 \end{bmatrix}$$
-Initialize $W$ to be this matrix. The number of rows and columns is 4. Note, although the vertices are labelled 1 through 4, to stay consistent with the algorithm we will refer to the rows and columns as being numbered 0 through 3. So 
+Initialize $W$ to be this matrix. The number of rows and columns is 4. Note, although the vertices are labelled 1 through 4, to stay consistent with the algorithm we will refer to the rows and columns as being numbered 0 through 3. So row 1 corresponds to vertex 2 for example. 
+
+We begin a threefold `for` loop in which $k$, $i$, and $j$ all loop through the values 0, 1, 2, and 3. This results 
 
 ## Resources 
 
