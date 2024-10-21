@@ -37,10 +37,12 @@ Initialize $W$ to be this matrix. The number of rows and columns is 4. Note, alt
 
 We begin a threefold `for` loop in which $k$, $i$, and $j$ all loop through the values 0, 1, 2, and 3. This results in $4^3 = 64$ operations to perform. We will just do a sample of those. 
 
-For example: At the point in the loops where $k = 2$, $i=0$, and $j=1$:
+At the point in the loops there $
+
+At the point in the loops where $k = 2$, $i=0$, and $j=1$:
 - The algorithm checks to see if the $(0,1)$-entry of $W$ is `1`. It is not. (Remember this is the entry in row, column 1.)
 - The algorithm checks to see if both the $(0,2)$-entry and the $(2,1)$-entry of $W$ are `1`. The $(0,2)$-entry (row 0 column 2) is indeed `1`, and so is the $(2,1)$-entry (row 2 column 1). Since both are `1`, the algorithm updates the $(0,1)$-entry of $W$ to be `1`. 
-These steps encode the idea that there is no edge from vertex 1 (which is represented by row 0) to vertex 2 (represented by row 1), but there is a "linking node" in vertex 3 (represented by row 2): with an edge from vertex 1 to vertex 3
+These steps encode the idea that there is no edge from vertex 1 (which is represented by row 0) to vertex 2 (represented by row 1), but there is a "linking node" in vertex 3 (represented by row 2): this gives an edge from vertex 1 to vertex 3 and then an edge from 3 to 2. Therefore there is a path of length 2 from vertex 1 to vertex 2, so the edge $(1,2)$ should go in the transitive closure. 
 
 
 
