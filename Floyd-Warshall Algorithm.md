@@ -39,7 +39,7 @@ We begin a threefold `for` loop in which $k$, $i$, and $j$ all loop through the 
 
 For example: At the point in the loops where $k = 2$, $i=0$, and $j=1$:
 - The algorithm checks to see if the $(0,1)$-entry of $W$ is `1`. It is not. (Remember this is the entry in row, column 1.)
-- The algorithm checks to see if both the $(0,2)$-entry and the $(2,1)$-entry of $W$ are `1`. The $(0,2)$-entry (row 0 column 2)
+- The algorithm checks to see if both the $(0,2)$-entry and the $(2,1)$-entry of $W$ are `1`. The $(0,2)$-entry (row 0 column 2) is indeed `1`, and so is the $(2,1)$-entry (row 2 column 1). Since both are `1`, the algorithm updates the $(0,1)$-entry o
 
 
 
