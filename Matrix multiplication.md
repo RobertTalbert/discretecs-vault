@@ -34,7 +34,12 @@ $$(2)(2) + (1)(1) + (1)(3) = 8$$
 The $(2,2)$-entry is the sum of the products of the elements of the second row of $A$ with the second column of $B$: 
 $$(2)(4) + (1)(1) + (1)(0) = 9$$
 Continuing this process leads to the following result: 
-$$\begin{bmatrix} 14 & 4 \\ 8 & 9 
+$$\begin{bmatrix} 14 & 4 \\ 8 & 9 \\ 7 & 13 \\ 8 & 2 \end{bmatrix}$$
+
+
+**Powers of a matrix:** Consider the following $3 \times 3$ matrix $A$ whose entries are either 0 or 1.
+$$A = \
+
 
 
 ## Resources 
