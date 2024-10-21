@@ -17,11 +17,17 @@ updated:
 > 1. Make a copy of the matrix, and call it $W$. This matrix consists of `0` and `1` entries; the algorithm will modify some of the `0` entries to become `1`s. Let $n$ be the number of rows/columns of $W$. 
 > 2. For $k$ running from $0$ to $n-1$:
 > 	a) Let $i$ run from $0$ to $n-1$ and $j$ run from $0$ to $n-1$
-> 	b) For each $(i,j)$-pair. if *either* the $(i,j)$-entry of $W$ is `1`, *or* if the $(i,k)$-entry *and* $(k,j)$-entry of $W$ is `1`, then set the $(i,j)$-entry of $W$ to `1`. 
+> 	b) For each $(i,j)$-pair. if *either* the $(i,j)$-entry of $W$ is `1`, *or* if the $(i,k)$-entry *and* $(k,j)$-entry of $W$ is `1`, then set the $(i,j)$-entry of $W$ to `1`. (This entry might already be `1`.)
+> 3. Return the modified $W$. 
 
-(blurb)
 
-## Examples and Non-Examples
+Notes: 
+* This *
+## Examples 
+
+The "Part 2" video below shows a completed example. Here is another: 
+
+
 
 ## Resources 
 
