@@ -52,9 +52,4 @@ $$\begin{bmatrix}
 
 ## Resources 
 
-(video)
-
-Other resources: 
-- 
-
-## Practice 
+![](https://www.youtube.com/watch?v=0oGJTQCy4cQ&t=1s)
