@@ -16,9 +16,18 @@ updated:
 > 
 > A matrix with $m$ rows and $n$ columns is called an $m \times n$ ("m by n") matrix. A matrix that has the same number of rows as it has columns is called a **square** matrix. 
 
-(blurb)
+**Notes:**
+- Matrices are usually enclosed in either large brackets, or large parentheses. 
 
-## Examples and Non-Examples
+## Examples 
+
+Here is an example of a $2 \times 3$ matrix: 
+$$\begin{bmatrix} 1 & 1 \\ 0 & 2 \\ 
+
+
+
+
+
 
 ## Resources 
 
