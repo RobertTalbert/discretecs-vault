@@ -35,9 +35,11 @@ $$\begin{bmatrix}
 0 & 1 & 1 & 1 & 1 \\
 1 & 0 & 1 & 1 & 0 \\
 1 & 1 & 0 & 1 & 1 \\
-1 & 1 & 
+1 & 1 & 1 & 0 & 0 \\
+1 & 0 & 1 & 0 & 0 
+\end{bmatrix}$$
 
-
+For a [[Directed graph|directed graph]], the $(i,j)$ entry is $1$ if there is a directed edge from vertex $i$ to vertex 
 
 
 ## Resources 
