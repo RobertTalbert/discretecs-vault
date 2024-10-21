@@ -20,7 +20,7 @@ updated:
 
 **Notes:**
 - Matrices are usually enclosed in either large brackets, or large parentheses. 
-- Matrices are a fundamental way to represent [[Graph|graphs]] and 
+- Matrices are a fundamental way to represent [[Graph|graphs]] and [[Directed graph|digraphs]]. We can do so using adjacency matrices or incidence matrices; see below. 
 
 ## Examples 
 
@@ -28,7 +28,7 @@ Here is an example of a $3 \times 2$ matrix:
 $$\begin{bmatrix} 1 & 1 \\ 0 & 2 \\ 1 & 3 \end{bmatrix}$$
 This matrix is *not* square. The number $3$ is in row 3, column 2. That is, $3$ is the $(3,2)$ element of this matrix. 
 
-Here is an example of a square matrix 
+Given an undirected [[Graph|graph]], we can represent it as 
 
 
 
