@@ -18,8 +18,12 @@ updated:
 ## Examples and Non-Examples
 
 ## Resources 
+
+Part 1: 
 ![](https://www.youtube.com/watch?v=hKCqske0rAE)
 
 
+Part 2: 
+![](https://www.youtube.com/watch?v=BTRssTnhZVU)
 
-## Practice 
+
