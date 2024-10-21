@@ -40,10 +40,11 @@ $$\begin{bmatrix} 14 & 4 \\ 8 & 9 \\ 7 & 13 \\ 8 & 2 \end{bmatrix}$$
 **Powers of a matrix:** Consider the following $3 \times 3$ matrix $A$ whose entries are either 0 or 1.
 $$A = \begin{bmatrix} 0 & 1 & 1 \\ 1 & 0 & 0 \\ 1 & 1 & 1 \end{bmatrix}$$
 Since $A$ is square, we can find $A^2$ which is the product of $A$ with itself: 
-$$A^2 = \begin{bmatrix} 0 & 1 & 1 \\ 1 & 0 & 0 \\ 1 & 1 & 1 \end{bmatrix} \begin{bmatrix} 0 & 1 & 1 \\ 1 & 0 & 0 \\ 1 & 1 & 1 \end{bmatrix} = 
-\begin{bmatrix} (0)(0) + (1)(1) + (1)(1) & (0)(1)+(1)(0)+(1)(1) & (0)(1)+(1)(0)+(1)(1) \\ (1)(0) + (0)(1) + (0)(1) & (1)(1)+(0)(0)+(0)(1) & (1)(1)+(0)(0)+(0)(1) \\
-(1)(0) + (1)(1) + (1)(1) & (1)(1)+(1)(0)+(1)(1) & (1)(1)+(1)(0)+(1)(1)\end{bmatrix}$$
-
+$$A^2 = \begin{bmatrix} 0 & 1 & 1 \\ 1 & 0 & 0 \\ 1 & 1 & 1 \end{bmatrix} \begin{bmatrix} 0 & 1 & 1 \\ 1 & 0 & 0 \\ 1 & 1 & 1 \end{bmatrix}$$
+This equals: 
+$$\begin{bmatrix} (0)(0) + (1)(1) + (1)(1) & (0)(1)+(1)(0)+(1)(1) & (0)(1)+(1)(0)+(1)(1) \\ (1)(0) + (0)(1) + (0)(1) & (1)(1)+(0)(0)+(0)(1) & (1)(1)+(0)(0)+(0)(1) \\
+(1)(0) + (1)(1) + (1)(1) & (1)(1)+(1)(0)+(1)(1) & (1)(1)+(1)(0)+(1)(1)\end{bmatrix} 
+= \begin{bmatrix} 2 & 1 & 1 \\ 0 & 1 & 1  \end{bmatrix} $$
 
 ## Resources 
 
