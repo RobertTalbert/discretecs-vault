@@ -39,8 +39,16 @@ $$\begin{bmatrix}
 1 & 0 & 1 & 0 & 0 
 \end{bmatrix}$$
 
-For a [[Directed graph|directed graph]], the $(i,j)$ entry is $1$ if there is a directed edge from vertex $i$ to vertex 
-
+For a [[Directed graph|directed graph]], the $(i,j)$ entry is $1$ if there is a directed edge from vertex $i$ to vertex $j$, and $0$ otherwise. For example, given this digraph: 
+![[small-digraph.png|400]]
+Its adjacency matrix is: 
+$$\begin{bmatrix}
+0 & 1 & 1 & 1 & 1 \\
+1 & 0 & 1 & 1 & 0 \\
+1 & 1 & 0 & 1 & 1 \\
+1 & 1 & 1 & 0 & 0 \\
+1 & 0 & 1 & 0 & 0 
+\end{bmatrix}$$
 
 ## Resources 
 
