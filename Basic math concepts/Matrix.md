@@ -12,7 +12,7 @@ updated:
 ## Definition 
 
 > [!tldr] Definition
-> A **matrix** is a rectangular array of numbers
+> A **matrix** is a rectangular array of numbers. The plural of "matrix" is **matrices**. Matrices are composed of **rows** (that run horizontally or left-right) and **columns** (that run vert)
 
 (blurb)
 
