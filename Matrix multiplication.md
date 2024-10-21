@@ -15,7 +15,7 @@ updated:
 
 Notes: 
 * Matrix multiplication is *not* simply multiplying the corresponding entries of the two matrices together. 
-* 
+* The product of $A$ and $B$ is only defined if the number of columns in $A$ equals the number of rows in $B$. Otherwise $AB$ cannot be computed. For example if $A$ is a $3 \times 4$ matrix and $B$ is $4 \
 * Using the language of vectors, the $(i,j)$-entry of $AB$ is the [dot product](https://www.mathsisfun.com/algebra/vectors-dot-product.html) of the $i$th column of $A$ with the $j$th column of $B$. 
 
 ## Examples and Non-Examples
