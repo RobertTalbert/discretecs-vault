@@ -35,20 +35,16 @@ Its adjacency matrix is
 $$\begin{bmatrix} 0 & 0 & 1 & 0 \\ 0 & 0 & 0 & 0 \\ 1 & 1 & 0 & 1 \\ 1 & 1 & 0 & 0 \end{bmatrix}$$
 Initialize $W$ to be this matrix. The number of rows and columns is 4. Note, although the vertices are labelled 1 through 4, to stay consistent with the algorithm we will refer to the rows and columns as being numbered 0 through 3. So row 1 corresponds to vertex 2 for example. 
 
-We begin a threefold `for` loop in which $k$, $i$, and $j$ all loop through the values 0, 1, 2, and 3. This results in $4^3 = 64$ operations to perform. We will just do a sample of those. 
+We begin a threefold `for` loop in which $k$, $i$, and $j$ all loop through the values 0, 1, 2, and 3. This results in $4^3 = 64$ operations to perform. We will just do two of those. 
 
-At the point in the loops where $k=0$, $i=2$, and $j=3$: The algorithm checks to see if the $(2,3)$ entry of $W$ is `1`. This is in row 2, column 3 -- this is the "next to last" row and the rightmost column. There is a `1` there, so the algorithm leaves that entry at `1` and moves on. This 
+At the point in the loops where $k=0$, $i=2$, and $j=3$: The algorithm checks to see if the $(2,3)$ entry of $W$ is `1`. This is in row 2, column 3 -- this is the "next to last" row and the rightmost column. There is a `1` there, so the algorithm leaves that entry at `1` and moves on. This encodes the idea that there is already an edge from vertex 3 (represented by row 2) to vertex 4 (represented by row 3) and that edge needs to be present in the transitive closure. 
 
 At the point in the loops where $k = 2$, $i=0$, and $j=1$:
 - The algorithm checks to see if the $(0,1)$-entry of $W$ is `1`. It is not. (Remember this is the entry in row, column 1.)
 - The algorithm checks to see if both the $(0,2)$-entry and the $(2,1)$-entry of $W$ are `1`. The $(0,2)$-entry (row 0 column 2) is indeed `1`, and so is the $(2,1)$-entry (row 2 column 1). Since both are `1`, the algorithm updates the $(0,1)$-entry of $W$ to be `1`. 
 These steps encode the idea that there is no edge from vertex 1 (which is represented by row 0) to vertex 2 (represented by row 1), but there is a "linking node" in vertex 3 (represented by row 2): this gives an edge from vertex 1 to vertex 3 and then an edge from 3 to 2. Therefore there is a path of length 2 from vertex 1 to vertex 2, so the edge $(1,2)$ should go in the transitive closure. 
 
-
-
-The very first computation will occur when $k,i,j = 0$. The algorithm looks at the $(0,0)$-entry (this is when $i=0$ and $j=0$): 
-* The current $(0,0)$-entry is $0$. 
-* The algorithm then checks to see if either the $(0,)
+Continuing that process will result in the foll
 
 ## Resources 
 
