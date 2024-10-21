@@ -12,6 +12,9 @@ updated:
 
 > [!tldr] Definition
 > The **Floyd-Warshall algorithm** is a method for computing the adjacency [[Matrix|matrix]] of the [[Transitive closure|transitive closure]] of a [[Directed graph|directed graph]] using the adjacency matrix of the original [[Directed graph|digraph]]. 
+> 
+> The algorithm takes the adjacency matrix for the digraph as input, and does the following: 
+> 1. Make a copy of the matrix, and call it $W$. This matrix consists of 
 
 (blurb)
 
