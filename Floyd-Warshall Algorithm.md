@@ -29,8 +29,11 @@ updated:
 
 The "Part 2" video below shows a completed example. Here is another: 
 
-Consider this directed graph: 
-![[fw-digraph.png]]
+Consider this directed graph:
+![[fw-digraph.png|500]]
+Its adjacency matrix is 
+$$\begin{bmatrix} 0 & 0 & 1 & 0 \\ 0 & 0 & 0 & 0 \\ 1 & 1 & 0 & 1 \\ 
+
 
 ## Resources 
 
