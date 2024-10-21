@@ -26,4 +26,14 @@ Part 1:
 Part 2: 
 ![](https://www.youtube.com/watch?v=BTRssTnhZVU)
 
-
+Pseudocode from the first video: 
+```python
+def warshall(M):
+    n = M.nrows()
+    W = M
+    for k in range(n):
+        for i in range(n):
+            for j in range(n):
+                W[i,j] = W[i,j] or (W[i,k] and W[k,j])
+    return W
+```
