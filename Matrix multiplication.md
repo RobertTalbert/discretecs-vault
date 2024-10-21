@@ -18,7 +18,7 @@ updated:
 * The product of $A$ and $B$ is only defined if the number of columns in $A$ equals the number of rows in $B$. Otherwise $AB$ cannot be computed. For example if $A$ is a $3 \times 4$ matrix and $B$ is $4 \times 7$, then $AB$ can be computed, and the result will be a $3 \times 7$ matrix. But note, $BA$ cannot be computed because the number of columns in $B$ (7) does not equal the number of rows in $A$ (3). 
 * The previous point illustrates that multiplication of matrices does not obey the [[Properties of arithmetic|commutative property]]: It is not necessarily true that for any two matrices $A$ and $B$ that $AB = BA$. In fact $BA$ may not even be computable, even if $AB$ is. 
 * Using the language of vectors, the $(i,j)$-entry of $AB$ is the [dot product](https://www.mathsisfun.com/algebra/vectors-dot-product.html) of the $i$th column of $A$ with the $j$th column of $B$. 
-* If $A$ is a square matrix -- that is, it has the same number of rows as columns -- then we can multiply it to itself. Doing so creates a **power** of a matrix: $AA = A^2$. If $A$ is $n \times n$, then so is $A^@
+* If $A$ is a square matrix -- that is, it has the same number of rows as columns -- then we can multiply it to itself. Doing so creates a **power** of a matrix: $AA = A^2$. If $A$ is $n \times n$, then so is $A^2$. Therefore we can also compute the third power, $A^3$, which would be defined as $A^3 = A \times A^2$. In general, the $k$th power of a square matrix is defined recursively: $A^2 = A \dot
 
 ## Examples and Non-Examples
 
