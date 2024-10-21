@@ -29,7 +29,8 @@ updated:
 
 The "Part 2" video below shows a completed example. Here is another: 
 
-
+Consider this directed graph: 
+![[fw-digraph.png]]
 
 ## Resources 
 
