@@ -32,8 +32,8 @@ The "Part 2" video below shows a completed example. Here is another:
 Consider this directed graph:
 ![[fw-digraph.png|500]]
 Its adjacency matrix is 
-$$\begin{bmatrix} 0 & 0 & 1 & 0 \\ 0 & 0 & 0 & 0 \\ 1 & 1 & 0 & 1 \\ 
-
+$$\begin{bmatrix} 0 & 0 & 1 & 0 \\ 0 & 0 & 0 & 0 \\ 1 & 1 & 0 & 1 \\ 1 & 1 & 0 & 0 \end{bmatrix}$$
+Initialize $W$ to be this matrix. The number of rows and columns is 4. Note, although the vertices are labelled 1 through 4, to stay consistent with the algorithm we will refer to the rows and columns as being numbered 0 through 3. So 
 
 ## Resources 
 
