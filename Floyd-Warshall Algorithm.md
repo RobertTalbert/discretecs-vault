@@ -19,9 +19,5 @@ updated:
 
 ## Resources 
 
-(video)
-
-Other resources: 
-- 
 
 ## Practice 
