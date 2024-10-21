@@ -21,8 +21,10 @@ updated:
 > 3. Return the modified $W$. 
 
 
-Notes: 
-* This *
+**Notes**: 
+* This algorithm is sometimes known as just the "Warshall algorithm". 
+* Modifications of this algorithm can also be used to find shortest paths in weighted graphs (and digraph), and solve several other common graph problems. 
+
 ## Examples 
 
 The "Part 2" video below shows a completed example. Here is another: 
