@@ -37,7 +37,7 @@ Initialize $W$ to be this matrix. The number of rows and columns is 4. Note, alt
 
 We begin a threefold `for` loop in which $k$, $i$, and $j$ all loop through the values 0, 1, 2, and 3. This results in $4^3 = 64$ operations to perform. We will just do a sample of those. 
 
-At the point in the loops where $k=0$, $i=2$, and $j=3$: The algorithm checks to see if the $(2,3)$ entry of $W$ is `1`. This is in row 2, column 3 
+At the point in the loops where $k=0$, $i=2$, and $j=3$: The algorithm checks to see if the $(2,3)$ entry of $W$ is `1`. This is in row 2, column 3 -- this is the "next to last" row and the rightmost column. There is a `1` there, so the algorithm leaves that entry at `1` and moves on. This 
 
 At the point in the loops where $k = 2$, $i=0$, and $j=1$:
 - The algorithm checks to see if the $(0,1)$-entry of $W$ is `1`. It is not. (Remember this is the entry in row, column 1.)
