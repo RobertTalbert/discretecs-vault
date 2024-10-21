@@ -16,7 +16,7 @@ updated:
 > 
 > A matrix with $m$ rows and $n$ columns is called an $m \times n$ ("m by n") matrix. A matrix that has the same number of rows as it has columns is called a **square** matrix. 
 > 
-> The **$(i,j)$-th element** of a matrix is the element that is in row $i$, column $j$. 
+> The **$(i,j)$-th entry** of a matrix is the element that is in row $i$, column $j$. 
 
 **Notes:**
 - Matrices are usually enclosed in either large brackets, or large parentheses. 
@@ -28,7 +28,7 @@ Here is an example of a $3 \times 2$ matrix:
 $$\begin{bmatrix} 1 & 1 \\ 0 & 2 \\ 1 & 3 \end{bmatrix}$$
 This matrix is *not* square. The number $3$ is in row 3, column 2. That is, $3$ is the $(3,2)$ element of this matrix. 
 
-Given an undirected [[Graph|graph]], we can represent it as 
+Given an undirected [[Graph|graph]], we can represent it as a matrix by creating a square matrix whose rows and columns are indexed by the [[Graph|vertices]] of the graph, and the $(i,j)$ entry is $1$ is vertex $i$ is [[Adjacent|adjacent]] to vertex $j$, 
 
 
 
