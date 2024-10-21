@@ -21,9 +21,9 @@ updated:
 
 ## Examples 
 
-Here is an example of a $2 \times 3$ matrix: 
-$$\begin{bmatrix} 1 & 1 \\ 0 & 2 \\ 
-
+Here is an example of a $3 \times 2$ matrix: 
+$$\begin{bmatrix} 1 & 1 \\ 0 & 2 \\ 1 & 3 \end{bmatrix}$$
+The number $3$ is in row 3, column 2. 
 
 
 
