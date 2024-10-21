@@ -29,7 +29,7 @@ $$\begin{bmatrix} 1 & 1 \\ 0 & 2 \\ 1 & 3 \end{bmatrix}$$
 This matrix is *not* square. The number $3$ is in row 3, column 2. That is, $3$ is the $(3,2)$ element of this matrix. 
 
 Given an undirected [[Graph|graph]], we can represent it as a matrix by creating a square matrix whose rows and columns are indexed by the [[Graph|vertices]] of the graph, and the $(i,j)$ entry is $1$ is vertex $i$ is [[Adjacent|adjacent]] to vertex $j$ and $0$ otherwise. This is known as the **adjacency matrix** for the graph. For example, given this graph: 
-
+![[small-graph.png|400]]
 
 
 
