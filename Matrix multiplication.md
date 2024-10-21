@@ -14,7 +14,9 @@ updated:
 > $$c_{ij} = a_{i1}b_{1j} + a_{i2}b_{2j} + \cdots + a_{ik}b_{kj}$$
 
 Notes: 
-* Using the language of vectors, the $(i,j)$-entry of $AB$ is the dot product of the $i$th column of $A$ with the $j$th column of $B$. 
+* Matrix multiplication is *not* simply multiplying the corresponding entries of the two matrices together. 
+* 
+* Using the language of vectors, the $(i,j)$-entry of $AB$ is the [dot product](https://www.mathsisfun.com/algebra/vectors-dot-product.html) of the $i$th column of $A$ with the $j$th column of $B$. 
 
 ## Examples and Non-Examples
 
