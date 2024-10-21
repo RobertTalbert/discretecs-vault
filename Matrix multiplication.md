@@ -23,6 +23,10 @@ updated:
 ## Examples 
 
 Let $A$ and $B$ be the following matrices: 
+$$A = \begin{bmatrix} 1 & 0 & 4 \\ 2 & 1 & 1 \\ 3 & 1 & 0 \\ 0 & 2 & 2 \end{bmatrix} \qquad 
+B = \begin{bmatrix} 2 & 4 \\ 1 & 1 \\ 3 & 0  \end{bmatrix}$$
+
+
 
 ## Resources 
 
