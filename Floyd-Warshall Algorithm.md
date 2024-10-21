@@ -45,7 +45,7 @@ At the point in the loops where $k = 2$, $i=0$, and $j=1$:
 These steps encode the idea that there is no edge from vertex 1 (which is represented by row 0) to vertex 2 (represented by row 1), but there is a "linking node" in vertex 3 (represented by row 2): this gives an edge from vertex 1 to vertex 3 and then an edge from 3 to 2. Therefore there is a path of length 2 from vertex 1 to vertex 2, so the edge $(1,2)$ should go in the transitive closure. 
 
 Continuing that process will result in the following matrix: 
-$$\begin{bmatrix} 0 & 1 & 1 & 1 \
+$$W = \begin{bmatrix} 0 & 1 & 1 & 1 \\ 0 & 0 & 0 & 0 \\ 1 & 1 & 0 & 1 \\ 1 & 1 & 1 & 0 \end{bmatrix}$$
 
 ## Resources 
 
