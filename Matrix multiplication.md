@@ -47,8 +47,7 @@ $$\begin{bmatrix} (0)(0) + (1)(1) + (1)(1) & (0)(1)+(1)(0)+(1)(1) & (0)(1)+(1)(0
 = \begin{bmatrix} 2 & 1 & 1 \\ 0 & 1 & 1 \\ 2 & 2 & 2 \end{bmatrix} $$
 Likewise, 
 $$A^3 = A \cdot A^2 = \begin{bmatrix} 0 & 1 & 1 \\ 1 & 0 & 0 \\ 1 & 1 & 1 \end{bmatrix} \begin{bmatrix} 2 & 1 & 1 \\ 0 & 1 & 1 \\ 2 & 2 & 2 \end{bmatrix} = 
-\begin{bmatrix} 2 & 3 & 3 \\ 2 & 1 & 1 \ 4 & 4 &
-
+\begin{bmatrix} 2 & 3 & 3 \\ 2 & 1 & 1 \\ 4 & 4 & 4 \end{bmatrix}$$
 
 ## Resources 
 
