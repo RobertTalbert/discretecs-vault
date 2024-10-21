@@ -10,10 +10,11 @@ updated:
 ## Definition 
 
 > [!tldr] Definition
-> Let $$A$$ be an $m \times k$ [[Matrix|matrix]] (that is, a matrix with $m$ rows and $k$ columns) and let $B$ be a $k \times n$ matrix ($k$ rows, $n$ columns). Then the **product** of $A$ and $B$, denoted by $AB$, is the $m \times n$ matrix whose $(i,j)$-entry is the sum of the products of the elements in the $i$th row of $A$ and the $j$th column of $B$. That is, if $c_{ij}$ is the $(i,j)$-entry then 
-> $$c_{ij} = a_{i1}b{1j} + a_{i2}b{2j} + \cdots + a_{ik}b{}
+> Let $A$ be an $m \times k$ [[Matrix|matrix]] (that is, a matrix with $m$ rows and $k$ columns) and let $B$ be a $k \times n$ matrix ($k$ rows, $n$ columns). Then the **product** of $A$ and $B$, denoted by $AB$, is the $m \times n$ matrix whose $(i,j)$-entry is the sum of the products of the elements in the $i$th row of $A$ and the $j$th column of $B$. That is, if $c_{ij}$ is the $(i,j)$-entry then 
+> $$c_{ij} = a_{i1}b_{1j} + a_{i2}b_{2j} + \cdots + a_{ik}b_{kj}$$
 
-(blurb)
+Notes: 
+* Using the language of vectors, the $(i,j)$-entry of $AB$ is the dot product of the $i$th column of $A$ with the $j$th column of $B$. 
 
 ## Examples and Non-Examples
 
