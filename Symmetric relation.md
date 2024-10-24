@@ -18,7 +18,7 @@ Notes:
 
 ## Examples and Non-Examples
 
-
+* Let $\sim$ be the "rhymes with" relation on the set of all English words, so $w \sim v$ if word $w$ rhymes with word $v$. If word $w$ rhymes with word $v$ (example: "book" rhymes with "nook") then $v$ also rhymes with $w$ ("nook" rhymes with "book") so this relation 
 
 
 ## Resources 
