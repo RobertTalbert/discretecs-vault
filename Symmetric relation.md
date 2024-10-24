@@ -18,7 +18,8 @@ Notes:
 
 ## Examples and Non-Examples
 
-* Let $\sim$ be the "rhymes with" relation on the set of all English words, so $w \sim v$ if word $w$ rhymes with word $v$. If word $w$ rhymes with word $v$ (example: "book" rhymes with "nook") then $v$ also rhymes with $w$ ("nook" rhymes with "book") so this relation 
+* Let $\sim$ be the "rhymes with" relation on the set of all English words, so $w \sim v$ if word $w$ rhymes with word $v$. If word $w$ rhymes with word $v$ (example: "book" rhymes with "nook") then $v$ also rhymes with $w$ ("nook" rhymes with "book") so this relation is symmetric. 
+* Define a relation $\sim$ on the set $X = \{1,2,3,4,5,6\}$ using the following rule: $a \sim b$ [[Biconditional statement|if and only if]] $a$ [[Divisibility|divides]] $b$ (that is, $b$ is a multiple of $a$). This relation is *not* symmetric: For example $2 \sim 6$ because $2$ divides $6$, but $6$ does not divide $2$ so $6 \not \sim 2
 
 
 ## Resources 
