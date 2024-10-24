@@ -19,8 +19,8 @@ updated:
 
 ## Examples
 
-* Let $\sim$ be the "rhymes with" relation on the set of all English words, so $w \sim v$ if word $w$ rhymes with word $v$. If word $u$ rhymes with word $v$ (example: "book" rhymes with "nook")  and word $w$ rhymes with word $v$ ("nook" rhymes with "look") then $u$ rhymes with $
-* Define a relation $\sim$ on the set $\mathbb{Z}$ of all [[Integers|integers]] by declaring $a \sim b$ if $|b-a| \leq 3$. So for example, $10 \sim 12$ because $|12 - 10| \leq 3$. Now if $a \sim b$ this means $|b -a| \leq 3$. If this is the case then $|a-b| \leq 3$ as well, because $|b-a| = |a-b|$. Therefore if $a \sim b$, it is also true that $b \sim a$. So this relation is symmetric. 
+* Let $\sim$ be the "rhymes with" relation on the set of all English words, so $w \sim v$ if word $w$ rhymes with word $v$. If word $u$ rhymes with word $v$ (example: "book" rhymes with "nook")  and word $w$ rhymes with word $v$ ("nook" rhymes with "look") then $u$ rhymes with $w$ ("book" rhymes with "look"). So this relation is transitive. 
+* Define a relation $\sim$ on the set $\mathbb{Z}$ of all [[Integers|integers]] by declaring $a \sim b$ if $|b-a| \leq 3$. So for example, $10 \sim 12$ because $|12 - 10| \leq 3$. This relation is *not* transitive: We saw that $10 \sim 12$, and similarly $12 \sim 14$ because $|14-10| \leq 3$. But $10 \not \sim 14$ 
 
 
 ## Resources 
