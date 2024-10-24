@@ -16,7 +16,7 @@ aliases:
 > A [[Relation|relation]] $R$ on a set $X$ is said to be **antisymmetric** if, for any $a,b \in X$, if $(a,b) \in R$ and $(b,a) \in R$, then $a=b$. 
 
 **Notes**: 
-* Alternative: If $(a,b) \in R$ and $a \neq b$, then $
+* In other words a relation is antisymmetric if no 
 
 ## Examples
 
