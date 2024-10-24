@@ -5,7 +5,7 @@ aliases:
 tags:
   - digraphs-relations
 created: 2024-09-23
-updated:
+updated: 2024-10-24
 ---
 ---
 ## Definition 
