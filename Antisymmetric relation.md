@@ -16,8 +16,7 @@ aliases:
 > A [[Relation|relation]] $R$ on a set $X$ is said to be **antisymmetric** if, for any $a,b \in X$, if $(a,b) \in R$ and $(b,a) \in R$, then $a=b$. 
 
 **Notes**: 
-* A relation *fails* to be transitive if there are pairs $(a,b)$ and $(b,c)$ in $R$, but $(a,c) \not \in R$. 
-* If we view the relation $R$ as a [[Directed graph|directed graph]], then the relation is transitive if it is already equal to its [[Transitive closure|transitive closure]]. 
+* Alternative: If $(a,b) \in R$ and $a \neq b$, then $
 
 ## Examples
 
