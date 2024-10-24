@@ -13,9 +13,13 @@ updated:
 > A [[Relation|relation]] $R$ on a set $X$ is said to be **symmetric** if, for any $a,b \in X$, if $(a,b) \in R$ then $(b,a) \in R$. 
 
 Notes: 
-- A relation *fails* to be symmetric if there is a pair $(a,b) \in R$ such that $(b,a)
+- A relation *fails* to be symmetric if there is a pair $(a,b) \in R$ such that $(b,a) \not \in R$. 
+- If we view the relation $R$ as a [[Directed graph|directed graph]], the relation is symmetric if every directed edge has a directed edge pointing in the opposite direction. 
 
 ## Examples and Non-Examples
+
+
+
 
 ## Resources 
 
