@@ -27,5 +27,5 @@ aliases:
 
 ## Resources 
 
-![](https://www.youtube.com/watch?v=-IdDcwEGKbc)
+![](https://www.youtube.com/watch?v=voqrhhVKj-A)
 
