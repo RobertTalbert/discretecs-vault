@@ -10,9 +10,10 @@ updated:
 ## Definition 
 
 > [!tldr] Definition
-> Contents
+> A [[Relation|relation]] $R$ on a set $X$ is said to be **symmetric** if, for any $a,b \in X$, if $(a,b) \in R$ then $(b,a) \in R$. 
 
-(blurb)
+Notes: 
+- In other wo
 
 ## Examples and Non-Examples
 
