@@ -1,9 +1,19 @@
+---
+tags:
+  - digraphs-relations
+created: 2024-10-24
+updated: 
+aliases:
+  - antisymmetric
+  - antisymmetric relation
+  - antisymmetry
+---
 
 ---
 ## Definition 
 
 > [!tldr] Definition
-> A [[Relation|relation]] $R$ on a set $X$ is said to be **antisymmetric** if, for any $a,b \in X$, if $(a,b) \in R$ and $(b)
+> A [[Relation|relation]] $R$ on a set $X$ is said to be **antisymmetric** if, for any $a,b \in X$, if $(a,b) \in R$ and $(b,a) \in R$, then $a=b$. 
 
 **Notes**: 
 * A relation *fails* to be transitive if there are pairs $(a,b)$ and $(b,c)$ in $R$, but $(a,c) \not \in R$. 
