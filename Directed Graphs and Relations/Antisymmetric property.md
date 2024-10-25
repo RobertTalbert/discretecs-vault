@@ -2,7 +2,7 @@
 tags:
   - digraphs-relations
 created: 2024-10-24
-updated: 
+updated: 2024-10-25
 aliases:
   - antisymmetric
   - antisymmetric relation
@@ -13,7 +13,7 @@ aliases:
 ## Definition 
 
 > [!tldr] Definition
-> A [[Relation|relation]] $R$ on a set $X$ is said to be **antisymmetric** if, for any $a,b \in X$, if $(a,b) \in R$ and $(b,a) \in R$, then $a=b$. 
+> A [[Relation|relation]] $R$ on a set $X$ is said to be **antisymmetric** (or, "has the antisymmetric property") if, for any $a,b \in X$, if $(a,b) \in R$ and $(b,a) \in R$, then $a=b$. 
 
 **Notes**: 
 * In other words a relation is antisymmetric if there is no pair of _distinct_ elements of $X$ in a two-directional relationship with each other. 

@@ -11,7 +11,7 @@ updated: 2024-10-24
 ## Definition 
 
 > [!tldr] Definition
-> A [[Relation|relation]] $R$ on a set $X$ is said to be **reflexive** if $(a,a) \in R$ for all $a \in X$. 
+> A [[Relation|relation]] $R$ on a set $X$ is said to be **reflexive** (or, "has the reflexive property") if $(a,a) \in R$ for all $a \in X$. 
 
 Notes: 
 - In other words a relation is reflexive if every element of the ground set $X$ is related to itself. 
