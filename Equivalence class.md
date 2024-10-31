@@ -19,9 +19,9 @@ Notes:
 - Two equivalence classes must be either [[Intersection|disjoint]] or equal. That is, given $a,b \in X$, either $[a] \cap [b] = \emptyset$ or $[a] = [b]$. 
 - Given an [[Equivalence relation|equivalence relation]] on $X$, the collection of equivalence classes forms a partition of $X$, that is, the equivalence classes are mutually [[Intersection|disjoint]] and their [[Union|union]] makes up the entire set $X$. Conversely, any partition of a set defines an [[Equivalence relation|equivalence relation]] by declaring $x \sim y$ if $x$ and $y$ belong to the same set in the partition. 
 
-## Examples and Non-Examples
+## Examples 
 
-Let $\sim$ be the "rhymes with" relation on the set of all English words, so $w \sim v$ if word $w$ rhymes with word $v$. This relation is [[Reflexive property|reflexive]] (every word rhymes with itself), [[Symmetric property|symmetric]] (if word 1 rhymes with word 2, then word 2 rhymes with word 1) and [[Transitive property|transitive]] (if word 1 rhymes with word 2 and word 2 rhymes with word 3 then word 1 rhymes with word 3). So it is an equivalence relation. 
+- Let $\sim$ be the relation on the set $\{0, 1, 2, \dots, 99\}$, such that $a \sim b$ if $a \, \% \, 10 = b \, \% \, 10$ where $\%$ is the [[The modulus operator|modulus operator]]. Then $[14] = \{4, 14, 24, 34, 44, 54, 64, 74, 84, 94\}$. 
 
 ## Resources 
 
