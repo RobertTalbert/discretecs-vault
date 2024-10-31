@@ -15,7 +15,8 @@ updated:
 
 Notes: 
 - Since an [[Equivalence relation|equivalence relation]] is [[Symmetric property|symmetric]], we can replace $a \sim x$ in the definition with $x \sim a$. 
-- The equivalence class of an element $a$ is alw
+- The equivalence class of an element $a$ is always nonempty, since $a \in [a]$ due to equivalence relations being [[Reflexive property|reflexive]]. 
+- Given an [[Equivalence relation|equivalence relation]] on $X$, the collection of equivalence classes forms a partition of $X$, that is: 
 
 ## Examples and Non-Examples
 
