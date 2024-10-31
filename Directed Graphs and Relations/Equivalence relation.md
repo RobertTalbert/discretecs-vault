@@ -10,9 +10,10 @@ updated:
 ## Definition 
 
 > [!tldr] Definition
-> An **equivalence relation** is a [[relation]] that is [[Reflexive property|reflexive]], [[Symmetric property|symmetric]], and []
+> An **equivalence relation** is a [[relation]] that is [[Reflexive property|reflexive]], [[Symmetric property|symmetric]], and [[Transitive property|transitive]]. 
 
-(blurb)
+Notes: 
+- The three properties required for an equivalence relation are the essential properties of mathematical relations that are si
 
 ## Examples and Non-Examples
 
