@@ -22,7 +22,7 @@ Notes:
 ## Examples 
 
 - Let $\sim$ be the relation on the set $\{0, 1, 2, \dots, 99\}$, such that $a \sim b$ if $a \, \% \, 10 = b \, \% \, 10$ where $\%$ is the [[The modulus operator|modulus operator]]. Then $[14] = \{4, 14, 24, 34, 44, 54, 64, 74, 84, 94\}$. And, $[0] = \{0, 10, 20, 30, 40, 50, 60, 70, 80, 90\}$. 
-- Let $\sim$ be the relation on the set of all US cities with populations over 1,000,000 people such that $c_1 \sim c_2$ if $c_1$ and $c_2$ are in the same US state. 
+- Let $\sim$ be the relation on the set of all US cities with populations over 500,000 people such that $c_1 \sim c_2$ if $c_1$ and $c_2$ are in the same US state. Then $[\text{Los Angeles}] = \{\text{Los Angeles, San Diego, }}
 
 ## Resources 
 
