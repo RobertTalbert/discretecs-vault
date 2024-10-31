@@ -21,8 +21,7 @@ Notes:
 - Let $\sim$ be the relation on the set $\mathbb{Z}$ of all integers, such that $a \sim b$ if $a \, \% \, 10 = b \, \% \, 10$ where $\%$ is the [[The modulus operator|modulus operator]]. This is an equivalence relation. 
 - Let $\sim$ be the relation on the set $\mathbb{Z}$ of all integers, such that $a \sim b$ if $a < b$. While this relation is [[Transitive property|transitive]], it is **not** an equivalence relation because it is not [[Reflexive property|reflexive]]: For example $1 \not < 1$. 
 - Let $\sim$ be the relation on the set $\mathbb{Z}$ of all integers, such that $a \sim b$ if $a \leq b$. While this relation is [[Reflexive property|reflexive]] and [[Transitive property|transitive]], it is **not** an equivalence relation because it is not [[Symmetric property|symmetric]]: For example $1 \leq 2$ but $2 \not \leq 1$. 
-- Let $\sim$ be the relation on the set $\mathbb{Z}$ of all integers, such that $a \sim b$ if $|a - b| \leq 5$. While this relation is [[Reflexive property|reflexive]] and [[Symmetric property|symmetric]], it is **not** an equivalence relation because it is not transitive**: For exampl
-
+- Let $\sim$ be the relation on the set $\mathbb{Z}$ of all integers, such that $a \sim b$ if $|a - b| \leq 5$. While this relation is [[Reflexive property|reflexive]] and [[Symmetric property|symmetric]], it is **not** an equivalence relation because it is not [[Transitive property|transitive]]: For example $1 \sim 4$ since $|1-4| \leq 5$ and $4 \sim 7$ since $|4-7| \leq 5$, but $1 \not \sim 7$ because $|1-7| > 5$. 
 
 ## Resources 
 
