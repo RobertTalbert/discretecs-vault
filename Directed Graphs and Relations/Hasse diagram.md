@@ -2,7 +2,7 @@
 aliases: 
 tags:
   - digraphs-relations
-created: 
+created: 2024-11-03
 updated:
 ---
 ---
@@ -37,4 +37,4 @@ The finished product looks like this:
 
 ![](https://www.youtube.com/watch?v=i8XeVATqeag)
 
-## Practice 
+![](https://www.youtube.com/watch?v=ITv_74xUBdk)
