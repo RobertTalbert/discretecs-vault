@@ -15,10 +15,13 @@ updated:
 > 2. The vertices for $a$ and $b$ are joined by a line segment (not an arrow) if $a \sim b$ and if there is no $c$ with $a \sim c$ and $c \sim b$. That is, we ignore "transitive edges".  
 
 
-Notes: 
-- The Hasse diagram for a poset captures all the information that a [[Directed graph|digraph]] would, but it uses (1) the visual "vertical" arrangement of ve
+**Notes**: 
+- The Hasse diagram for a poset captures all the information that a [[Directed graph|digraph]] would, but it uses (1) the visual "vertical" arrangement of vertices to imply the direction of arrows, and (2) uses the [[Transitive property|transitive]] property of the partial ordering to remove edges from the picture. 
 
-## Examples and Non-Examples
+## Examples 
+
+
+
 
 ## Resources 
 
