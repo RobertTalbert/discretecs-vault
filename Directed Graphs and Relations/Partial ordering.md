@@ -23,7 +23,8 @@ Notes:
 ## Examples and Non-Examples
 
 - The "less than or equal to" relation ($\leq$) on $\mathbb{Z}$, the set of all integers, is a partial ordering. 
-- On the set $\{1,2,3,\dots\}$ of positive integers, the "divides" relation (where $a \sim b$ if and only if $a$ [[Divisibility|divides]] $b$. )
+- On the set $\{1,2,3,\dots\}$ of positive integers, the "divides" relation (where $a \sim b$ if and only if $a$ [[Divisibility|divides]] $b$) is a partial ordering. 
+- Given any set $W$ of words in a language, consider the relation where $w_1 \sim w_2$ if and only if $w_1$ 
 
 ## Resources 
 
