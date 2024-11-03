@@ -18,9 +18,11 @@ updated:
 
 Notes: 
 - A partial ordering mimics the "less than or equal to" relation on the set of [[Integers|integers]] (or any set of numbers). That relation, $\leq$, has the three properties given in the definition. 
-- Because of this similarity with $\leq$, a partially ordered set can be sorted. 
+- Because of this similarity with $\leq$, a partially ordered set can be [sorted](https://en.wikipedia.org/wiki/Sorting_algorithm). This makes posets of particular interest in computer science. 
 
 ## Examples and Non-Examples
+
+- The "less than or equal to" relation ($\leq$) on $\mathbb{Z}$, the set of all integers, is a partial ordering
 
 ## Resources 
 
