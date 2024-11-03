@@ -26,9 +26,4 @@ Notes:
 
 ## Resources 
 
-(video)
-
-Other resources: 
-- 
-
-## Practice 
+![](https://www.youtube.com/watch?v=-C6Rnk0W2lE)
