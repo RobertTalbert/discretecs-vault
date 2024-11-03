@@ -26,7 +26,7 @@ updated:
 ![[hass-diagram-1.png|500]]
 The Hasse diagram would 
 * Remove all the self-loops
-* Remove any edges that are implied by the transitive property -- For example the edge pointing directly from 3 to 12 would be removed because it would be implied by the edge from 3 to 6 and the edge from 6 to 12. 
+* Remove any edges that are implied by the transitive property. For example the edge pointing directly from 3 to 12 would not be drawn, because it would be implied by the edge from 3 to 6 and the edge from 6 to 12. 
 * Rearrange the vertices so that 1 is at the bottom, 12 is at the top, and the others are arranged by ordering. 
 
 The finished product looks like this: 
@@ -35,9 +35,6 @@ The finished product looks like this:
 ![[hasse-diagram-3.png]]
 ## Resources 
 
-(video)
-
-Other resources: 
-- 
+![](https://www.youtube.com/watch?v=i8XeVATqeag)
 
 ## Practice 
