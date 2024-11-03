@@ -17,7 +17,8 @@ updated:
 > A **partial ordering** on a [[Set|set]] $X$ is a [[Relation|relation]] on $X$ that is [[Reflexive property|reflexive]], [[Antisymmetric property|antisymmetric]], and [[Transitive property|transitive]]. A set that has a partial ordering is called a **partially ordered set** or *poset*. 
 
 Notes: 
-- A partial ordering mimics the "less than or equal to" relation on the set of [[Integers|integers]] (or any set of numbers), Th
+- A partial ordering mimics the "less than or equal to" relation on the set of [[Integers|integers]] (or any set of numbers). That relation, $\leq$, has the three properties given in the definition. 
+- 
 
 ## Examples and Non-Examples
 
