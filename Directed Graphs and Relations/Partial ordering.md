@@ -22,7 +22,8 @@ Notes:
 
 ## Examples and Non-Examples
 
-- The "less than or equal to" relation ($\leq$) on $\mathbb{Z}$, the set of all integers, is a partial ordering
+- The "less than or equal to" relation ($\leq$) on $\mathbb{Z}$, the set of all integers, is a partial ordering. 
+- On the set $\{1,2,3,\dots\}$ of positive integers, the "divides" relation (where $a \sim b$ if and only if $a$ [[Divisibility|divides]] $b$. )
 
 ## Resources 
 
