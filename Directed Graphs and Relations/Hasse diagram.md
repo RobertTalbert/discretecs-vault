@@ -24,7 +24,10 @@ updated:
 * Let $X = \{1, 2, 3, 4, 6, 12\}$ with the [[Divisibility|divides]] partial ordering (that is, $a \sim b$ if and only if $a$ divides $b$). The ordinary directed graph for this relation looks like this: 
 
 ![[hass-diagram-1.png|500]]
-The Hasse diagram would remove all the self-loops, remove any edges that result from the
+The Hasse diagram would 
+* Remove all the self-loops
+* Remove any edges that are implied by the transitive property -- For example the edge pointing directly from 3 to 12 would be removed because it would be implied by the edge from 3 to 6 and the edge from 6 to 12. 
+* Rearrange the
 
 
 ## Resources 
