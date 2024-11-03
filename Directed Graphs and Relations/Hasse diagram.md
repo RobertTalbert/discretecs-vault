@@ -22,7 +22,7 @@ updated:
 
 * Let $X = \{1, 2, 3, 4, 6, 12\}$ with the [[Divisibility|divides]] partial ordering (that is, $a \sim b$ if and only if $a$ divides $b$). The ordinary directed graph for this relation looks like this: 
 
-
+![[hass-diagram-1.png|500]]
 ## Resources 
 
 (video)
