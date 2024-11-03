@@ -31,7 +31,8 @@ The Hasse diagram would
 
 The finished product looks like this: 
 ![[hasse-diagram-2.png]]
-* Let $A = \{a,b,c\}$ and consider the poset $X = {\cal{P}}(A)$ with the $\subseteq$ ordering. The elements of the ground set are the eight subsets of $X$: $\emptyset$, $\{a\}$, $\{b\}$, $\{c\}$, $\{a,b\}$, $\{a,c\}$, $\{b,c\}$, $\{a,b,c\}$. Given two elements $S$ and $T$, $S \sim T$ if $S \subseteq T$. So for example $\{a\} \sim \{a,b\}$ and $\{a,b\} \sim \{a,b,c\}$. Especially note that $\emptyset$ is related to eve
+* Let $A = \{a,b,c\}$ and consider the poset $X = {\cal{P}}(A)$ with the $\subseteq$ ordering. The elements of the ground set are the eight subsets of $X$: $\emptyset$, $\{a\}$, $\{b\}$, $\{c\}$, $\{a,b\}$, $\{a,c\}$, $\{b,c\}$, $\{a,b,c\}$. Given two elements $S$ and $T$, $S \sim T$ if $S \subseteq T$. So for example $\{a\} \sim \{a,b\}$ and $\{a,b\} \sim \{a,b,c\}$. Especially note that $\emptyset$ is related to every other element in the set. The Hasse diagram for this poset is: 
+![[hasse-diagram-3.png]]
 ## Resources 
 
 (video)
