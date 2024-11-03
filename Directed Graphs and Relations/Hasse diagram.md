@@ -31,7 +31,7 @@ The Hasse diagram would
 
 The finished product looks like this: 
 ![[hasse-diagram-2.png]]
-* Let $A = \{1,2,3\}$ and consider the poset $X = {\cal{P}}(A)$ with the $\subseteq$ ordering. The elements of the ground set are the subsets of $X$: $\emptyset$, $\{1\}$, $\{2}
+* Let $A = \{a,b,c\}$ and consider the poset $X = {\cal{P}}(A)$ with the $\subseteq$ ordering. The elements of the ground set are the eight subsets of $X$: $\emptyset$, $\{a\}$, $\{b\}$, $\{c\}$, $\{a,b\}$, $\{a,c\}$, $\{b,c\}$, $\{a,b,c\}$. Given two elements $S$ and $T$, $S \sim 
 ## Resources 
 
 (video)
