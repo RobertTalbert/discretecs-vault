@@ -31,9 +31,6 @@ Notes:
 
 ## Resources 
 
-(video)
+![](https://www.youtube.com/watch?v=XJQqDDTNvJA)
 
-Other resources: 
-- 
 
-## Practice 
