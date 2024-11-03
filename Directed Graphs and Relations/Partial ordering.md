@@ -24,7 +24,8 @@ Notes:
 
 - The "less than or equal to" relation ($\leq$) on $\mathbb{Z}$, the set of all integers, is a partial ordering. 
 - On the set $\{1,2,3,\dots\}$ of positive integers, the "divides" relation (where $a \sim b$ if and only if $a$ [[Divisibility|divides]] $b$) is a partial ordering. 
-- Given any set $W$ of words in a language, consider the relation where $w_1 \sim w_2$ if and only if $w_1$ comes before $w_2$ in alphabetical order. (For example $\text{car} \sim \text{cat}$ in the set of all English words). This relation is a partial or
+- Given any set $W$ of words in a language, consider the relation where $w_1 \sim w_2$ if and only if $w_1$ comes before $w_2$ in alphabetical order. (For example $\text{car} \sim \text{cat}$ in the set of all English words). This relation is a partial ordering. 
+- Given any set $W$ of words in a language, the relation where $w_1 \sim w_2$ if and only if $w_1$ rhymes with $w_2$ is *not* a partial ordering (although it is an [[Equivalence relation|equivalence relation]]) because the relation is not an
 
 ## Resources 
 
