@@ -9,7 +9,7 @@ updated:
 ## Definition 
 
 > [!tldr] Definition
-> Contents
+> Let $X$ be a [[Partial ordering|partially ordered set]] with [[Partial ordering|partial ordering]] $\sim$. The **Hasse 
 
 (blurb)
 
