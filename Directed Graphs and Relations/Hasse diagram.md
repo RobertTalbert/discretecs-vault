@@ -45,7 +45,7 @@ The finished product looks like this:
 **Code for generating the directed graph above in Python:**
 
 ```python
-# Python/networkX code for generating the direct graph above
+# Python/networkX code for generating the directed graph above
 
 import networkx as nx
 import matplotlib.pyplot as plt
