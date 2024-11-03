@@ -20,7 +20,7 @@ updated:
 
 ## Examples 
 
-
+* Let $X = \{1, 2, 3, 4, 6, 12\}$ with the [[Divisibility|divides]] partial ordering (that is, $a \)
 
 
 ## Resources 
