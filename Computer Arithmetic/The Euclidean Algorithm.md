@@ -28,7 +28,8 @@ updated:
 - The Euclidean Algorithm is [[Recursion|recursive]]: It computes a number by running itself on smaller inputs. 
 - In Python, the Euclidean Algorithm can be implemented as follows:
 ```python
-
+def euclidean_algorithm(a,b):
+	while b !
 ```
 
 
