@@ -1,6 +1,8 @@
 ---
 aliases:
-  - Euclidean algorithm
+  - GCD
+  - gcd
+  - greatest common divisor
 tags:
   - computer-arithmetic
 created: 2025-01-03
@@ -10,7 +12,7 @@ updated:
 ## Definition 
 
 > [!tldr] Definition
-> The **Euclidean Algorithm** is a process that uses the [[The division algorithm|Division Algorithm]] repeatedly to find the great
+> The **greatest common divisor** 
 
 (blurb)
 
