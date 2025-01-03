@@ -12,9 +12,10 @@ updated:
 ## Definition 
 
 > [!tldr] Definition
-> The **greatest common divisor** 
+> The **greatest common divisor** or **GCD** of two [[Integers|integers]], which are not both zero, is the largest positive [[Integers|integer]] that [[Divisibility|divides]] both of them. 
 
-(blurb)
+Notes: 
+- The 
 
 ## Examples and Non-Examples
 
