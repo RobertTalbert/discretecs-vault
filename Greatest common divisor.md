@@ -45,9 +45,4 @@ gcd(10,14)
 
 ## Resources 
 
-(video)
-
-Other resources: 
-- 
-
-## Practice 
+![](https://www.youtube.com/watch?v=jFd-6EPfnec)
