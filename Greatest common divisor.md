@@ -16,8 +16,8 @@ updated:
 
 Notes: 
 - The greatest common divisor of $a$ and $b$ is denoted $\gcd(a,b)$. 
-- The GCD is sometimes called the *greatest common factor* or GCF. \
-- 
+- The GCD is sometimes called the *greatest common factor* or GCF. 
+- In Python, the GCD is available as a function in the `math` module. Here is an example of use: 
 
 ## Examples 
 
