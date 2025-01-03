@@ -19,6 +19,14 @@ updated:
 - The GCD is sometimes called the *greatest common factor* or GCF. 
 - In Python, the GCD is available as a function in the `math` module. Here is an example of use: 
 
+```python
+from math import gcd
+gcd(10,14)
+
+> 2
+```
+
+- The [[The Euclidean Algorithm|Euclidean algorithm]] 
 ## Examples 
 
 | $a$ | $b$ | $\gcd(a,b)$ |
