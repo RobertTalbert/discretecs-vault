@@ -16,7 +16,7 @@ updated:
 Notes: 
 - If $b$ divides $a$, we can also say that $a$ is a multiple of $b$. 
 - Note that the notation $a|b$ is not the fraction $a/b$ or $b/a$. The vertical bar is not a fraction bar, but shorthand for a statement about the relationship between $a$ and $b$. 
-- Divisibility is a special case of the [[The division algorithm|Division Algorithm]] in which there is no remainder. That is, if $a$ and $b$ are integers, the Division Algorithm states that there must be integers $q$ and $r$ with $0 \leq r < b$ such that $a = bq + r$. If $r = 0$ in this case, then $b | a$. 
+- Divisibility is a special case of the [[Division algorithm|Division Algorithm]] in which there is no remainder. That is, if $a$ and $b$ are integers, the Division Algorithm states that there must be integers $q$ and $r$ with $0 \leq r < b$ such that $a = bq + r$. If $r = 0$ in this case, then $b | a$. 
 - If an integer $b$ *does not* divide the integer $a$, then we indicate this by putting a slash through the vertical bar: $b \nmid a$.  
 
 ## Examples and Non-Examples

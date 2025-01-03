@@ -25,7 +25,7 @@ We can represent predicates in Python using functions that return only Boolean v
 def P(n): 
 	return n % 10 == 0
 ```
-(The `%` symbol is the [[The modulus operator|modulus operator]] in Python.)
+(The `%` symbol is the [[Modulus operator|modulus operator]] in Python.)
 
 ## Resources 
 

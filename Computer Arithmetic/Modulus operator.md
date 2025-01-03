@@ -7,11 +7,11 @@ aliases: [modulus, modulus operator, mod]
 ## Definition 
 
 > [!tldr] Definition
-> The **modulus operator** `%` when applied to two integers $a$ and $b$, returns the unique value of the remainder $r$ given by the [[The division algorithm|Division Algorithm]] when dividing $a$ by $b$. 
+> The **modulus operator** `%` when applied to two integers $a$ and $b$, returns the unique value of the remainder $r$ given by the [[Division algorithm|Division Algorithm]] when dividing $a$ by $b$. 
 
 Notes:
 - The symbol `%` is used in Python and many other languages to implement the modulus operator. 
-- According to the [[The division algorithm|Division Algorithm]], the result of `a % b` is always strictly less than $b$. 
+- According to the [[Division algorithm|Division Algorithm]], the result of `a % b` is always strictly less than $b$. 
 - If $b = 0$ then `a % b` is undefined (and will throw an error in Python). 
 - `a % b` can be found if $a$ is negative as well; see below for the procedure. 
 - You can find `a % b` using just a Google search page. For example open up a Chrome browser tab and enter `100 % 8` in the URL field and see what happens. 

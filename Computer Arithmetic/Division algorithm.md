@@ -1,8 +1,11 @@
 ---
-aliases: [Division Algorithm]
---- 
-
-#computer-arithmetic 
+tags:
+  - computer-arithmetic
+aliases:
+  - The Division Algorithm
+  - division algorithm
+---
+---
 
 ## Definition 
 
@@ -16,7 +19,7 @@ Notes:
 - As stated above, the Division Algorithm gives the quotient and remainder when dividing $a$ by $b$ (that is, $a \div b$). 
 - The final requirement in the Division Algorithm statement, asserts that the remainder in the integer division process has to be strictly smaller than the divisor. This has important implications in computer algorithms involving division. 
 - The actual process of finding the quotient and remainder is embodied in [long division](https://www.mathsisfun.com/long_division.html), which we learned in grade school. 
-- In Python, the quotient when dividing $a$ by $b$ is computed using the operator `//` for [[integer division]]. The remainder when dividing $a$ by $b$ is computed using the operator `%` which is the [[The modulus operator|modulus operator]]. 
+- In Python, the quotient when dividing $a$ by $b$ is computed using the operator `//` for [[integer division]]. The remainder when dividing $a$ by $b$ is computed using the operator `%` which is the [[Modulus operator|modulus operator]]. 
 
 ## Examples and Non-Examples
 
