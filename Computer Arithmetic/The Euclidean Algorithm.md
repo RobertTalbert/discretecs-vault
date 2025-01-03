@@ -45,9 +45,11 @@ Let's use the Euclidean Algorithm to find $\gcd(500,336)$. Here we will set $a =
 5. Divide again to get $164 = (8)(20) + 4$. That is, the remainder is $r = 4$. 
 6. Reassign variables to set $a = 8$ and $b = 4$. These are not zero, so continue. 
 7. Divide again to get $8 = (4)(2) + 0$. This time the remainder is $0$. 
-8. Reassign variables to set $a = 4$ and $b=0$. Since one of these is zero, the algorithm stops, and returns the absolute value of the other one: 
+8. Reassign variables to set $a = 4$ and $b=0$. Since one of these is zero, the algorithm stops, and returns the absolute value of the other one: $\gcd(500,336) = 4$. 
 
+Summarized in a table, this looks like: 
 
+| Step 
 
 ## Resources 
 
