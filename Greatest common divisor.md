@@ -26,12 +26,14 @@ gcd(10,14)
 > 2
 ```
 
-- The [[The Euclidean Algorithm|Euclidean algorithm]] 
+- The [[The Euclidean Algorithm|Euclidean algorithm]] can be used to compute the GCD and is usually the mathematical foundation for GCD functions in programming languages. 
 ## Examples 
 
 | $a$ | $b$ | $\gcd(a,b)$ |
 | --- | --- | ----------- |
-|     |     |             |
+| 3   | 15  | 3           |
+| 3   | 10  | 1           |
+| 2   |     |             |
  
 
 ## Resources 
