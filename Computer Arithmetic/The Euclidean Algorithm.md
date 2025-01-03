@@ -24,8 +24,12 @@ updated:
 > Eventually the remainder $r$ will become zero, at which point one of the first two steps will activate and the algorithm will stop. 
 
 
-Notes: 
-- The Euclidean Algorithm is [[Recursion|recursive]]: It computes a number using 
+**Notes**: 
+- The Euclidean Algorithm is [[Recursion|recursive]]: It computes a number by running itself on smaller inputs. 
+- In Python, the Euclidean Algorithm can be implemented as follows:
+```python
+
+```
 
 
 ## Examples and Non-Examples
