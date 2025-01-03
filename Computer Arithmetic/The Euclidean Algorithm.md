@@ -61,10 +61,9 @@ Summarized in a table, this looks like:
 
 ![](https://www.youtube.com/watch?v=JUzYl1TYMcU)
 
-Although 
+Although he misspelled "Euclidean" 😢
 
-
-Other resources: 
-- 
+**Other resources:** 
+- [Calculator that uses the Euclidean Algorithm and shows the steps](https://www.calculatorsoup.com/calculators/math/gcf-euclids-algorithm.php) 
 
 ## Practice 
