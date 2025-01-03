@@ -14,8 +14,11 @@ updated:
 > 
 > The algorithm generally runs as follows: We start with two integers $a$ and $b$, at least one of which is nonzero. 
 > 
-> - If $a = 0$, then return $\gcd(a,b) = b$ as the result because $\gcd(0,b) = b$ as long as $b$ is nonzero. 
-> - If $b = 0$, then return $\gcd(a,b) = a$ as the result because $\gcd(a,b) = b$ as long as $b$ is nonzero. 
+> - If $a = 0$, then return $\gcd(a,b) = b$ as the result and stop, because $\gcd(0,b) = b$ as long as $b$ is nonzero. 
+> - If $b = 0$, then return $\gcd(a,b) = a$ as the result and stop, because $\gcd(a,0) = a$ as long as $b$ is nonzero. 
+> - Otherwise: 
+> 	- Use the [[The division algorithm|Division Algorithm]] to write $a = bq + r$ (i.e. divide )
+
 (blurb)
 
 ## Examples and Non-Examples
