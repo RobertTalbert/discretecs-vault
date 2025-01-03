@@ -19,7 +19,9 @@ updated:
 > - Otherwise: 
 > 	- Use the [[The division algorithm|Division Algorithm]] to write $a = bq + r$ (i.e. divide $a$ by $b$ to get a quotient, $q$ and remainder, $r$).
 > 	- Reassign the variables by setting $a = b$ and then $b = r$. 
-> 	- Now com
+> 	- Find $\gcd(a,b)$ using the Euclidean Algorithm ([[Recursion|recursively]]) with the new values of $a$ and $b$. 
+> 	  
+> Eventually the remainder $r$ will become 
 
 
 (blurb)
