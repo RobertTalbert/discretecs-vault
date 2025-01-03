@@ -26,10 +26,12 @@ updated:
 
 **Notes**: 
 - The Euclidean Algorithm is [[Recursion|recursive]]: It computes a number by running itself on smaller inputs. 
-- In Python, the Euclidean Algorithm can be implemented as follows:
+- In Python, the Euclidean Algorithm can be implemented as follows, using the [[The modulus operator|modulus operator]] `%` to get the remainder when dividing `a` by `b`:
 ```python
 def euclidean_algorithm(a,b):
-	while b !
+	while b != 0:
+		a,b = b, a % b
+	return abs(a)
 ```
 
 
