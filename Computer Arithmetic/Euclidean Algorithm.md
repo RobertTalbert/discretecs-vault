@@ -66,4 +66,3 @@ Although he misspelled "Euclidean" 😢
 **Other resources:** 
 - [Calculator that uses the Euclidean Algorithm and shows the steps](https://www.calculatorsoup.com/calculators/math/gcf-euclids-algorithm.php) 
 
-## Practice 
