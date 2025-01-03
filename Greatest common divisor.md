@@ -38,7 +38,9 @@ gcd(10,14)
 | 0   | 99  | 99          |
 | 0   | 0   | undefined   |
 
-- Row 4 shows that negati
+- Row 4 shows that negative integers can be involved in GCD computations; however the GCD is always positive, by definition. 
+- Row 5 shows that one of the two integers can be zero; if so, then the GCD is automatically the absolute value of the second integer since every integer [[Divisibility|divides]] zero. 
+- Row 6 reiterates the point that we cannot compute
 
 ## Resources 
 
