@@ -49,8 +49,14 @@ Let's use the Euclidean Algorithm to find $\gcd(500,336)$. Here we will set $a =
 
 Summarized in a table, this looks like: 
 
-| Step 
-
+| Step | $a$ | $b$ | Remainder when dividing $a$ by $b$ |
+| ---- | --- | --- | ---------------------------------- |
+| 1    | 500 | 336 | 164                                |
+| 2    | 336 | 164 | 8                                  |
+| 3    | 164 | 8   | 4                                  |
+| 4    | 8   | 4   | 0                                  |
+| 5    | 4   | 0   | 4 :                                |
+ 
 ## Resources 
 
 (video)
