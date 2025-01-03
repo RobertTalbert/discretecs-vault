@@ -17,7 +17,10 @@ updated:
 > - If $a = 0$, then return $\gcd(a,b) = b$ as the result and stop, because $\gcd(0,b) = b$ as long as $b$ is nonzero. 
 > - If $b = 0$, then return $\gcd(a,b) = a$ as the result and stop, because $\gcd(a,0) = a$ as long as $b$ is nonzero. 
 > - Otherwise: 
-> 	- Use the [[The division algorithm|Division Algorithm]] to write $a = bq + r$ (i.e. divide )
+> 	- Use the [[The division algorithm|Division Algorithm]] to write $a = bq + r$ (i.e. divide $a$ by $b$ to get a quotient, $q$ and remainder, $r$).
+> 	- Reassign the variables by setting $a = b$ and then $b = r$. 
+> 	- Now com
+
 
 (blurb)
 
