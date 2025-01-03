@@ -36,9 +36,10 @@ def euclidean_algorithm(a,b):
 
 ## Examples 
 
-Let's use the Euclidean Algorithm to find $\gcd(500,2025)$. Here we will set $a = 2030$ and $b = 2025$. 
+Let's use the Euclidean Algorithm to find $\gcd(500,336)$. Here we will set $a = 500$ and $b = 336$. 
 
-1. Neither $a$ nor $b$ is zero, so we go to the third bullet in the algorithm use the [[The division algorithm|Division Algorithm]] to divide $a$ by $b$. Acc
+1. Neither $a$ nor $b$ is zero, so we go to the third bullet in the algorithm use the [[The division algorithm|Division Algorithm]] to divide $a$ by $b$. Doing so gives us $500 = (336)(1) + 164$. The remainder is $r = 164$. 
+2. Reassign the variables to set $a = 336$ and $b
 
 
 
