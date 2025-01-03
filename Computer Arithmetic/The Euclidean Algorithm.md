@@ -21,10 +21,12 @@ updated:
 > 	- Reassign the variables by setting $a = b$ and then $b = r$. 
 > 	- Find $\gcd(a,b)$ using the Euclidean Algorithm ([[Recursion|recursively]]) with the new values of $a$ and $b$. 
 > 	  
-> Eventually the remainder $r$ will become 
+> Eventually the remainder $r$ will become zero, at which point one of the first two steps will activate and the algorithm will stop. 
 
 
-(blurb)
+Notes: 
+- The Euclidean Algorithm is [[Recursion|recursive]]: It computes a number using 
+
 
 ## Examples and Non-Examples
 
