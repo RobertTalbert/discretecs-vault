@@ -36,7 +36,9 @@ def euclidean_algorithm(a,b):
 
 ## Examples 
 
-Let's use the Euclidean Algorithm to find $\gcd(2025,2030)$. Here we will use 
+Let's use the Euclidean Algorithm to find $\gcd(2030,2025)$. Here we will set $a = 2030$ and $b = 2025$. 
+
+1. Neither $a$ nor $b$ is zero, so we go to the third bullet in the algorithm use the [[divis]]
 
 
 
