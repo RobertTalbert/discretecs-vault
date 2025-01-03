@@ -1,5 +1,5 @@
 ---
-aliases: [modulus, modulus operator, mod]
+aliases: [modulus, modulus operator, mod, the Modulus operator, the modulus operator]
 --- 
 
 #computer-arithmetic 
