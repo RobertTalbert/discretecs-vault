@@ -1,4 +1,11 @@
 ---
+aliases:
+  - binary addition
+  - base 2 addition
+  - addition in binary
+updated:
+---
+---
 aliases: [binary addition, base 2 addition, addition in binary]
 --- 
 
