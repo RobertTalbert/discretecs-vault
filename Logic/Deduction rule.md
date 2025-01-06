@@ -28,7 +28,9 @@ A natural-language version of this deduction rule might go like this:
 - If it's raining, then my windshield wipers will come on. ($P \rightarrow Q$)
 - It's raining. ($P$)
 - Therefore, my windshield wipers will come on. ($Q$)
-This is a common form of argument known as modus ponens. 
+This is a common form of argument known as [modus ponens](https://en.wikipedia.org/wiki/Modus_ponens). To check to see that this deduction rule is valid, make a [[Truth tables|truth table]] that includes all the [[Atomic and molecular propositions|atomic statements]] and a column for each of the premises and the conclusion: 
+
+| $P$ | $Q$ || $P \rightarrow Q$ | 
 
 
 ## Resources 
