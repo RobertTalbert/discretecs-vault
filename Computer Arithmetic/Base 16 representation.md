@@ -4,7 +4,7 @@ aliases:
   - base 16
   - hexadecimal representation
   - base 16 representation
-updated:
+updated: 2025-01-06
 ---
 
 --- 

@@ -1,18 +1,21 @@
 ---
-aliases: [base conversion algorithm]
---- 
+aliases:
+  - base conversion algorithm
+updated: 2025-01-06
+---
+---
 
 #computer-arithmetic 
 
 ## Process 
 
 > [!tldr] To convert a positive [[Integers|integer]] *from* [[Base 10 representation|base 10]] *to* base $b$ where $b$ is any other number base: 
-> Let $n$ be the integer in base 10 that you want to convert to base $b$. 
+> Let $n$ be the [[Integers|integer]] in base 10 that you want to convert to base $b$. 
 > 1. Divide $n$ by $b$. Let $q_1$ be the quotient (how many times $b$ goes into $n$) and let $r_1$ be the remainder. 
 > 2. Now replace $n$ with $q_1$. Divide $q_1$ by $b$, and let $q_2$ be the new quotient and $r_2$ be the new remainder. 
 > 3. Replace $q_1$ with $q_2$. Divide $q_2$ by $b$, and let $q_3$ be the new quotient and $r_3$ be the new remainder. 
 > 4. Continue these steps (divide the previous quotient by $b$ and keeping the new quotient and new remainder) until the new quotient is $0$. In the final step where the new quotient is $0$, go ahead and keep the. new remainder (which will just be the number you divided into). 
-> 5. The base $b$ representation of the original integer $n$, is **the sequence of remainders written in reverse order**. So, if there were $k$ steps in all, the base $b$ representation is $r_k r_{k-1} r_{k-2} \cdots r_3 r_2 r_1$. 
+> 5. The base $b$ representation of the original [[Integers|integer]] $n$, is **the sequence of remainders written in reverse order**. So, if there were $k$ steps in all, the base $b$ representation is $r_k r_{k-1} r_{k-2} \cdots r_3 r_2 r_1$. 
 
 Notes: 
 - The algorithm here always terminates because the quotients are [[Natural numbers|nonnegative integers]], and at each step must get strictly smaller, and therefore they will always converge to zero. 
