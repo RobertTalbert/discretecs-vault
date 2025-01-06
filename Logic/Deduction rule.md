@@ -56,7 +56,7 @@ The first and third rows are where both premises ($P \rightarrow Q$ and $Q$) are
 
 ## Resources 
 
-(video)
+![](https://www.youtube.com/watch?v=K1mTW6VvUHQ)
 
 Other resources: 
 - 
