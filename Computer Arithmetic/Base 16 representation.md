@@ -1,5 +1,12 @@
 ---
-aliases: [hexadecimal, hexadecimal representation, base 16, base 16 representation]
+aliases:
+  - hexadecimal
+  - base 16
+  - hexadecimal representation
+  - base 16 representation
+updated:
+---
+
 --- 
 
 #computer-arithmetic 

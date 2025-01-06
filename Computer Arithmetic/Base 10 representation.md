@@ -1,5 +1,10 @@
 ---
-aliases: [decimal, base 10]
+aliases:
+  - decimal
+  - base 10
+updated: 2025-01-06
+---
+
 --- 
 #computer-arithmetic 
 
