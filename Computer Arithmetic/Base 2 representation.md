@@ -11,7 +11,7 @@ aliases: [binary, binary representation, base 2, base 2 representation]
 
 Notes: 
 - A group of 8 bits is known as a **byte**. 
-- Every positive integer can in fact be written as a sum of powers of 2 and in only one way. This fact can be proven using [[
+- Every positive integer can in fact be written as a sum of powers of 2 and in only one way. This fact can be proven using [[Mathematical induction|mathematical induction]]. 
 ## Examples 
 
 The number $267$ can be written as a sum of powers of $2$ as follows: 

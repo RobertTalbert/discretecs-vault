@@ -1,6 +1,11 @@
 ---
-aliases: [octal, octal representation, base 8]
---- 
+updated: 2025-01-06
+aliases:
+  - octal
+  - octal representation
+  - base 8
+---
+---
 
 #computer-arithmetic 
 
