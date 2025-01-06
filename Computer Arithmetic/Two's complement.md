@@ -1,11 +1,8 @@
 ---
 aliases:
   - two's complement
-up:
+updated: 2025-01-06
 ---
----
-aliases: [two's complement]
---- 
 
 #computer-arithmetic 
 
