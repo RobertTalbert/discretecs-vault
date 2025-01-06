@@ -16,7 +16,7 @@ updated:
 > A **deduction rule** is an argument form consisting of a collection of [[Propositions|statements]] called the **premises** (plural of the word "premise") and a single statement called the **conclusion**, in which the conclusion is true whenever the premises are all true. In such cases we say the deduction rule is **valid**. 
 
 Notes
-- The term "conclusion" here is not the same as that term used to describe a part of a [[Conditional statements|conditional statement]]. The [[Conditional statements|conclusion]] 
+- The term "conclusion" here is not the same as that term used to describe a part of a [[Conditional statements|conditional statement]]. The [[Conditional statements|conclusion]] of a [[Conditional statements|conditional statement]] is simply the [[Atomic and molecular propositions|atomic statement]] that follows the "then" in the phrase "If $A$, then $B$". For a deduction rule, the conclusion can be a [[Atomic and molecular propositions|molecular statement]]. 
 
 ## Examples and Non-Examples
 
