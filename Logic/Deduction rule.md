@@ -1,6 +1,9 @@
 ---
 aliases:
   - deductions
+  - deduction
+  - Deduction
+  - deduction rule
 tags:
   - logic
 created: 2025-01-06
@@ -10,7 +13,7 @@ updated:
 ## Definition 
 
 > [!tldr] Definition
-> Contents
+> A **deduction rule** is an argument form consisting of a collection of s
 
 (blurb)
 
