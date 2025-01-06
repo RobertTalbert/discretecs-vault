@@ -1,6 +1,11 @@
 ---
-aliases: [base 2 multiplication, binary multiplication]
---- 
+aliases:
+  - binary multiplication
+  - base 2 multiplication
+updated: 2025-01-06
+---
+---
+
 
 #computer-arithmetic 
 
@@ -33,4 +38,4 @@ Other resources:
 
 ## Practice 
 
-To practice this concept: Just make up pairs of random positive integers and convert to binary (or make up pairs of random [[Binary digits and bitstrings|bitstrings]]). Then multiply them. Then check your work by either using the [binary arithmetic calculator](https://www.calculator.net/binary-calculator.html) or by converting the answer to [[Base 10 representation|base 10]] and seeing if it matches what you should get if you multiplied the original integers together in [[Base 10 representation|base 10]]. 
+To practice this concept: Just make up pairs of random positive [[integers]] and convert to [[Base 2 representation|binary]] (or make up pairs of random [[Binary digits and bitstrings|bitstrings]]). Then multiply them. Then check your work by either using the [binary arithmetic calculator](https://www.calculator.net/binary-calculator.html) or by converting the answer to [[Base 10 representation|base 10]] and seeing if it matches what you should get if you multiplied the original [[integers]] together in [[Base 10 representation|base 10]]. 

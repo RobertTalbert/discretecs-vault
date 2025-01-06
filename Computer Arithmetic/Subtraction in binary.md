@@ -21,7 +21,7 @@ Notes:
 
 ## Examples 
 
-Subtract the [[Base 2 representation|base 2]] integers $1101$ and $1010$. That is, find $1101 - 1010$. Note that in base 10, this would be $13 - 10$, so the answer should be $3$ which is $11_2$. 
+Subtract the [[Base 2 representation|base 2]] [[integers]] $1101$ and $1010$. That is, find $1101 - 1010$. Note that in [[Base 10 representation|base 10]], this would be $13 - 10$, so the answer should be $3$ which is $11_2$. 
 1. Subtract [[Binary digits and bitstrings|bits]] in the ones ($2^0$) place: $1-0 = 1$. 
 2. Subtract [[Binary digits and bitstrings|bits]] in the twos ($2^1$) place: We have $0-1$ so we borrow $1$ from the fours ($2^2$) place to make the $0$ into a $10$, then subtract: $10 - 1 = 1$. 
 3. Subtract [[Binary digits and bitstrings|bits]] in the fours ($2^2$) place: This would have been $1-1$ except we borrowed in the previous step, so the first $1$ is now a $0$. Therefore we have $0-0$ which is $0$. 
@@ -40,4 +40,4 @@ Other resources:
 
 ## Practice 
 
-To practice this concept: Just make up pairs of random positive integers and convert to binary (or make up pairs of random [[Binary digits and bitstrings|bitstrings]]). Then subtract them. Then check your work by either using the [binary arithmetic calculator](https://www.calculator.net/binary-calculator.html) or by converting the answer to [[Base 10 representation|base 10]] and seeing if it matches what you should get if you subtracted the original integers together in [[Base 10 representation|base 10]]. 
+To practice this concept: Just make up pairs of random positive [[integers]] and convert to binary (or make up pairs of random [[Binary digits and bitstrings|bitstrings]]). Then subtract them. Then check your work by either using the [binary arithmetic calculator](https://www.calculator.net/binary-calculator.html) or by converting the answer to [[Base 10 representation|base 10]] and seeing if it matches what you should get if you subtracted the original integers together in [[Base 10 representation|base 10]]. 
