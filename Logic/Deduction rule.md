@@ -52,7 +52,7 @@ Again to check validity, we make a truth table that includes all the premises an
 | T   | F   | F                 |                                      |
 | F   | T   | T                 | ⬅                                    |
 | F   | F   | T                 |                                      |
-The first and third rows are where both premises ($P \rightarrow Q$ and $Q$) are true. But, in this case the conclusion ($P$) is not always true: In the third row it shows that the conclusion 
+The first and third rows are where both premises ($P \rightarrow Q$ and $Q$) are true. But, in this case the conclusion ($P$) is not always true: In the third row it shows that the conclusion might be false. In natural language, even though both premises could be true (it's true that rain makes the ground wet, and it's true that the ground is wet), the conclusion doesn't necessarily follow - the ground could be wet for other reasons, like a sprinkler or spilled water.
 
 ## Resources 
 
