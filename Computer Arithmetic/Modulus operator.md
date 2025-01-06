@@ -7,7 +7,7 @@ aliases: [modulus, modulus operator, mod, the Modulus operator, the modulus oper
 ## Definition 
 
 > [!tldr] Definition
-> The **modulus operator** `%` when applied to two integers $a$ and $b$, returns the unique value of the remainder $r$ given by the [[Division algorithm|Division Algorithm]] when dividing $a$ by $b$. 
+> The **modulus operator** `%` when applied to two [[integers]] $a$ and $b$, returns the unique value of the remainder $r$ given by the [[Division algorithm|Division Algorithm]] when dividing $a$ by $b$. 
 
 Notes:
 - The symbol `%` is used in Python and many other languages to implement the modulus operator. 
@@ -18,8 +18,8 @@ Notes:
 
 ## Examples and Non-Examples
 
-- `100 % 8 = 4` because $8$ divides $100$, $12$ times with a remainder of $4$. 
-- `100 % 5 = 0` because $5$ evenly divides $100$. 
+- `100 % 8 = 4` because $8$ [[Divisibility|divides]] $100$, $12$ times with a remainder of $4$. 
+- `100 % 5 = 0` because $5$ evenly [[Divisibility|divides]] $100$. 
 - `225225 % 14 = 9`
  
 

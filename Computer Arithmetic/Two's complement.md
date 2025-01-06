@@ -1,4 +1,9 @@
 ---
+aliases:
+  - two's complement
+up:
+---
+---
 aliases: [two's complement]
 --- 
 
@@ -7,11 +12,11 @@ aliases: [two's complement]
 ## Definition/Process 
 
 > [!tldr] Process
-> Two's complement is a method of representing a *negative* [[Integers|integer]] in [[Base 2 representation|binary]]. To put a negative integer in two's complement notation: 
-> 1. Decide on the number of [[Binary digits and bitstrings|bits]] to use for the representation. (This often depends on the architecture of the computer system, e.g. an 8-bit system or a 64-bit system.) The number of bits to use must be greater than the length of the binary representation of the positive version of your number. 
-> 2. Take the negative number in [[Base 10 representation|base 10]] and write its *positive* version in base 2 (using the [[Base conversion algorithm|base conversion algorithm]]), padding the front of the bit string with extra 
-> 3. Flip all the bits in this binary integer -- change all `0`s to `1`s and vice versa. 
-> 4. Using [[Addition in binary|binary addition]], add `1` to this binary integer. 
+> Two's complement is a method of representing a *negative* [[Integers|integer]] in [[Base 2 representation|binary]]. To put a negative [[Integers|integer]] in two's complement notation: 
+> 1. Decide on the number of [[Binary digits and bitstrings|bits]] to use for the representation. (This often depends on the architecture of the computer system, e.g. an 8-bit system or a 64-bit system.) The number of [[Binary digits and bitstrings|bits]] to use must be greater than the length of the [[Base 2 representation|binary]] representation of the positive version of your number. 
+> 2. Take the negative number in [[Base 10 representation|base 10]] and write its *positive* version in [[Base 2 representation|base 2]] (using the [[Base conversion algorithm|base conversion algorithm]]), padding the front of the bit string with extra 
+> 3. Flip all the [[Binary digits and bitstrings|bits]] in this [[Base 2 representation|binary]] integer -- change all `0`s to `1`s and vice versa. 
+> 4. Using [[Addition in binary|binary addition]], add `1` to this [[Base 2 representation|binary]] integer. 
 > 
 > The result is the two's complement representation of the original negative integer. 
 >
