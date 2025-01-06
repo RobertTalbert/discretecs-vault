@@ -21,7 +21,7 @@ updated:
 
 ## Examples and Non-Examples
 
-
+**Example**: Consider the deduction rule whose premises are the two [[Propositions|statements]] $P \rightarrow Q$ and $P$, and in which the conclusion is $Q$. We
 
 ## Resources 
 
