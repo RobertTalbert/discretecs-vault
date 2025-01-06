@@ -38,7 +38,10 @@ To check to see that this deduction rule is valid, make a [[Truth tables|truth t
 | F   | F   | T                 |                                     |
  There is only one condition where both premises are true, shown in the first row. And in that row, the conclusion $Q$ is also true. Therefore the deduction rule is valid. In fact, this is a common form of argument known as [modus ponens](https://en.wikipedia.org/wiki/Modus_ponens). 
 
-**Non-Example:** 
+**Non-Example:** A slight variation on the *modus ponens* argument is this: 
+$$\begin{array}{c} P \to Q \\[8pt] Q \\[8pt] \overline{\hspace{2cm}} \\[8pt] \therefore P \end{array}$$
+In natural language this might sound like: 
+- 
 
 ## Resources 
 
