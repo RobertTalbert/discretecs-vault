@@ -39,7 +39,7 @@ def convert_to_base(number, base):
 
 ## Examples
 
-Converting the base 10 integer $42$ to [[Base 2 representation|binary]] ([[Base 2 representation|base 2]]): 
+Converting the [[Base 10 representation|base 10]] integer $42$ to [[Base 2 representation|binary]] ([[Base 2 representation|base 2]]): 
 
 1. Divide $42$ by $2$ and keep the quotient and remainder: $q_1 = 21, r_1 = 0$
 2. Divide $q_1$ by $2$ and keep the quotient and remainder: $q_2 = 10, r_2 = 1$
@@ -49,16 +49,16 @@ Converting the base 10 integer $42$ to [[Base 2 representation|binary]] ([[Base 
 6. Divide $q_5$ by $2$ and keep the quotient and remainder: $q_6 = 0, r_1 = 1$. This is because $2$ goes into $1$ zero times, with a remainder of $1$. 
 7. The quotient equalled zero, so stop and return the remainders in reverse order: $101010$. That is, $42_{10} = 101010_2$. 
 
-Convert the [[Base 10 representation|base 10]] integer 42 to base $9$: 
+Convert the [[Base 10 representation|base 10]] [[Integers|integer]] 42 to base $9$: 
 1. Divide $42$ by $9$ and keep the quotient and remainder: $q_1 = 4, r_1 = 6$
 2. Divide $4$ by $9$ and keep the quotient and remainder: $q_2 = 0, r_2 = 4$
 3. The quotient equalled zero, so stop and return the remainders in reverse order: $46$. That is, $42_{10} = 46_9$. 
 
-Convert the base 10 integer 420 to [[Base 16 representation|hexadecimal]] (base 16): 
+Convert the [[Base 10 representation|base 10]] integer 420 to [[Base 16 representation|hexadecimal]] ([[Base 16 representation|base 16]]): 
 1. Divide $420$ by $16$ and keep the quotient and remainder: $q_1 = 26, r_1 = 4$
 2. Divide $26$ by $16$ and keep the quotient and remainder: $q_2 = 1, r_2= 10$
 3. Divide $1$ by $16$ and keep the quotient and remainder:  $q_3 = 0, r_3 = 1$
-4. The quotient equalled zero, so stop and return the remainders in reverse order. But notice we can't use "10" as one of the remainders because it would be ambiguous (is it 10, or a 1 in one place and a 0 in another?). So we have to convert $10$ to $A$ in base 16 first. Having done that, the [[base 16 representation]] is $1A4$. That is, $420_{10} = 1A4_{16}$. 
+4. The quotient equalled zero, so stop and return the remainders in reverse order. But notice we can't use "10" as one of the remainders because it would be ambiguous (is it 10, or a 1 in one place and a 0 in another?). So we have to convert $10$ to $A$ in [[Base 16 representation|base 16]] first. Having done that, the [[base 16 representation]] is $1A4$. That is, $420_{10} = 1A4_{16}$. 
 ## Resources 
 
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/578187581?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Screencast 1.3: Base 10 conversion algorithm"></iframe></div>
@@ -70,6 +70,6 @@ Other resources:
 
 ## Practice 
 To practice this concept: 
-- Generate a random integer in base 10 and a random base (or use one of our standard bases: $2$, $8$, or $16$). 
+- Generate a random integer in [[Base 10 representation|base 10]] and a random base (or use one of our standard bases: $2$, $8$, or $16$). 
 - Follow the algorithm to convert from [[Base 10 representation|base 10]] to your chosen base. 
 - Check your work using the Python code above, or one of the base conversion calculators found [here](https://www.rapidtables.com/convert/number/index.html). 

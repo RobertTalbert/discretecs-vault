@@ -1,14 +1,17 @@
 ---
-aliases: [base 10 conversion]
---- 
+aliases:
+  - base 10 conversion
+updated: 2025-01-06
+---
+---
 
 #computer-arithmetic 
 
 ## Process
 
 > [!summary] To convert an [[Integers|integer]] *from* any number base *to* [[Base 10 representation|base 10]]: 
-> - Make a note of the base that the integer is using ([[Base 2 representation|base 2]], [[Base 8 representation|base 8]], [[Base 16 representation|base 16]], etc.)
-> - Write out the integer as a sum of copies of powers of the base, using the digits as multipliers
+> - Make a note of the base that the [[Integers|integer]] is using ([[Base 2 representation|base 2]], [[Base 8 representation|base 8]], [[Base 16 representation|base 16]], etc.)
+> - Write out the [[Integers|integer]] as a sum of copies of powers of the base, using the digits as multipliers
 > - Perform the arithmetic that results in [[Base 10 representation|base 10]]. 
 
 To convert *from* [[Base 10 representation|decimal]] *to* a different base, see the article on the [[base conversion algorithm]]. 
@@ -20,10 +23,10 @@ To convert from a *non-decimal base* to *another non-decimal base* (e.g. [[Base 
 Example: Convert $100111_{2}$ to base 10. 
 
 - The base is 2. 
-- Use the digits to write the integer as a sum of powers of 2: $100111_{2} = 1 \times 2^5 + 0 \times 2^4 + 0 \times 2^3 + 1 \times 2^2 + 1 \times 2^1 + 1 \times 2^0$. 
-- Do the arithmetic: $1 \times 2^5 + 0 \times 2^4 + 0 \times 2^3 + 1 \times 2^2 + 1 \times 2^1 + 1 \times 2^0 = 32 + 4 + 2 + 1 = 39$ in base 10. 
+- Use the digits to write the [[Integers|integer]] as a sum of powers of 2: $100111_{2} = 1 \times 2^5 + 0 \times 2^4 + 0 \times 2^3 + 1 \times 2^2 + 1 \times 2^1 + 1 \times 2^0$. 
+- Do the arithmetic: $1 \times 2^5 + 0 \times 2^4 + 0 \times 2^3 + 1 \times 2^2 + 1 \times 2^1 + 1 \times 2^0 = 32 + 4 + 2 + 1 = 39$ in [[Base 10 representation|base 10]]. 
 
-Example: Convert $BD7_{16}$ to base 10. 
+Example: Convert $BD7_{16}$ to [[Base 10 representation|base 10]]. 
 
 - The base is 16. 
 - Use the digits to write the integer as a sum of powers of 16: $BD7_{16} = 11 \times 16^2 + 13 \times 16^1 + 7 \times 16^0$. 
