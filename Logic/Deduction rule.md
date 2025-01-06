@@ -46,13 +46,13 @@ In natural language this might sound like:
 - Therefore it must have rained ($P$). 
 Again to check validity, we make a truth table that includes all the premises and the conclusion. This uses the same truth table as before, but we will check it differently: 
 
-| $P$ | $Q$ | $P \rightarrow Q$ | Row in which both premises are true |
-| --- | --- | ----------------- | ----------------------------------- |
-| T   | T   | T                 |                                     |
-| T   | F   | F                 |                                     |
-| F   | T   | T                 | ⬅                                   |
-| F   | F   | T                 |                                     |
-The third row is the o
+| $P$ | $Q$ | $P \rightarrow Q$ | Rows in which both premises are true |
+| --- | --- | ----------------- | ------------------------------------ |
+| T   | T   | T                 | ⬅                                    |
+| T   | F   | F                 |                                      |
+| F   | T   | T                 | ⬅                                    |
+| F   | F   | T                 |                                      |
+The first and third rows are where both premises ($P \rightarrow Q$ and $Q$) are true. But, in this case the conclusion ($P$) is not always true: In the third row it shows that the conclusion 
 
 ## Resources 
 
