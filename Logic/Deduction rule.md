@@ -24,6 +24,9 @@ updated:
 **Example**: Consider the deduction rule whose premises are the two [[Propositions|statements]] $P \rightarrow Q$ and $P$, and in which the conclusion is $Q$. We sometimes denote this in a table-like form: 
 
 $$\begin{array}{c} P \to Q \\[8pt] P \\[8pt] \overline{\hspace{2cm}} \\[8pt] \therefore Q \end{array}$$
+A natural-language version of this deduction rule might go like this: 
+- If it's raining, then my windshield wipers will c
+
 
 ## Resources 
 
