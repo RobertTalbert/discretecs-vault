@@ -1,6 +1,10 @@
 ---
-aliases: [binary subtraction, base 2 subtraction]
---- 
+updated: 2025-01-06
+aliases:
+  - binary subtraction
+  - base 2 subtraction
+---
+---
 
 #computer-arithmetic 
 
@@ -13,7 +17,7 @@ aliases: [binary subtraction, base 2 subtraction]
 > 3. Continue this process of subtracting, borrowing from the next higher place if needed, until we reach the left end of the [[Binary digits and bitstrings|bitstring]]. 
 
 Notes: 
-- It's also possible to "subtract" $b$ from $a$ by finding the [[Base 2 representation|binary]] form of $b$ using two's complement notation, then using [[Addition in binary|binary addition]] to add this to $a$. However there are potential issues with the bit size; the procedure outlined above has no such restrictions. 
+- It's also possible to "subtract" $b$ from $a$ by finding the [[Base 2 representation|binary]] form of $b$ using [[two's complement]] notation, then using [[Addition in binary|binary addition]] to add this to $a$. However there are potential issues with the bit size; the procedure outlined above has no such restrictions. 
 
 ## Examples 
 

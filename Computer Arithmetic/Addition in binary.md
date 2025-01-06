@@ -3,11 +3,10 @@ aliases:
   - binary addition
   - base 2 addition
   - addition in binary
-updated:
+updated: 2025-01-06
 ---
 ---
-aliases: [binary addition, base 2 addition, addition in binary]
---- 
+
 
 #computer-arithmetic 
 
@@ -23,7 +22,7 @@ aliases: [binary addition, base 2 addition, addition in binary]
 
 ## Examples 
 
-Add the [[Base 2 representation|base 2]] integers $1011$ and $1010$. 
+Add the [[Base 2 representation|base 2]] [[integers]] $1011$ and $1010$. 
 
 1. Add the ones digits: `1+0 = 1`. Record the `1` as the result. There's no carried `1` here so move on. 
 2. Add the twos digits: `1+1 = 10`. Record `0` as the result and carry the `1`. 
@@ -45,4 +44,4 @@ Other resources:
 
 ## Practice 
 
-To practice this concept: Just make up pairs of random positive integers and convert to binary (or make up pairs of random bitstrings). Then add them. Then check your work by either using the [binary arithmetic calculator](https://www.calculator.net/binary-calculator.html) or by converting the answer to [[Base 10 representation|base 10]] and seeing if it matches what you should get if you added the original integers together in [[Base 10 representation|base 10]]. 
+To practice this concept: Just make up pairs of random positive [[integers]] and convert to [[Base 2 representation|binary]] (or make up pairs of random bitstrings). Then add them. Then check your work by either using the [binary arithmetic calculator](https://www.calculator.net/binary-calculator.html) or by converting the answer to [[Base 10 representation|base 10]] and seeing if it matches what you should get if you added the original integers together in [[Base 10 representation|base 10]]. 
