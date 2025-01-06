@@ -14,7 +14,7 @@ updated:
 
 > [!tldr] Definition
 > 1. The **floor function**, denoted $f(x) = \lfloor x \rfloor$, is a [[Function|function]] from the set of real numbers to the set of [[Integers|integers]] defined by taking the input and rounding down to the next lower integer. 
-> 2. The **ceiling function**, denoted $g(x) = \lceil x \rceil$, is a [[Function|function]] from the set of real numbers to the set of [[Integers|integers]] defined by taking the input and rounding up to the next higher integer. 
+> 2. The **ceiling function**, denoted $g(x) = \lceil x \rceil$, is a [[Function|function]] from the [[set]] of real numbers to the [[set]] of [[Integers|integers]] defined by taking the input and rounding up to the next higher [[Integers|integer]]. 
 
 Notes: 
 - In Python, the floor and ceiling functions are accessed by first loading the `math` library and then accessing `floor` or `ceil` as methods: 
@@ -46,8 +46,8 @@ Ceiling[-4.5]
 | $\lfloor 3.99999\rfloor$  | $3$                                      |
 | $\lceil 3.0000001 \rceil$ | $4$                                      |
 |    $\lfloor 5 \rfloor$    | $5$                                      |
-|  $\lfloor -4.3 \rfloor$   | $-5$ (go down to the next lower integer) |
-|   $\lceil -5.6 \rceil$    | $-5$ (go up to the next higher integer)  |
+|  $\lfloor -4.3 \rfloor$   | $-5$ (go down to the next lower [[Integers\|integer]]) |
+|   $\lceil -5.6 \rceil$    | $-5$ (go up to the next higher [[Integers\|integer]])  |
 
 ## Resources 
 
