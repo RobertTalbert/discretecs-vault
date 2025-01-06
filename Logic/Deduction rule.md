@@ -59,6 +59,4 @@ The first and third rows are where both premises ($P \rightarrow Q$ and $Q$) are
 ![](https://www.youtube.com/watch?v=K1mTW6VvUHQ)
 
 Other resources: 
-- 
-
-## Practice 
+- [Resource sheet with more examples, that involve truth tables](https://global.uwi.edu/sites/default/files/bnccde/logic/symboliclogic3a.pdf)
