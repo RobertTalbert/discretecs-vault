@@ -41,7 +41,10 @@ To check to see that this deduction rule is valid, make a [[Truth tables|truth t
 **Non-Example:** A slight variation on the *modus ponens* argument is this: 
 $$\begin{array}{c} P \to Q \\[8pt] Q \\[8pt] \overline{\hspace{2cm}} \\[8pt] \therefore P \end{array}$$
 In natural language this might sound like: 
-- 
+- If it rains ($P$), then the ground is wet ($Q$). 
+- The ground is wet ($Q$). 
+- Therefore it must have rained ($P$). 
+Again to check validity, we make a truth table that includes all the premises and the conclusion. This 
 
 ## Resources 
 
