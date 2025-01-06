@@ -7,11 +7,11 @@ aliases: [binary, binary representation, base 2, base 2 representation]
 ## Definition 
 
 > [!tldr] Definition
-> An [[Integers|integer]] is written in **base 2** or **binary** format if it consists of a string of the numbers $0$ and $1$, called **[[binary digits]]** or "**bits**",  that represent groupings of powers of 2. 
+> An [[Integers|integer]] is written in **base 2** or **binary** format if it consists of a string of the numbers $0$ and $1$, called **[[Binary digits and bitstrings|binary digits]]** or "**[[Binary digits and bitstrings|bits]]**",  that represent groupings of powers of 2. 
 
 Notes: 
 - A group of 8 bits is known as a **byte**. 
-- Every positive integer can in fact be written as a sum of powers of 2 and in only one way. This fact can be proven using [[Logic/Mathematical induction]].
+- Every positive integer can in fact be written as a sum of powers of 2 and in only one way. This fact can be proven using [[
 ## Examples 
 
 The number $267$ can be written as a sum of powers of $2$ as follows: 
