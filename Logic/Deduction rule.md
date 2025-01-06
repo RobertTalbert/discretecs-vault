@@ -13,7 +13,7 @@ updated:
 ## Definition 
 
 > [!tldr] Definition
-> A **deduction rule** is an argument form consisting of a collection of s
+> A **deduction rule** is an argument form consisting of a collection of [[Propositions|statements]] called the **premises** (plural of the word "premise") and a single statement called the **conclusion**, in which the conclusion is true 
 
 (blurb)
 
