@@ -7,13 +7,13 @@ aliases:
 tags:
   - basic-concepts
 created: 2024-07-01
-updated:
+updated: 2025-01-06
 ---
 ---
 ## Definition 
 
 > [!tldr] Definition
-> 1. The **floor function**, denoted $f(x) = \lfloor x \rfloor$, is a [[Function|function]] from the set of real numbers to the set of [[Integers|integers]] defined by taking the input and rounding down to the next lower integer. 
+> 1. The **floor function**, denoted $f(x) = \lfloor x \rfloor$, is a [[Function|function]] from the [[set]] of real numbers to the [[set]] of [[Integers|integers]] defined by taking the input and rounding down to the next lower [[Integers|integer]]. 
 > 2. The **ceiling function**, denoted $g(x) = \lceil x \rceil$, is a [[Function|function]] from the [[set]] of real numbers to the [[set]] of [[Integers|integers]] defined by taking the input and rounding up to the next higher [[Integers|integer]]. 
 
 Notes: 
