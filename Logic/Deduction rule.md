@@ -25,7 +25,10 @@ updated:
 
 $$\begin{array}{c} P \to Q \\[8pt] P \\[8pt] \overline{\hspace{2cm}} \\[8pt] \therefore Q \end{array}$$
 A natural-language version of this deduction rule might go like this: 
-- If it's raining, then my windshield wipers will c
+- If it's raining, then my windshield wipers will come on. ($P \rightarrow Q$)
+- It's raining. ($P$)
+- Therefore, my windshield wipers will come on. ($Q$)
+This is a common form of argument known as modus ponens. 
 
 
 ## Resources 
