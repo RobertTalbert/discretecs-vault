@@ -28,14 +28,15 @@ A natural-language version of this deduction rule might go like this:
 - If it's raining, then my windshield wipers will come on. ($P \rightarrow Q$)
 - It's raining. ($P$)
 - Therefore, my windshield wipers will come on. ($Q$)
-This is a common form of argument known as [modus ponens](https://en.wikipedia.org/wiki/Modus_ponens). To check to see that this deduction rule is valid, make a [[Truth tables|truth table]] that includes all the [[Atomic and molecular propositions|atomic statements]] and a column for each of the premises and the conclusion: 
+To check to see that this deduction rule is valid, make a [[Truth tables|truth table]] that includes all the [[Atomic and molecular propositions|atomic statements]] and a column for each of the premises and the conclusion: 
 
 | $P$ | $Q$ | $P \rightarrow Q$ | Row in which both premises are true |
 | --- | --- | ----------------- | ----------------------------------- |
 | T   | T   | T                 | ⬅                                   |
 | T   | F   | F                 |                                     |
-| F   | T   |                   |                                     |
- 
+| F   | T   | T                 |                                     |
+| F   | F   | T                 |                                     |
+ There is only one condition where both premises are true, shown in the first row. And in that row, the conclusion $Q$ is also true. Therefore the deduction rule is valid. In fact, This is a common form of argument known as [modus ponens](https://en.wikipedia.org/wiki/Modus_ponens). 
 
 ## Resources 
 
