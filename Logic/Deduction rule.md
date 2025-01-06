@@ -36,7 +36,9 @@ To check to see that this deduction rule is valid, make a [[Truth tables|truth t
 | T   | F   | F                 |                                     |
 | F   | T   | T                 |                                     |
 | F   | F   | T                 |                                     |
- There is only one condition where both premises are true, shown in the first row. And in that row, the conclusion $Q$ is also true. Therefore the deduction rule is valid. In fact, This is a common form of argument known as [modus ponens](https://en.wikipedia.org/wiki/Modus_ponens). 
+ There is only one condition where both premises are true, shown in the first row. And in that row, the conclusion $Q$ is also true. Therefore the deduction rule is valid. In fact, this is a common form of argument known as [modus ponens](https://en.wikipedia.org/wiki/Modus_ponens). 
+
+**Non-Example:** 
 
 ## Resources 
 
