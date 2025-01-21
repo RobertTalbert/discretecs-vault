@@ -1,6 +1,9 @@
 ---
 aliases:
   - logically equivalent
+tags:
+  - logic
+updated: 2025-01-21
 ---
 ---
 
@@ -41,8 +44,11 @@ Likewise, one of [[DeMorgan's Laws]] states that $\neg(P \vee Q) \equiv (\neg P)
 | True  | False | True       | False                                   | False    | True     | False                                             |
 | False | True  | True       | False                                   | True     | False    | False                                             |
 | False | False | False      | True                                    | True     | True     | True                                                  |
-\
+
 ## Resources 
+
+![](https://www.youtube.com/watch?v=oY8Xt5GvZ1g)
+
 
 - Book section: [Logically equivalent statements](<https://math.libretexts.org/Bookshelves/Mathematical_Logic_and_Proof/Book%3A_Mathematical_Reasoning__Writing_and_Proof_(Sundstrom)/02%3A_Logical_Reasoning/2.02%3A_Logically_Equivalent_Statements>)
 - Tutorial: [Logical equivalence](https://www.csm.ornl.gov/~sheldon/ds/sec1.1.html#:~:text=Two%20statement%20forms%20are%20logically,each%20variation%20of%20statement%20variables.&text=p%20q%20and%20q%20p,so%20they%20are%20logically%20equivalent.)
